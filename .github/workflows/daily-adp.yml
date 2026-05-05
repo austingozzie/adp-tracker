@@ -1,0 +1,33 @@
+name: Daily ADP Update
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-adp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests beautifulsoup4
+      - run: python fetch_adp.py
+      - name: Send email
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASS: ${{ secrets.GMAIL_APP_PASS }}
+          SEND_TO: ${{ secrets.SEND_TO }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+        run: python send_adp_email.py
+      - name: Commit data
+        run: |
+          git config user.name "ADP Bot"
+          git config user.email "actions@github.com"
+          git add adp-data.json
+          git diff --staged --quiet || git commit -m "Daily ADP update $(date +'%Y-%m-%d')"
+          git push
