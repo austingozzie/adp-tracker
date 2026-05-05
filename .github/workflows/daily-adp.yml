@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -26,9 +23,7 @@ jobs:
           SITE_URL: ${{ secrets.SITE_URL }}
         run: python send_adp_email.py
       - name: Commit data
-        run: |
-          git config user.name "ADP Bot"
-          git config user.email "actions@github.com"
-          git add adp-data.json
-          git diff --staged --quiet || git commit -m "Daily ADP update $(date +'%Y-%m-%d')"
-          git push --force origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily ADP update"
+          file_pattern: adp-data.json
