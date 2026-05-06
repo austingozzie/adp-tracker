@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05 06:01",
+  "updated": "2026-05-06 05:00",
   "source": "FantasyPros / Underdog Fantasy",
   "players": [
     {
@@ -10,6 +10,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 1.0
+        },
+        {
+          "date": "May 6",
           "adp": 1.0
         }
       ]
@@ -23,6 +27,10 @@
         {
           "date": "May 5",
           "adp": 2.0
+        },
+        {
+          "date": "May 6",
+          "adp": 2.0
         }
       ]
     },
@@ -34,6 +42,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 3.0
+        },
+        {
+          "date": "May 6",
           "adp": 3.0
         }
       ]
@@ -47,6 +59,10 @@
         {
           "date": "May 5",
           "adp": 4.0
+        },
+        {
+          "date": "May 6",
+          "adp": 4.0
         }
       ]
     },
@@ -58,6 +74,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 5.0
+        },
+        {
+          "date": "May 6",
           "adp": 5.0
         }
       ]
@@ -71,6 +91,10 @@
         {
           "date": "May 5",
           "adp": 7.0
+        },
+        {
+          "date": "May 6",
+          "adp": 7.0
         }
       ]
     },
@@ -82,6 +106,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 6.0
+        },
+        {
+          "date": "May 6",
           "adp": 6.0
         }
       ]
@@ -95,6 +123,10 @@
         {
           "date": "May 5",
           "adp": 8.0
+        },
+        {
+          "date": "May 6",
+          "adp": 8.0
         }
       ]
     },
@@ -106,6 +138,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 11.0
+        },
+        {
+          "date": "May 6",
           "adp": 11.0
         }
       ]
@@ -119,6 +155,10 @@
         {
           "date": "May 5",
           "adp": 10.0
+        },
+        {
+          "date": "May 6",
+          "adp": 10.0
         }
       ]
     },
@@ -130,6 +170,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 9.0
+        },
+        {
+          "date": "May 6",
           "adp": 9.0
         }
       ]
@@ -143,6 +187,10 @@
         {
           "date": "May 5",
           "adp": 12.0
+        },
+        {
+          "date": "May 6",
+          "adp": 12.0
         }
       ]
     },
@@ -154,6 +202,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 13.0
+        },
+        {
+          "date": "May 6",
           "adp": 13.0
         }
       ]
@@ -167,6 +219,10 @@
         {
           "date": "May 5",
           "adp": 14.0
+        },
+        {
+          "date": "May 6",
+          "adp": 14.0
         }
       ]
     },
@@ -178,6 +234,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 24.0
+        },
+        {
+          "date": "May 6",
           "adp": 24.0
         }
       ]
@@ -191,6 +251,10 @@
         {
           "date": "May 5",
           "adp": 15.0
+        },
+        {
+          "date": "May 6",
+          "adp": 15.0
         }
       ]
     },
@@ -202,6 +266,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 19.0
+        },
+        {
+          "date": "May 6",
           "adp": 19.0
         }
       ]
@@ -215,6 +283,10 @@
         {
           "date": "May 5",
           "adp": 16.0
+        },
+        {
+          "date": "May 6",
+          "adp": 16.0
         }
       ]
     },
@@ -227,18 +299,10 @@
         {
           "date": "May 5",
           "adp": 20.0
-        }
-      ]
-    },
-    {
-      "name": "Jeremiyah Love",
-      "team": "ARI",
-      "pos": "RB",
-      "adp": 23.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 23.0
+          "date": "May 6",
+          "adp": 20.0
         }
       ]
     },
@@ -250,6 +314,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 21.0
+        },
+        {
+          "date": "May 6",
           "adp": 21.0
         }
       ]
@@ -263,6 +331,10 @@
         {
           "date": "May 5",
           "adp": 17.0
+        },
+        {
+          "date": "May 6",
+          "adp": 17.0
         }
       ]
     },
@@ -274,6 +346,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 18.0
+        },
+        {
+          "date": "May 6",
           "adp": 18.0
         }
       ]
@@ -287,6 +363,26 @@
         {
           "date": "May 5",
           "adp": 22.0
+        },
+        {
+          "date": "May 6",
+          "adp": 22.0
+        }
+      ]
+    },
+    {
+      "name": "Jeremiyah Love",
+      "team": "ARI",
+      "pos": "RB",
+      "adp": 23.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 23.0
+        },
+        {
+          "date": "May 6",
+          "adp": 23.0
         }
       ]
     },
@@ -298,6 +394,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 29.0
+        },
+        {
+          "date": "May 6",
           "adp": 29.0
         }
       ]
@@ -311,6 +411,10 @@
         {
           "date": "May 5",
           "adp": 25.0
+        },
+        {
+          "date": "May 6",
+          "adp": 25.0
         }
       ]
     },
@@ -322,6 +426,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 26.0
+        },
+        {
+          "date": "May 6",
           "adp": 26.0
         }
       ]
@@ -335,18 +443,10 @@
         {
           "date": "May 5",
           "adp": 27.0
-        }
-      ]
-    },
-    {
-      "name": "Chris Olave",
-      "team": "NO",
-      "pos": "WR",
-      "adp": 35.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 35.0
+          "date": "May 6",
+          "adp": 27.0
         }
       ]
     },
@@ -359,6 +459,26 @@
         {
           "date": "May 5",
           "adp": 28.0
+        },
+        {
+          "date": "May 6",
+          "adp": 28.0
+        }
+      ]
+    },
+    {
+      "name": "Chris Olave",
+      "team": "NO",
+      "pos": "WR",
+      "adp": 35.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 35.0
+        },
+        {
+          "date": "May 6",
+          "adp": 35.0
         }
       ]
     },
@@ -370,6 +490,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 34.0
+        },
+        {
+          "date": "May 6",
           "adp": 34.0
         }
       ]
@@ -383,6 +507,10 @@
         {
           "date": "May 5",
           "adp": 30.0
+        },
+        {
+          "date": "May 6",
+          "adp": 30.0
         }
       ]
     },
@@ -394,6 +522,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 33.0
+        },
+        {
+          "date": "May 6",
           "adp": 33.0
         }
       ]
@@ -407,6 +539,10 @@
         {
           "date": "May 5",
           "adp": 32.0
+        },
+        {
+          "date": "May 6",
+          "adp": 32.0
         }
       ]
     },
@@ -418,6 +554,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 37.0
+        },
+        {
+          "date": "May 6",
           "adp": 37.0
         }
       ]
@@ -431,6 +571,10 @@
         {
           "date": "May 5",
           "adp": 36.0
+        },
+        {
+          "date": "May 6",
+          "adp": 36.0
         }
       ]
     },
@@ -443,6 +587,26 @@
         {
           "date": "May 5",
           "adp": 38.0
+        },
+        {
+          "date": "May 6",
+          "adp": 38.0
+        }
+      ]
+    },
+    {
+      "name": "Colston Loveland",
+      "team": "CHI",
+      "pos": "TE",
+      "adp": 45.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 45.0
+        },
+        {
+          "date": "May 6",
+          "adp": 45.0
         }
       ]
     },
@@ -454,6 +618,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 31.0
+        },
+        {
+          "date": "May 6",
           "adp": 31.0
         }
       ]
@@ -467,18 +635,10 @@
         {
           "date": "May 5",
           "adp": 39.0
-        }
-      ]
-    },
-    {
-      "name": "Colston Loveland",
-      "team": "CHI",
-      "pos": "TE",
-      "adp": 45.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 45.0
+          "date": "May 6",
+          "adp": 39.0
         }
       ]
     },
@@ -490,6 +650,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 43.0
+        },
+        {
+          "date": "May 6",
           "adp": 43.0
         }
       ]
@@ -503,6 +667,10 @@
         {
           "date": "May 5",
           "adp": 40.0
+        },
+        {
+          "date": "May 6",
+          "adp": 40.0
         }
       ]
     },
@@ -514,6 +682,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 54.0
+        },
+        {
+          "date": "May 6",
           "adp": 54.0
         }
       ]
@@ -527,6 +699,10 @@
         {
           "date": "May 5",
           "adp": 41.0
+        },
+        {
+          "date": "May 6",
+          "adp": 41.0
         }
       ]
     },
@@ -538,6 +714,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 42.0
+        },
+        {
+          "date": "May 6",
           "adp": 42.0
         }
       ]
@@ -551,18 +731,10 @@
         {
           "date": "May 5",
           "adp": 48.0
-        }
-      ]
-    },
-    {
-      "name": "DJ Moore",
-      "team": "BUF",
-      "pos": "WR",
-      "adp": 53.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 53.0
+          "date": "May 6",
+          "adp": 48.0
         }
       ]
     },
@@ -570,11 +742,15 @@
       "name": "Cam Skattebo",
       "team": "NYG",
       "pos": "RB",
-      "adp": 50.0,
+      "adp": 49.0,
       "history": [
         {
           "date": "May 5",
           "adp": 50.0
+        },
+        {
+          "date": "May 6",
+          "adp": 49.0
         }
       ]
     },
@@ -587,6 +763,26 @@
         {
           "date": "May 5",
           "adp": 52.0
+        },
+        {
+          "date": "May 6",
+          "adp": 52.0
+        }
+      ]
+    },
+    {
+      "name": "DJ Moore",
+      "team": "BUF",
+      "pos": "WR",
+      "adp": 53.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 53.0
+        },
+        {
+          "date": "May 6",
+          "adp": 53.0
         }
       ]
     },
@@ -599,18 +795,10 @@
         {
           "date": "May 5",
           "adp": 46.0
-        }
-      ]
-    },
-    {
-      "name": "Quinshon Judkins",
-      "team": "CLE",
-      "pos": "RB",
-      "adp": 55.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 55.0
+          "date": "May 6",
+          "adp": 46.0
         }
       ]
     },
@@ -623,6 +811,26 @@
         {
           "date": "May 5",
           "adp": 62.0
+        },
+        {
+          "date": "May 6",
+          "adp": 62.0
+        }
+      ]
+    },
+    {
+      "name": "Quinshon Judkins",
+      "team": "CLE",
+      "pos": "RB",
+      "adp": 55.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 55.0
+        },
+        {
+          "date": "May 6",
+          "adp": 55.0
         }
       ]
     },
@@ -635,18 +843,10 @@
         {
           "date": "May 5",
           "adp": 47.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylen Waddle",
-      "team": "DEN",
-      "pos": "WR",
-      "adp": 49.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 49.0
+          "date": "May 6",
+          "adp": 47.0
         }
       ]
     },
@@ -659,6 +859,26 @@
         {
           "date": "May 5",
           "adp": 44.0
+        },
+        {
+          "date": "May 6",
+          "adp": 44.0
+        }
+      ]
+    },
+    {
+      "name": "Jaylen Waddle",
+      "team": "DEN",
+      "pos": "WR",
+      "adp": 50.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 49.0
+        },
+        {
+          "date": "May 6",
+          "adp": 50.0
         }
       ]
     },
@@ -671,18 +891,10 @@
         {
           "date": "May 5",
           "adp": 51.0
-        }
-      ]
-    },
-    {
-      "name": "Drake Maye",
-      "team": "NE",
-      "pos": "QB",
-      "adp": 72.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 72.0
+          "date": "May 6",
+          "adp": 51.0
         }
       ]
     },
@@ -695,6 +907,26 @@
         {
           "date": "May 5",
           "adp": 56.0
+        },
+        {
+          "date": "May 6",
+          "adp": 56.0
+        }
+      ]
+    },
+    {
+      "name": "Drake Maye",
+      "team": "NE",
+      "pos": "QB",
+      "adp": 72.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 72.0
+        },
+        {
+          "date": "May 6",
+          "adp": 72.0
         }
       ]
     },
@@ -706,6 +938,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 69.0
+        },
+        {
+          "date": "May 6",
           "adp": 69.0
         }
       ]
@@ -719,18 +955,10 @@
         {
           "date": "May 5",
           "adp": 65.0
-        }
-      ]
-    },
-    {
-      "name": "Bhayshul Tuten",
-      "team": "JAC",
-      "pos": "RB",
-      "adp": 58.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 58.0
+          "date": "May 6",
+          "adp": 65.0
         }
       ]
     },
@@ -743,6 +971,26 @@
         {
           "date": "May 5",
           "adp": 57.0
+        },
+        {
+          "date": "May 6",
+          "adp": 57.0
+        }
+      ]
+    },
+    {
+      "name": "Bhayshul Tuten",
+      "team": "JAC",
+      "pos": "RB",
+      "adp": 59.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 58.0
+        },
+        {
+          "date": "May 6",
+          "adp": 59.0
         }
       ]
     },
@@ -755,6 +1003,10 @@
         {
           "date": "May 5",
           "adp": 60.0
+        },
+        {
+          "date": "May 6",
+          "adp": 60.0
         }
       ]
     },
@@ -762,11 +1014,15 @@
       "name": "Caleb Williams",
       "team": "CHI",
       "pos": "QB",
-      "adp": 71.0,
+      "adp": 70.0,
       "history": [
         {
           "date": "May 5",
           "adp": 71.0
+        },
+        {
+          "date": "May 6",
+          "adp": 70.0
         }
       ]
     },
@@ -774,11 +1030,15 @@
       "name": "Jalen Hurts",
       "team": "PHI",
       "pos": "QB",
-      "adp": 67.0,
+      "adp": 68.0,
       "history": [
         {
           "date": "May 5",
           "adp": 67.0
+        },
+        {
+          "date": "May 6",
+          "adp": 68.0
         }
       ]
     },
@@ -786,23 +1046,31 @@
       "name": "Chuba Hubbard",
       "team": "CAR",
       "pos": "RB",
-      "adp": 68.0,
+      "adp": 67.0,
       "history": [
         {
           "date": "May 5",
           "adp": 68.0
+        },
+        {
+          "date": "May 6",
+          "adp": 67.0
         }
       ]
     },
     {
-      "name": "Carnell Tate",
-      "team": "TEN",
-      "pos": "WR",
-      "adp": 61.0,
+      "name": "Jadarian Price",
+      "team": "SEA",
+      "pos": "RB",
+      "adp": 58.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 61.0
+          "adp": 59.0
+        },
+        {
+          "date": "May 6",
+          "adp": 58.0
         }
       ]
     },
@@ -815,6 +1083,26 @@
         {
           "date": "May 5",
           "adp": 66.0
+        },
+        {
+          "date": "May 6",
+          "adp": 66.0
+        }
+      ]
+    },
+    {
+      "name": "Carnell Tate",
+      "team": "TEN",
+      "pos": "WR",
+      "adp": 61.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 61.0
+        },
+        {
+          "date": "May 6",
+          "adp": 61.0
         }
       ]
     },
@@ -822,23 +1110,31 @@
       "name": "RJ Harvey",
       "team": "DEN",
       "pos": "RB",
-      "adp": 79.0,
+      "adp": 80.0,
       "history": [
         {
           "date": "May 5",
           "adp": 79.0
+        },
+        {
+          "date": "May 6",
+          "adp": 80.0
         }
       ]
     },
     {
-      "name": "Jadarian Price",
-      "team": "SEA",
-      "pos": "RB",
-      "adp": 59.0,
+      "name": "Tucker Kraft",
+      "team": "GB",
+      "pos": "TE",
+      "adp": 82.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 59.0
+          "adp": 83.0
+        },
+        {
+          "date": "May 6",
+          "adp": 82.0
         }
       ]
     },
@@ -846,11 +1142,15 @@
       "name": "Harold Fannin Jr.",
       "team": "CLE",
       "pos": "TE",
-      "adp": 88.0,
+      "adp": 89.0,
       "history": [
         {
           "date": "May 5",
           "adp": 88.0
+        },
+        {
+          "date": "May 6",
+          "adp": 89.0
         }
       ]
     },
@@ -863,18 +1163,10 @@
         {
           "date": "May 5",
           "adp": 64.0
-        }
-      ]
-    },
-    {
-      "name": "Tucker Kraft",
-      "team": "GB",
-      "pos": "TE",
-      "adp": 83.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 83.0
+          "date": "May 6",
+          "adp": 64.0
         }
       ]
     },
@@ -887,6 +1179,10 @@
         {
           "date": "May 5",
           "adp": 77.0
+        },
+        {
+          "date": "May 6",
+          "adp": 77.0
         }
       ]
     },
@@ -894,11 +1190,15 @@
       "name": "Alec Pierce",
       "team": "IND",
       "pos": "WR",
-      "adp": 70.0,
+      "adp": 71.0,
       "history": [
         {
           "date": "May 5",
           "adp": 70.0
+        },
+        {
+          "date": "May 6",
+          "adp": 71.0
         }
       ]
     },
@@ -910,6 +1210,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 75.0
+        },
+        {
+          "date": "May 6",
           "adp": 75.0
         }
       ]
@@ -923,6 +1227,10 @@
         {
           "date": "May 5",
           "adp": 74.0
+        },
+        {
+          "date": "May 6",
+          "adp": 74.0
         }
       ]
     },
@@ -930,23 +1238,15 @@
       "name": "Jaxson Dart",
       "team": "NYG",
       "pos": "QB",
-      "adp": 89.0,
+      "adp": 90.0,
       "history": [
         {
           "date": "May 5",
           "adp": 89.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylen Warren",
-      "team": "PIT",
-      "pos": "RB",
-      "adp": 82.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 82.0
+          "date": "May 6",
+          "adp": 90.0
         }
       ]
     },
@@ -959,6 +1259,26 @@
         {
           "date": "May 5",
           "adp": 85.0
+        },
+        {
+          "date": "May 6",
+          "adp": 85.0
+        }
+      ]
+    },
+    {
+      "name": "Jaylen Warren",
+      "team": "PIT",
+      "pos": "RB",
+      "adp": 83.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 82.0
+        },
+        {
+          "date": "May 6",
+          "adp": 83.0
         }
       ]
     },
@@ -971,18 +1291,10 @@
         {
           "date": "May 5",
           "adp": 63.0
-        }
-      ]
-    },
-    {
-      "name": "Justin Herbert",
-      "team": "LAC",
-      "pos": "QB",
-      "adp": 86.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 86.0
+          "date": "May 6",
+          "adp": 63.0
         }
       ]
     },
@@ -994,6 +1306,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 81.0
+        },
+        {
+          "date": "May 6",
           "adp": 81.0
         }
       ]
@@ -1007,6 +1323,26 @@
         {
           "date": "May 5",
           "adp": 76.0
+        },
+        {
+          "date": "May 6",
+          "adp": 76.0
+        }
+      ]
+    },
+    {
+      "name": "Justin Herbert",
+      "team": "LAC",
+      "pos": "QB",
+      "adp": 86.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 86.0
+        },
+        {
+          "date": "May 6",
+          "adp": 86.0
         }
       ]
     },
@@ -1014,11 +1350,15 @@
       "name": "Kyle Pitts Sr.",
       "team": "ATL",
       "pos": "TE",
-      "adp": 101.0,
+      "adp": 102.0,
       "history": [
         {
           "date": "May 5",
           "adp": 101.0
+        },
+        {
+          "date": "May 6",
+          "adp": 102.0
         }
       ]
     },
@@ -1031,30 +1371,10 @@
         {
           "date": "May 5",
           "adp": 84.0
-        }
-      ]
-    },
-    {
-      "name": "Makai Lemon",
-      "team": "PHI",
-      "pos": "WR",
-      "adp": 73.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 73.0
-        }
-      ]
-    },
-    {
-      "name": "Sam LaPorta",
-      "team": "DET",
-      "pos": "TE",
-      "adp": 100.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 100.0
+          "date": "May 6",
+          "adp": 84.0
         }
       ]
     },
@@ -1067,30 +1387,42 @@
         {
           "date": "May 5",
           "adp": 91.0
+        },
+        {
+          "date": "May 6",
+          "adp": 91.0
         }
       ]
     },
     {
-      "name": "Matthew Stafford",
-      "team": "LAR",
-      "pos": "QB",
-      "adp": 103.0,
+      "name": "Makai Lemon",
+      "team": "PHI",
+      "pos": "WR",
+      "adp": 73.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 103.0
+          "adp": 73.0
+        },
+        {
+          "date": "May 6",
+          "adp": 73.0
         }
       ]
     },
     {
-      "name": "Patrick Mahomes II",
-      "team": "KC",
-      "pos": "QB",
-      "adp": 94.0,
+      "name": "Sam LaPorta",
+      "team": "DET",
+      "pos": "TE",
+      "adp": 99.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 94.0
+          "adp": 100.0
+        },
+        {
+          "date": "May 6",
+          "adp": 99.0
         }
       ]
     },
@@ -1103,6 +1435,42 @@
         {
           "date": "May 5",
           "adp": 78.0
+        },
+        {
+          "date": "May 6",
+          "adp": 78.0
+        }
+      ]
+    },
+    {
+      "name": "Patrick Mahomes II",
+      "team": "KC",
+      "pos": "QB",
+      "adp": 94.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 94.0
+        },
+        {
+          "date": "May 6",
+          "adp": 94.0
+        }
+      ]
+    },
+    {
+      "name": "Matthew Stafford",
+      "team": "LAR",
+      "pos": "QB",
+      "adp": 103.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 103.0
+        },
+        {
+          "date": "May 6",
+          "adp": 103.0
         }
       ]
     },
@@ -1110,11 +1478,15 @@
       "name": "Kyle Monangai",
       "team": "CHI",
       "pos": "RB",
-      "adp": 87.0,
+      "adp": 88.0,
       "history": [
         {
           "date": "May 5",
           "adp": 87.0
+        },
+        {
+          "date": "May 6",
+          "adp": 88.0
         }
       ]
     },
@@ -1126,6 +1498,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 96.0
+        },
+        {
+          "date": "May 6",
           "adp": 96.0
         }
       ]
@@ -1139,6 +1515,10 @@
         {
           "date": "May 5",
           "adp": 93.0
+        },
+        {
+          "date": "May 6",
+          "adp": 93.0
         }
       ]
     },
@@ -1151,18 +1531,10 @@
         {
           "date": "May 5",
           "adp": 98.0
-        }
-      ]
-    },
-    {
-      "name": "J.K. Dobbins",
-      "team": "DEN",
-      "pos": "RB",
-      "adp": 99.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 99.0
+          "date": "May 6",
+          "adp": 98.0
         }
       ]
     },
@@ -1175,6 +1547,26 @@
         {
           "date": "May 5",
           "adp": 92.0
+        },
+        {
+          "date": "May 6",
+          "adp": 92.0
+        }
+      ]
+    },
+    {
+      "name": "J.K. Dobbins",
+      "team": "DEN",
+      "pos": "RB",
+      "adp": 101.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 99.0
+        },
+        {
+          "date": "May 6",
+          "adp": 101.0
         }
       ]
     },
@@ -1187,6 +1579,10 @@
         {
           "date": "May 5",
           "adp": 104.0
+        },
+        {
+          "date": "May 6",
+          "adp": 104.0
         }
       ]
     },
@@ -1194,35 +1590,15 @@
       "name": "Jordan Addison",
       "team": "MIN",
       "pos": "WR",
-      "adp": 80.0,
+      "adp": 79.0,
       "history": [
         {
           "date": "May 5",
           "adp": 80.0
-        }
-      ]
-    },
-    {
-      "name": "Blake Corum",
-      "team": "LAR",
-      "pos": "RB",
-      "adp": 97.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 97.0
-        }
-      ]
-    },
-    {
-      "name": "Ricky Pearsall",
-      "team": "SF",
-      "pos": "WR",
-      "adp": 95.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 95.0
+          "date": "May 6",
+          "adp": 79.0
         }
       ]
     },
@@ -1235,6 +1611,42 @@
         {
           "date": "May 5",
           "adp": 119.0
+        },
+        {
+          "date": "May 6",
+          "adp": 119.0
+        }
+      ]
+    },
+    {
+      "name": "Blake Corum",
+      "team": "LAR",
+      "pos": "RB",
+      "adp": 95.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 97.0
+        },
+        {
+          "date": "May 6",
+          "adp": 95.0
+        }
+      ]
+    },
+    {
+      "name": "Ricky Pearsall",
+      "team": "SF",
+      "pos": "WR",
+      "adp": 97.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 95.0
+        },
+        {
+          "date": "May 6",
+          "adp": 97.0
         }
       ]
     },
@@ -1247,6 +1659,10 @@
         {
           "date": "May 5",
           "adp": 115.0
+        },
+        {
+          "date": "May 6",
+          "adp": 115.0
         }
       ]
     },
@@ -1254,11 +1670,15 @@
       "name": "Jayden Reed",
       "team": "GB",
       "pos": "WR",
-      "adp": 90.0,
+      "adp": 87.0,
       "history": [
         {
           "date": "May 5",
           "adp": 90.0
+        },
+        {
+          "date": "May 6",
+          "adp": 87.0
         }
       ]
     },
@@ -1270,6 +1690,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 105.0
+        },
+        {
+          "date": "May 6",
           "adp": 105.0
         }
       ]
@@ -1283,6 +1707,10 @@
         {
           "date": "May 5",
           "adp": 109.0
+        },
+        {
+          "date": "May 6",
+          "adp": 109.0
         }
       ]
     },
@@ -1290,11 +1718,15 @@
       "name": "Oronde Gadsden II",
       "team": "LAC",
       "pos": "TE",
-      "adp": 117.0,
+      "adp": 118.0,
       "history": [
         {
           "date": "May 5",
           "adp": 117.0
+        },
+        {
+          "date": "May 6",
+          "adp": 118.0
         }
       ]
     },
@@ -1307,6 +1739,10 @@
         {
           "date": "May 5",
           "adp": 113.0
+        },
+        {
+          "date": "May 6",
+          "adp": 113.0
         }
       ]
     },
@@ -1314,11 +1750,31 @@
       "name": "Romeo Doubs",
       "team": "NE",
       "pos": "WR",
-      "adp": 106.0,
+      "adp": 107.0,
       "history": [
         {
           "date": "May 5",
           "adp": 106.0
+        },
+        {
+          "date": "May 6",
+          "adp": 107.0
+        }
+      ]
+    },
+    {
+      "name": "Quentin Johnston",
+      "team": "LAC",
+      "pos": "WR",
+      "adp": 100.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 102.0
+        },
+        {
+          "date": "May 6",
+          "adp": 100.0
         }
       ]
     },
@@ -1326,11 +1782,15 @@
       "name": "Jordan Love",
       "team": "GB",
       "pos": "QB",
-      "adp": 107.0,
+      "adp": 108.0,
       "history": [
         {
           "date": "May 5",
           "adp": 107.0
+        },
+        {
+          "date": "May 6",
+          "adp": 108.0
         }
       ]
     },
@@ -1343,30 +1803,10 @@
         {
           "date": "May 5",
           "adp": 114.0
-        }
-      ]
-    },
-    {
-      "name": "Quentin Johnston",
-      "team": "LAC",
-      "pos": "WR",
-      "adp": 102.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 102.0
-        }
-      ]
-    },
-    {
-      "name": "Jake Ferguson",
-      "team": "DAL",
-      "pos": "TE",
-      "adp": 125.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 125.0
+          "date": "May 6",
+          "adp": 114.0
         }
       ]
     },
@@ -1379,6 +1819,26 @@
         {
           "date": "May 5",
           "adp": 120.0
+        },
+        {
+          "date": "May 6",
+          "adp": 120.0
+        }
+      ]
+    },
+    {
+      "name": "Jake Ferguson",
+      "team": "DAL",
+      "pos": "TE",
+      "adp": 125.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 125.0
+        },
+        {
+          "date": "May 6",
+          "adp": 125.0
         }
       ]
     },
@@ -1386,11 +1846,15 @@
       "name": "Dallas Goedert",
       "team": "PHI",
       "pos": "TE",
-      "adp": 135.0,
+      "adp": 136.0,
       "history": [
         {
           "date": "May 5",
           "adp": 135.0
+        },
+        {
+          "date": "May 6",
+          "adp": 136.0
         }
       ]
     },
@@ -1398,11 +1862,15 @@
       "name": "Isaiah Likely",
       "team": "NYG",
       "pos": "TE",
-      "adp": 134.0,
+      "adp": 133.0,
       "history": [
         {
           "date": "May 5",
           "adp": 134.0
+        },
+        {
+          "date": "May 6",
+          "adp": 133.0
         }
       ]
     },
@@ -1414,6 +1882,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 127.0
+        },
+        {
+          "date": "May 6",
           "adp": 127.0
         }
       ]
@@ -1427,6 +1899,10 @@
         {
           "date": "May 5",
           "adp": 121.0
+        },
+        {
+          "date": "May 6",
+          "adp": 121.0
         }
       ]
     },
@@ -1434,11 +1910,15 @@
       "name": "Josh Downs",
       "team": "IND",
       "pos": "WR",
-      "adp": 108.0,
+      "adp": 106.0,
       "history": [
         {
           "date": "May 5",
           "adp": 108.0
+        },
+        {
+          "date": "May 6",
+          "adp": 106.0
         }
       ]
     },
@@ -1451,18 +1931,10 @@
         {
           "date": "May 5",
           "adp": 131.0
-        }
-      ]
-    },
-    {
-      "name": "KC Concepcion",
-      "team": "CLE",
-      "pos": "WR",
-      "adp": 112.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 112.0
+          "date": "May 6",
+          "adp": 131.0
         }
       ]
     },
@@ -1470,11 +1942,15 @@
       "name": "Matthew Golden",
       "team": "GB",
       "pos": "WR",
-      "adp": 111.0,
+      "adp": 110.0,
       "history": [
         {
           "date": "May 5",
           "adp": 111.0
+        },
+        {
+          "date": "May 6",
+          "adp": 110.0
         }
       ]
     },
@@ -1487,6 +1963,26 @@
         {
           "date": "May 5",
           "adp": 122.0
+        },
+        {
+          "date": "May 6",
+          "adp": 122.0
+        }
+      ]
+    },
+    {
+      "name": "KC Concepcion",
+      "team": "CLE",
+      "pos": "WR",
+      "adp": 112.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 112.0
+        },
+        {
+          "date": "May 6",
+          "adp": 112.0
         }
       ]
     },
@@ -1499,18 +1995,10 @@
         {
           "date": "May 5",
           "adp": 130.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Allgeier",
-      "team": "ARI",
-      "pos": "RB",
-      "adp": 152.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 152.0
+          "date": "May 6",
+          "adp": 130.0
         }
       ]
     },
@@ -1518,11 +2006,15 @@
       "name": "Chris Rodriguez Jr.",
       "team": "JAC",
       "pos": "RB",
-      "adp": 118.0,
+      "adp": 117.0,
       "history": [
         {
           "date": "May 5",
           "adp": 118.0
+        },
+        {
+          "date": "May 6",
+          "adp": 117.0
         }
       ]
     },
@@ -1535,6 +2027,10 @@
         {
           "date": "May 5",
           "adp": 116.0
+        },
+        {
+          "date": "May 6",
+          "adp": 116.0
         }
       ]
     },
@@ -1542,11 +2038,31 @@
       "name": "Kenyon Sadiq",
       "team": "NYJ",
       "pos": "TE",
-      "adp": 143.0,
+      "adp": 142.0,
       "history": [
         {
           "date": "May 5",
           "adp": 143.0
+        },
+        {
+          "date": "May 6",
+          "adp": 142.0
+        }
+      ]
+    },
+    {
+      "name": "Tyler Allgeier",
+      "team": "ARI",
+      "pos": "RB",
+      "adp": 153.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 152.0
+        },
+        {
+          "date": "May 6",
+          "adp": 153.0
         }
       ]
     },
@@ -1559,18 +2075,10 @@
         {
           "date": "May 5",
           "adp": 128.0
-        }
-      ]
-    },
-    {
-      "name": "Jacory Croskey-Merritt",
-      "team": "WAS",
-      "pos": "RB",
-      "adp": 110.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 110.0
+          "date": "May 6",
+          "adp": 128.0
         }
       ]
     },
@@ -1583,6 +2091,42 @@
         {
           "date": "May 5",
           "adp": 124.0
+        },
+        {
+          "date": "May 6",
+          "adp": 124.0
+        }
+      ]
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "team": "WAS",
+      "pos": "RB",
+      "adp": 111.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 110.0
+        },
+        {
+          "date": "May 6",
+          "adp": 111.0
+        }
+      ]
+    },
+    {
+      "name": "Mark Andrews",
+      "team": "BAL",
+      "pos": "TE",
+      "adp": 132.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 133.0
+        },
+        {
+          "date": "May 6",
+          "adp": 132.0
         }
       ]
     },
@@ -1590,11 +2134,15 @@
       "name": "C.J. Stroud",
       "team": "HOU",
       "pos": "QB",
-      "adp": 140.0,
+      "adp": 141.0,
       "history": [
         {
           "date": "May 5",
           "adp": 140.0
+        },
+        {
+          "date": "May 6",
+          "adp": 141.0
         }
       ]
     },
@@ -1607,42 +2155,10 @@
         {
           "date": "May 5",
           "adp": 123.0
-        }
-      ]
-    },
-    {
-      "name": "Mark Andrews",
-      "team": "BAL",
-      "pos": "TE",
-      "adp": 133.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 133.0
-        }
-      ]
-    },
-    {
-      "name": "Sam Darnold",
-      "team": "SEA",
-      "pos": "QB",
-      "adp": 132.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 132.0
-        }
-      ]
-    },
-    {
-      "name": "Jalen Coker",
-      "team": "CAR",
-      "pos": "WR",
-      "adp": 129.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 129.0
+          "date": "May 6",
+          "adp": 123.0
         }
       ]
     },
@@ -1655,6 +2171,42 @@
         {
           "date": "May 5",
           "adp": 126.0
+        },
+        {
+          "date": "May 6",
+          "adp": 126.0
+        }
+      ]
+    },
+    {
+      "name": "Jalen Coker",
+      "team": "CAR",
+      "pos": "WR",
+      "adp": 129.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 129.0
+        },
+        {
+          "date": "May 6",
+          "adp": 129.0
+        }
+      ]
+    },
+    {
+      "name": "Sam Darnold",
+      "team": "SEA",
+      "pos": "QB",
+      "adp": 134.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 132.0
+        },
+        {
+          "date": "May 6",
+          "adp": 134.0
         }
       ]
     },
@@ -1667,6 +2219,10 @@
         {
           "date": "May 5",
           "adp": 154.0
+        },
+        {
+          "date": "May 6",
+          "adp": 154.0
         }
       ]
     },
@@ -1674,11 +2230,15 @@
       "name": "Zach Charbonnet",
       "team": "SEA",
       "pos": "RB",
-      "adp": 142.0,
+      "adp": 143.0,
       "history": [
         {
           "date": "May 5",
           "adp": 142.0
+        },
+        {
+          "date": "May 6",
+          "adp": 143.0
         }
       ]
     },
@@ -1686,11 +2246,15 @@
       "name": "Tyrone Tracy Jr.",
       "team": "NYG",
       "pos": "RB",
-      "adp": 137.0,
+      "adp": 135.0,
       "history": [
         {
           "date": "May 5",
           "adp": 137.0
+        },
+        {
+          "date": "May 6",
+          "adp": 135.0
         }
       ]
     },
@@ -1703,18 +2267,10 @@
         {
           "date": "May 5",
           "adp": 144.0
-        }
-      ]
-    },
-    {
-      "name": "Omar Cooper Jr.",
-      "team": "NYJ",
-      "pos": "WR",
-      "adp": 136.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 136.0
+          "date": "May 6",
+          "adp": 144.0
         }
       ]
     },
@@ -1722,11 +2278,15 @@
       "name": "Brenton Strange",
       "team": "JAC",
       "pos": "TE",
-      "adp": 151.0,
+      "adp": 150.0,
       "history": [
         {
           "date": "May 5",
           "adp": 151.0
+        },
+        {
+          "date": "May 6",
+          "adp": 150.0
         }
       ]
     },
@@ -1734,11 +2294,31 @@
       "name": "Cam Ward",
       "team": "TEN",
       "pos": "QB",
-      "adp": 141.0,
+      "adp": 140.0,
       "history": [
         {
           "date": "May 5",
           "adp": 141.0
+        },
+        {
+          "date": "May 6",
+          "adp": 140.0
+        }
+      ]
+    },
+    {
+      "name": "Omar Cooper Jr.",
+      "team": "NYJ",
+      "pos": "WR",
+      "adp": 137.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 136.0
+        },
+        {
+          "date": "May 6",
+          "adp": 137.0
         }
       ]
     },
@@ -1751,6 +2331,10 @@
         {
           "date": "May 5",
           "adp": 149.0
+        },
+        {
+          "date": "May 6",
+          "adp": 149.0
         }
       ]
     },
@@ -1758,11 +2342,15 @@
       "name": "Woody Marks",
       "team": "HOU",
       "pos": "RB",
-      "adp": 145.0,
+      "adp": 146.0,
       "history": [
         {
           "date": "May 5",
           "adp": 145.0
+        },
+        {
+          "date": "May 6",
+          "adp": 146.0
         }
       ]
     },
@@ -1770,11 +2358,15 @@
       "name": "Jonah Coleman",
       "team": "DEN",
       "pos": "RB",
-      "adp": 146.0,
+      "adp": 145.0,
       "history": [
         {
           "date": "May 5",
           "adp": 146.0
+        },
+        {
+          "date": "May 6",
+          "adp": 145.0
         }
       ]
     },
@@ -1787,30 +2379,10 @@
         {
           "date": "May 5",
           "adp": 148.0
-        }
-      ]
-    },
-    {
-      "name": "Hunter Henry",
-      "team": "NE",
-      "pos": "TE",
-      "adp": 153.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 153.0
-        }
-      ]
-    },
-    {
-      "name": "Jalen McMillan",
-      "team": "TB",
-      "pos": "WR",
-      "adp": 139.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 139.0
+          "date": "May 6",
+          "adp": 148.0
         }
       ]
     },
@@ -1823,6 +2395,42 @@
         {
           "date": "May 5",
           "adp": 138.0
+        },
+        {
+          "date": "May 6",
+          "adp": 138.0
+        }
+      ]
+    },
+    {
+      "name": "Hunter Henry",
+      "team": "NE",
+      "pos": "TE",
+      "adp": 152.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 153.0
+        },
+        {
+          "date": "May 6",
+          "adp": 152.0
+        }
+      ]
+    },
+    {
+      "name": "Jalen McMillan",
+      "team": "TB",
+      "pos": "WR",
+      "adp": 139.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 139.0
+        },
+        {
+          "date": "May 6",
+          "adp": 139.0
         }
       ]
     },
@@ -1830,35 +2438,15 @@
       "name": "Denzel Boston",
       "team": "CLE",
       "pos": "WR",
-      "adp": 150.0,
+      "adp": 151.0,
       "history": [
         {
           "date": "May 5",
           "adp": 150.0
-        }
-      ]
-    },
-    {
-      "name": "Mike Washington Jr.",
-      "team": "LV",
-      "pos": "RB",
-      "adp": 167.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 167.0
-        }
-      ]
-    },
-    {
-      "name": "Chig Okonkwo",
-      "team": "WAS",
-      "pos": "TE",
-      "adp": 155.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 155.0
+          "date": "May 6",
+          "adp": 151.0
         }
       ]
     },
@@ -1871,6 +2459,58 @@
         {
           "date": "May 5",
           "adp": 162.0
+        },
+        {
+          "date": "May 6",
+          "adp": 162.0
+        }
+      ]
+    },
+    {
+      "name": "Chig Okonkwo",
+      "team": "WAS",
+      "pos": "TE",
+      "adp": 155.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 155.0
+        },
+        {
+          "date": "May 6",
+          "adp": 155.0
+        }
+      ]
+    },
+    {
+      "name": "Mike Washington Jr.",
+      "team": "LV",
+      "pos": "RB",
+      "adp": 169.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 167.0
+        },
+        {
+          "date": "May 6",
+          "adp": 169.0
+        }
+      ]
+    },
+    {
+      "name": "Isiah Pacheco",
+      "team": "DET",
+      "pos": "RB",
+      "adp": 157.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 159.0
+        },
+        {
+          "date": "May 6",
+          "adp": 157.0
         }
       ]
     },
@@ -1878,23 +2518,15 @@
       "name": "Jacoby Brissett",
       "team": "ARI",
       "pos": "QB",
-      "adp": 166.0,
+      "adp": 168.0,
       "history": [
         {
           "date": "May 5",
           "adp": 166.0
-        }
-      ]
-    },
-    {
-      "name": "Tyreek Hill",
-      "team": "",
-      "pos": "WR",
-      "adp": 182.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 182.0
+          "date": "May 6",
+          "adp": 168.0
         }
       ]
     },
@@ -1907,6 +2539,26 @@
         {
           "date": "May 5",
           "adp": 156.0
+        },
+        {
+          "date": "May 6",
+          "adp": 156.0
+        }
+      ]
+    },
+    {
+      "name": "Tyreek Hill",
+      "team": "",
+      "pos": "WR",
+      "adp": 181.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 182.0
+        },
+        {
+          "date": "May 6",
+          "adp": 181.0
         }
       ]
     },
@@ -1914,23 +2566,15 @@
       "name": "Brandon Aiyuk",
       "team": "SF",
       "pos": "WR",
-      "adp": 157.0,
+      "adp": 160.0,
       "history": [
         {
           "date": "May 5",
           "adp": 157.0
-        }
-      ]
-    },
-    {
-      "name": "Isiah Pacheco",
-      "team": "DET",
-      "pos": "RB",
-      "adp": 159.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 159.0
+          "date": "May 6",
+          "adp": 160.0
         }
       ]
     },
@@ -1943,18 +2587,10 @@
         {
           "date": "May 5",
           "adp": 147.0
-        }
-      ]
-    },
-    {
-      "name": "Emanuel Wilson",
-      "team": "SEA",
-      "pos": "RB",
-      "adp": 188.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 188.0
+          "date": "May 6",
+          "adp": 147.0
         }
       ]
     },
@@ -1967,18 +2603,26 @@
         {
           "date": "May 5",
           "adp": 161.0
+        },
+        {
+          "date": "May 6",
+          "adp": 161.0
         }
       ]
     },
     {
-      "name": "Emmett Johnson",
-      "team": "KC",
+      "name": "Emanuel Wilson",
+      "team": "SEA",
       "pos": "RB",
-      "adp": 184.0,
+      "adp": 188.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 184.0
+          "adp": 188.0
+        },
+        {
+          "date": "May 6",
+          "adp": 188.0
         }
       ]
     },
@@ -1991,6 +2635,26 @@
         {
           "date": "May 5",
           "adp": 164.0
+        },
+        {
+          "date": "May 6",
+          "adp": 164.0
+        }
+      ]
+    },
+    {
+      "name": "Emmett Johnson",
+      "team": "KC",
+      "pos": "RB",
+      "adp": 185.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 184.0
+        },
+        {
+          "date": "May 6",
+          "adp": 185.0
         }
       ]
     },
@@ -2002,6 +2666,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 170.0
+        },
+        {
+          "date": "May 6",
           "adp": 170.0
         }
       ]
@@ -2015,6 +2683,10 @@
         {
           "date": "May 5",
           "adp": 172.0
+        },
+        {
+          "date": "May 6",
+          "adp": 172.0
         }
       ]
     },
@@ -2027,18 +2699,10 @@
         {
           "date": "May 5",
           "adp": 173.0
-        }
-      ]
-    },
-    {
-      "name": "AJ Barner",
-      "team": "SEA",
-      "pos": "TE",
-      "adp": 169.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 169.0
+          "date": "May 6",
+          "adp": 173.0
         }
       ]
     },
@@ -2051,6 +2715,26 @@
         {
           "date": "May 5",
           "adp": 171.0
+        },
+        {
+          "date": "May 6",
+          "adp": 171.0
+        }
+      ]
+    },
+    {
+      "name": "AJ Barner",
+      "team": "SEA",
+      "pos": "TE",
+      "adp": 167.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 169.0
+        },
+        {
+          "date": "May 6",
+          "adp": 167.0
         }
       ]
     },
@@ -2058,11 +2742,15 @@
       "name": "Geno Smith",
       "team": "NYJ",
       "pos": "QB",
-      "adp": 174.0,
+      "adp": 176.0,
       "history": [
         {
           "date": "May 5",
           "adp": 174.0
+        },
+        {
+          "date": "May 6",
+          "adp": 176.0
         }
       ]
     },
@@ -2075,18 +2763,10 @@
         {
           "date": "May 5",
           "adp": 165.0
-        }
-      ]
-    },
-    {
-      "name": "James Conner",
-      "team": "ARI",
-      "pos": "RB",
-      "adp": 221.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 221.0
+          "date": "May 6",
+          "adp": 165.0
         }
       ]
     },
@@ -2099,18 +2779,10 @@
         {
           "date": "May 5",
           "adp": 197.0
-        }
-      ]
-    },
-    {
-      "name": "Jalen Nailor",
-      "team": "LV",
-      "pos": "WR",
-      "adp": 160.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 160.0
+          "date": "May 6",
+          "adp": 197.0
         }
       ]
     },
@@ -2123,18 +2795,42 @@
         {
           "date": "May 5",
           "adp": 158.0
+        },
+        {
+          "date": "May 6",
+          "adp": 158.0
         }
       ]
     },
     {
-      "name": "Eli Stowers",
-      "team": "PHI",
-      "pos": "TE",
-      "adp": 183.0,
+      "name": "Jalen Nailor",
+      "team": "LV",
+      "pos": "WR",
+      "adp": 159.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 183.0
+          "adp": 160.0
+        },
+        {
+          "date": "May 6",
+          "adp": 159.0
+        }
+      ]
+    },
+    {
+      "name": "James Conner",
+      "team": "ARI",
+      "pos": "RB",
+      "adp": 221.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 221.0
+        },
+        {
+          "date": "May 6",
+          "adp": 221.0
         }
       ]
     },
@@ -2147,6 +2843,10 @@
         {
           "date": "May 5",
           "adp": 163.0
+        },
+        {
+          "date": "May 6",
+          "adp": 163.0
         }
       ]
     },
@@ -2154,11 +2854,43 @@
       "name": "Tre Tucker",
       "team": "LV",
       "pos": "WR",
-      "adp": 168.0,
+      "adp": 166.0,
       "history": [
         {
           "date": "May 5",
           "adp": 168.0
+        },
+        {
+          "date": "May 6",
+          "adp": 166.0
+        }
+      ]
+    },
+    {
+      "name": "Nick Singleton",
+      "team": "TEN",
+      "pos": "RB",
+      "adp": 174.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 174.0
+        }
+      ]
+    },
+    {
+      "name": "Eli Stowers",
+      "team": "PHI",
+      "pos": "TE",
+      "adp": 183.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 183.0
+        },
+        {
+          "date": "May 6",
+          "adp": 183.0
         }
       ]
     },
@@ -2166,11 +2898,15 @@
       "name": "Calvin Ridley",
       "team": "TEN",
       "pos": "WR",
-      "adp": 176.0,
+      "adp": 177.0,
       "history": [
         {
           "date": "May 5",
           "adp": 176.0
+        },
+        {
+          "date": "May 6",
+          "adp": 177.0
         }
       ]
     },
@@ -2183,6 +2919,10 @@
         {
           "date": "May 5",
           "adp": 189.0
+        },
+        {
+          "date": "May 6",
+          "adp": 189.0
         }
       ]
     },
@@ -2190,11 +2930,15 @@
       "name": "Tre Harris",
       "team": "LAC",
       "pos": "WR",
-      "adp": 178.0,
+      "adp": 179.0,
       "history": [
         {
           "date": "May 5",
           "adp": 178.0
+        },
+        {
+          "date": "May 6",
+          "adp": 179.0
         }
       ]
     },
@@ -2202,11 +2946,15 @@
       "name": "Tank Bigsby",
       "team": "PHI",
       "pos": "RB",
-      "adp": 181.0,
+      "adp": 180.0,
       "history": [
         {
           "date": "May 5",
           "adp": 181.0
+        },
+        {
+          "date": "May 6",
+          "adp": 180.0
         }
       ]
     },
@@ -2214,11 +2962,15 @@
       "name": "Aaron Rodgers",
       "team": "",
       "pos": "QB",
-      "adp": 198.0,
+      "adp": 199.0,
       "history": [
         {
           "date": "May 5",
           "adp": 198.0
+        },
+        {
+          "date": "May 6",
+          "adp": 199.0
         }
       ]
     },
@@ -2231,6 +2983,26 @@
         {
           "date": "May 5",
           "adp": 187.0
+        },
+        {
+          "date": "May 6",
+          "adp": 187.0
+        }
+      ]
+    },
+    {
+      "name": "Gunnar Helm",
+      "team": "TEN",
+      "pos": "TE",
+      "adp": 184.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 185.0
+        },
+        {
+          "date": "May 6",
+          "adp": 184.0
         }
       ]
     },
@@ -2243,18 +3015,10 @@
         {
           "date": "May 5",
           "adp": 191.0
-        }
-      ]
-    },
-    {
-      "name": "Gunnar Helm",
-      "team": "TEN",
-      "pos": "TE",
-      "adp": 185.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 185.0
+          "date": "May 6",
+          "adp": 191.0
         }
       ]
     },
@@ -2267,6 +3031,10 @@
         {
           "date": "May 5",
           "adp": 190.0
+        },
+        {
+          "date": "May 6",
+          "adp": 190.0
         }
       ]
     },
@@ -2274,11 +3042,15 @@
       "name": "Troy Franklin",
       "team": "DEN",
       "pos": "WR",
-      "adp": 217.0,
+      "adp": 216.0,
       "history": [
         {
           "date": "May 5",
           "adp": 217.0
+        },
+        {
+          "date": "May 6",
+          "adp": 216.0
         }
       ]
     },
@@ -2291,18 +3063,10 @@
         {
           "date": "May 5",
           "adp": 210.0
-        }
-      ]
-    },
-    {
-      "name": "David Njoku",
-      "team": "",
-      "pos": "TE",
-      "adp": 200.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 200.0
+          "date": "May 6",
+          "adp": 210.0
         }
       ]
     },
@@ -2310,11 +3074,31 @@
       "name": "Pat Freiermuth",
       "team": "PIT",
       "pos": "TE",
-      "adp": 194.0,
+      "adp": 195.0,
       "history": [
         {
           "date": "May 5",
           "adp": 194.0
+        },
+        {
+          "date": "May 6",
+          "adp": 195.0
+        }
+      ]
+    },
+    {
+      "name": "David Njoku",
+      "team": "",
+      "pos": "TE",
+      "adp": 198.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 200.0
+        },
+        {
+          "date": "May 6",
+          "adp": 198.0
         }
       ]
     },
@@ -2327,6 +3111,10 @@
         {
           "date": "May 5",
           "adp": 208.0
+        },
+        {
+          "date": "May 6",
+          "adp": 208.0
         }
       ]
     },
@@ -2334,23 +3122,15 @@
       "name": "Dontayvion Wicks",
       "team": "PHI",
       "pos": "WR",
-      "adp": 192.0,
+      "adp": 196.0,
       "history": [
         {
           "date": "May 5",
           "adp": 192.0
-        }
-      ]
-    },
-    {
-      "name": "Adonai Mitchell",
-      "team": "NYJ",
-      "pos": "WR",
-      "adp": 199.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 199.0
+          "date": "May 6",
+          "adp": 196.0
         }
       ]
     },
@@ -2358,35 +3138,31 @@
       "name": "Braelon Allen",
       "team": "NYJ",
       "pos": "RB",
-      "adp": 180.0,
+      "adp": 182.0,
       "history": [
         {
           "date": "May 5",
           "adp": 180.0
+        },
+        {
+          "date": "May 6",
+          "adp": 182.0
         }
       ]
     },
     {
-      "name": "Tank Dell",
-      "team": "HOU",
+      "name": "Adonai Mitchell",
+      "team": "NYJ",
       "pos": "WR",
-      "adp": 193.0,
+      "adp": 201.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 193.0
-        }
-      ]
-    },
-    {
-      "name": "Christian Kirk",
-      "team": "SF",
-      "pos": "WR",
-      "adp": 203.0,
-      "history": [
+          "adp": 199.0
+        },
         {
-          "date": "May 5",
-          "adp": 203.0
+          "date": "May 6",
+          "adp": 201.0
         }
       ]
     },
@@ -2399,30 +3175,58 @@
         {
           "date": "May 5",
           "adp": 211.0
-        }
-      ]
-    },
-    {
-      "name": "Sean Tucker",
-      "team": "TB",
-      "pos": "RB",
-      "adp": 204.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 204.0
+          "date": "May 6",
+          "adp": 211.0
         }
       ]
     },
     {
-      "name": "Ryan Flournoy",
-      "team": "DAL",
+      "name": "Tank Dell",
+      "team": "HOU",
       "pos": "WR",
-      "adp": 195.0,
+      "adp": 192.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 195.0
+          "adp": 193.0
+        },
+        {
+          "date": "May 6",
+          "adp": 192.0
+        }
+      ]
+    },
+    {
+      "name": "Christian Kirk",
+      "team": "SF",
+      "pos": "WR",
+      "adp": 206.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 203.0
+        },
+        {
+          "date": "May 6",
+          "adp": 206.0
+        }
+      ]
+    },
+    {
+      "name": "Colby Parkinson",
+      "team": "LAR",
+      "pos": "TE",
+      "adp": 228.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 229.0
+        },
+        {
+          "date": "May 6",
+          "adp": 228.0
         }
       ]
     },
@@ -2430,11 +3234,79 @@
       "name": "Antonio Williams",
       "team": "WAS",
       "pos": "WR",
-      "adp": 179.0,
+      "adp": 178.0,
       "history": [
         {
           "date": "May 5",
           "adp": 179.0
+        },
+        {
+          "date": "May 6",
+          "adp": 178.0
+        }
+      ]
+    },
+    {
+      "name": "Sean Tucker",
+      "team": "TB",
+      "pos": "RB",
+      "adp": 203.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 204.0
+        },
+        {
+          "date": "May 6",
+          "adp": 203.0
+        }
+      ]
+    },
+    {
+      "name": "Ryan Flournoy",
+      "team": "DAL",
+      "pos": "WR",
+      "adp": 193.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 195.0
+        },
+        {
+          "date": "May 6",
+          "adp": 193.0
+        }
+      ]
+    },
+    {
+      "name": "Germie Bernard",
+      "team": "PIT",
+      "pos": "WR",
+      "adp": 186.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 186.0
+        },
+        {
+          "date": "May 6",
+          "adp": 186.0
+        }
+      ]
+    },
+    {
+      "name": "Ray Davis",
+      "team": "BUF",
+      "pos": "RB",
+      "adp": 200.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 201.0
+        },
+        {
+          "date": "May 6",
+          "adp": 200.0
         }
       ]
     },
@@ -2446,6 +3318,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 224.0
+        },
+        {
+          "date": "May 6",
           "adp": 224.0
         }
       ]
@@ -2459,42 +3335,10 @@
         {
           "date": "May 5",
           "adp": 202.0
-        }
-      ]
-    },
-    {
-      "name": "Colby Parkinson",
-      "team": "LAR",
-      "pos": "TE",
-      "adp": 229.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 229.0
-        }
-      ]
-    },
-    {
-      "name": "Ray Davis",
-      "team": "BUF",
-      "pos": "RB",
-      "adp": 201.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 201.0
-        }
-      ]
-    },
-    {
-      "name": "Shedeur Sanders",
-      "team": "CLE",
-      "pos": "QB",
-      "adp": 220.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 220.0
+          "date": "May 6",
+          "adp": 202.0
         }
       ]
     },
@@ -2502,35 +3346,31 @@
       "name": "Jake Tonges",
       "team": "SF",
       "pos": "TE",
-      "adp": 223.0,
+      "adp": 222.0,
       "history": [
         {
           "date": "May 5",
           "adp": 223.0
-        }
-      ]
-    },
-    {
-      "name": "Mason Taylor",
-      "team": "NYJ",
-      "pos": "TE",
-      "adp": 250.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 250.0
+          "date": "May 6",
+          "adp": 222.0
         }
       ]
     },
     {
-      "name": "Michael Penix Jr.",
-      "team": "ATL",
+      "name": "Shedeur Sanders",
+      "team": "CLE",
       "pos": "QB",
-      "adp": 228.0,
+      "adp": 223.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 228.0
+          "adp": 220.0
+        },
+        {
+          "date": "May 6",
+          "adp": 223.0
         }
       ]
     },
@@ -2543,18 +3383,10 @@
         {
           "date": "May 5",
           "adp": 207.0
-        }
-      ]
-    },
-    {
-      "name": "Germie Bernard",
-      "team": "PIT",
-      "pos": "WR",
-      "adp": 186.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 186.0
+          "date": "May 6",
+          "adp": 207.0
         }
       ]
     },
@@ -2562,59 +3394,47 @@
       "name": "Kirk Cousins",
       "team": "LV",
       "pos": "QB",
-      "adp": 234.0,
+      "adp": 236.0,
       "history": [
         {
           "date": "May 5",
           "adp": 234.0
-        }
-      ]
-    },
-    {
-      "name": "Chimere Dike",
-      "team": "TEN",
-      "pos": "WR",
-      "adp": 241.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 241.0
+          "date": "May 6",
+          "adp": 236.0
         }
       ]
     },
     {
-      "name": "Greg Dulcich",
-      "team": "MIA",
+      "name": "Mason Taylor",
+      "team": "NYJ",
       "pos": "TE",
-      "adp": 219.0,
+      "adp": 257.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 219.0
+          "adp": 250.0
+        },
+        {
+          "date": "May 6",
+          "adp": 257.0
         }
       ]
     },
     {
-      "name": "Deshaun Watson",
-      "team": "CLE",
+      "name": "Michael Penix Jr.",
+      "team": "ATL",
       "pos": "QB",
-      "adp": 215.0,
+      "adp": 230.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 215.0
-        }
-      ]
-    },
-    {
-      "name": "Chris Brazzell II",
-      "team": "CAR",
-      "pos": "WR",
-      "adp": 212.0,
-      "history": [
+          "adp": 228.0
+        },
         {
-          "date": "May 5",
-          "adp": 212.0
+          "date": "May 6",
+          "adp": 230.0
         }
       ]
     },
@@ -2622,71 +3442,79 @@
       "name": "Zachariah Branch",
       "team": "ATL",
       "pos": "WR",
-      "adp": 206.0,
+      "adp": 204.0,
       "history": [
         {
           "date": "May 5",
           "adp": 206.0
-        }
-      ]
-    },
-    {
-      "name": "Chris Bell",
-      "team": "MIA",
-      "pos": "WR",
-      "adp": 196.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 196.0
+          "date": "May 6",
+          "adp": 204.0
         }
       ]
     },
     {
-      "name": "Theo Johnson",
-      "team": "NYG",
+      "name": "Greg Dulcich",
+      "team": "MIA",
       "pos": "TE",
-      "adp": 239.0,
+      "adp": 218.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 239.0
+          "adp": 219.0
+        },
+        {
+          "date": "May 6",
+          "adp": 218.0
         }
       ]
     },
     {
-      "name": "Najee Harris",
-      "team": "LAC",
-      "pos": "RB",
-      "adp": 257.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 257.0
-        }
-      ]
-    },
-    {
-      "name": "De'Zhaun Stribling",
-      "team": "SF",
+      "name": "Chimere Dike",
+      "team": "TEN",
       "pos": "WR",
-      "adp": 177.0,
+      "adp": 242.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 177.0
+          "adp": 241.0
+        },
+        {
+          "date": "May 6",
+          "adp": 242.0
         }
       ]
     },
     {
-      "name": "Ollie Gordon II",
-      "team": "MIA",
-      "pos": "RB",
-      "adp": 249.0,
+      "name": "Chris Brazzell II",
+      "team": "CAR",
+      "pos": "WR",
+      "adp": 217.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 249.0
+          "adp": 212.0
+        },
+        {
+          "date": "May 6",
+          "adp": 217.0
+        }
+      ]
+    },
+    {
+      "name": "Deshaun Watson",
+      "team": "CLE",
+      "pos": "QB",
+      "adp": 214.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 215.0
+        },
+        {
+          "date": "May 6",
+          "adp": 214.0
         }
       ]
     },
@@ -2694,11 +3522,95 @@
       "name": "Evan Engram",
       "team": "DEN",
       "pos": "TE",
-      "adp": 246.0,
+      "adp": 241.0,
       "history": [
         {
           "date": "May 5",
           "adp": 246.0
+        },
+        {
+          "date": "May 6",
+          "adp": 241.0
+        }
+      ]
+    },
+    {
+      "name": "Chris Bell",
+      "team": "MIA",
+      "pos": "WR",
+      "adp": 194.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 196.0
+        },
+        {
+          "date": "May 6",
+          "adp": 194.0
+        }
+      ]
+    },
+    {
+      "name": "De'Zhaun Stribling",
+      "team": "SF",
+      "pos": "WR",
+      "adp": 175.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 177.0
+        },
+        {
+          "date": "May 6",
+          "adp": 175.0
+        }
+      ]
+    },
+    {
+      "name": "Najee Harris",
+      "team": "LAC",
+      "pos": "RB",
+      "adp": 256.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 257.0
+        },
+        {
+          "date": "May 6",
+          "adp": 256.0
+        }
+      ]
+    },
+    {
+      "name": "Ollie Gordon II",
+      "team": "MIA",
+      "pos": "RB",
+      "adp": 243.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 249.0
+        },
+        {
+          "date": "May 6",
+          "adp": 243.0
+        }
+      ]
+    },
+    {
+      "name": "Mike Gesicki",
+      "team": "CIN",
+      "pos": "TE",
+      "adp": 209.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 209.0
+        },
+        {
+          "date": "May 6",
+          "adp": 209.0
         }
       ]
     },
@@ -2710,6 +3622,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 205.0
+        },
+        {
+          "date": "May 6",
           "adp": 205.0
         }
       ]
@@ -2723,42 +3639,26 @@
         {
           "date": "May 5",
           "adp": 213.0
+        },
+        {
+          "date": "May 6",
+          "adp": 213.0
         }
       ]
     },
     {
-      "name": "Pat Bryant",
-      "team": "DEN",
-      "pos": "WR",
-      "adp": 225.0,
+      "name": "Theo Johnson",
+      "team": "NYG",
+      "pos": "TE",
+      "adp": 237.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 225.0
-        }
-      ]
-    },
-    {
-      "name": "Kaelon Black",
-      "team": "SF",
-      "pos": "RB",
-      "adp": 222.0,
-      "history": [
+          "adp": 239.0
+        },
         {
-          "date": "May 5",
-          "adp": 222.0
-        }
-      ]
-    },
-    {
-      "name": "Ted Hurst",
-      "team": "TB",
-      "pos": "WR",
-      "adp": 216.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 216.0
+          "date": "May 6",
+          "adp": 237.0
         }
       ]
     },
@@ -2766,11 +3666,63 @@
       "name": "Demond Claiborne",
       "team": "MIN",
       "pos": "RB",
-      "adp": 214.0,
+      "adp": 212.0,
       "history": [
         {
           "date": "May 5",
           "adp": 214.0
+        },
+        {
+          "date": "May 6",
+          "adp": 212.0
+        }
+      ]
+    },
+    {
+      "name": "Kaelon Black",
+      "team": "SF",
+      "pos": "RB",
+      "adp": 220.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 222.0
+        },
+        {
+          "date": "May 6",
+          "adp": 220.0
+        }
+      ]
+    },
+    {
+      "name": "Pat Bryant",
+      "team": "DEN",
+      "pos": "WR",
+      "adp": 226.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 225.0
+        },
+        {
+          "date": "May 6",
+          "adp": 226.0
+        }
+      ]
+    },
+    {
+      "name": "Ted Hurst",
+      "team": "TB",
+      "pos": "WR",
+      "adp": 215.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 216.0
+        },
+        {
+          "date": "May 6",
+          "adp": 215.0
         }
       ]
     },
@@ -2783,18 +3735,10 @@
         {
           "date": "May 5",
           "adp": 232.0
-        }
-      ]
-    },
-    {
-      "name": "Trey Benson",
-      "team": "ARI",
-      "pos": "RB",
-      "adp": 322.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 322.0
+          "date": "May 6",
+          "adp": 232.0
         }
       ]
     },
@@ -2806,6 +3750,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 231.0
+        },
+        {
+          "date": "May 6",
           "adp": 231.0
         }
       ]
@@ -2819,18 +3767,26 @@
         {
           "date": "May 5",
           "adp": 227.0
+        },
+        {
+          "date": "May 6",
+          "adp": 227.0
         }
       ]
     },
     {
-      "name": "Hollywood Brown",
-      "team": "PHI",
-      "pos": "WR",
-      "adp": 266.0,
+      "name": "Trey Benson",
+      "team": "ARI",
+      "pos": "RB",
+      "adp": 332.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 266.0
+          "adp": 322.0
+        },
+        {
+          "date": "May 6",
+          "adp": 332.0
         }
       ]
     },
@@ -2838,11 +3794,31 @@
       "name": "Skyler Bell",
       "team": "BUF",
       "pos": "WR",
-      "adp": 218.0,
+      "adp": 219.0,
       "history": [
         {
           "date": "May 5",
           "adp": 218.0
+        },
+        {
+          "date": "May 6",
+          "adp": 219.0
+        }
+      ]
+    },
+    {
+      "name": "Hollywood Brown",
+      "team": "PHI",
+      "pos": "WR",
+      "adp": 265.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 266.0
+        },
+        {
+          "date": "May 6",
+          "adp": 265.0
         }
       ]
     },
@@ -2850,11 +3826,31 @@
       "name": "Keenan Allen",
       "team": "LAC",
       "pos": "WR",
-      "adp": 259.0,
+      "adp": 267.0,
       "history": [
         {
           "date": "May 5",
           "adp": 259.0
+        },
+        {
+          "date": "May 6",
+          "adp": 267.0
+        }
+      ]
+    },
+    {
+      "name": "Devaughn Vele",
+      "team": "NO",
+      "pos": "WR",
+      "adp": 244.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 242.0
+        },
+        {
+          "date": "May 6",
+          "adp": 244.0
         }
       ]
     },
@@ -2867,42 +3863,10 @@
         {
           "date": "May 5",
           "adp": 233.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylen Wright",
-      "team": "MIA",
-      "pos": "RB",
-      "adp": 276.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 276.0
-        }
-      ]
-    },
-    {
-      "name": "Devaughn Vele",
-      "team": "NO",
-      "pos": "WR",
-      "adp": 242.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 242.0
-        }
-      ]
-    },
-    {
-      "name": "Mike Gesicki",
-      "team": "CIN",
-      "pos": "TE",
-      "adp": 209.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 209.0
+          "date": "May 6",
+          "adp": 233.0
         }
       ]
     },
@@ -2910,11 +3874,15 @@
       "name": "Keon Coleman",
       "team": "BUF",
       "pos": "WR",
-      "adp": 230.0,
+      "adp": 229.0,
       "history": [
         {
           "date": "May 5",
           "adp": 230.0
+        },
+        {
+          "date": "May 6",
+          "adp": 229.0
         }
       ]
     },
@@ -2922,35 +3890,47 @@
       "name": "Elic Ayomanor",
       "team": "TEN",
       "pos": "WR",
-      "adp": 280.0,
+      "adp": 282.0,
       "history": [
         {
           "date": "May 5",
           "adp": 280.0
+        },
+        {
+          "date": "May 6",
+          "adp": 282.0
         }
       ]
     },
     {
-      "name": "Jalen Tolbert",
+      "name": "Jaylen Wright",
       "team": "MIA",
-      "pos": "WR",
-      "adp": 263.0,
+      "pos": "RB",
+      "adp": 278.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 263.0
+          "adp": 276.0
+        },
+        {
+          "date": "May 6",
+          "adp": 278.0
         }
       ]
     },
     {
-      "name": "Emari Demercado",
-      "team": "KC",
-      "pos": "RB",
-      "adp": 294.0,
+      "name": "Jack Bech",
+      "team": "LV",
+      "pos": "WR",
+      "adp": 234.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 294.0
+          "adp": 236.0
+        },
+        {
+          "date": "May 6",
+          "adp": 234.0
         }
       ]
     },
@@ -2958,35 +3938,31 @@
       "name": "Marvin Mims Jr.",
       "team": "DEN",
       "pos": "WR",
-      "adp": 290.0,
+      "adp": 289.0,
       "history": [
         {
           "date": "May 5",
           "adp": 290.0
+        },
+        {
+          "date": "May 6",
+          "adp": 289.0
         }
       ]
     },
     {
-      "name": "Justin Fields",
-      "team": "KC",
-      "pos": "QB",
+      "name": "Jalen Tolbert",
+      "team": "MIA",
+      "pos": "WR",
       "adp": 262.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 262.0
-        }
-      ]
-    },
-    {
-      "name": "J.J. McCarthy",
-      "team": "MIN",
-      "pos": "QB",
-      "adp": 272.0,
-      "history": [
+          "adp": 263.0
+        },
         {
-          "date": "May 5",
-          "adp": 272.0
+          "date": "May 6",
+          "adp": 262.0
         }
       ]
     },
@@ -2994,35 +3970,47 @@
       "name": "Eli Heidenreich",
       "team": "PIT",
       "pos": "RB",
+      "adp": 264.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 273.0
+        },
+        {
+          "date": "May 6",
+          "adp": 264.0
+        }
+      ]
+    },
+    {
+      "name": "Justin Fields",
+      "team": "KC",
+      "pos": "QB",
       "adp": 273.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 262.0
+        },
+        {
+          "date": "May 6",
           "adp": 273.0
         }
       ]
     },
     {
-      "name": "DJ Giddens",
-      "team": "IND",
-      "pos": "RB",
-      "adp": 258.0,
+      "name": "J.J. McCarthy",
+      "team": "MIN",
+      "pos": "QB",
+      "adp": 277.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 258.0
-        }
-      ]
-    },
-    {
-      "name": "Ty Johnson",
-      "team": "BUF",
-      "pos": "RB",
-      "adp": 260.0,
-      "history": [
+          "adp": 272.0
+        },
         {
-          "date": "May 5",
-          "adp": 260.0
+          "date": "May 6",
+          "adp": 277.0
         }
       ]
     },
@@ -3035,6 +4023,42 @@
         {
           "date": "May 5",
           "adp": 254.0
+        },
+        {
+          "date": "May 6",
+          "adp": 254.0
+        }
+      ]
+    },
+    {
+      "name": "Ty Johnson",
+      "team": "BUF",
+      "pos": "RB",
+      "adp": 266.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 260.0
+        },
+        {
+          "date": "May 6",
+          "adp": 266.0
+        }
+      ]
+    },
+    {
+      "name": "DJ Giddens",
+      "team": "IND",
+      "pos": "RB",
+      "adp": 260.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 258.0
+        },
+        {
+          "date": "May 6",
+          "adp": 260.0
         }
       ]
     },
@@ -3042,23 +4066,15 @@
       "name": "Ja'Kobi Lane",
       "team": "BAL",
       "pos": "WR",
-      "adp": 226.0,
+      "adp": 225.0,
       "history": [
         {
           "date": "May 5",
           "adp": 226.0
-        }
-      ]
-    },
-    {
-      "name": "Bryce Lance",
-      "team": "NO",
-      "pos": "WR",
-      "adp": 270.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 270.0
+          "date": "May 6",
+          "adp": 225.0
         }
       ]
     },
@@ -3066,47 +4082,31 @@
       "name": "Devin Neal",
       "team": "NO",
       "pos": "RB",
-      "adp": 312.0,
+      "adp": 301.0,
       "history": [
         {
           "date": "May 5",
           "adp": 312.0
+        },
+        {
+          "date": "May 6",
+          "adp": 301.0
         }
       ]
     },
     {
-      "name": "Caleb Douglas",
-      "team": "MIA",
+      "name": "Bryce Lance",
+      "team": "NO",
       "pos": "WR",
-      "adp": 243.0,
+      "adp": 274.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 243.0
-        }
-      ]
-    },
-    {
-      "name": "Carson Beck",
-      "team": "ARI",
-      "pos": "QB",
-      "adp": 245.0,
-      "history": [
+          "adp": 270.0
+        },
         {
-          "date": "May 5",
-          "adp": 245.0
-        }
-      ]
-    },
-    {
-      "name": "Adam Randall",
-      "team": "BAL",
-      "pos": "RB",
-      "adp": 237.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 237.0
+          "date": "May 6",
+          "adp": 274.0
         }
       ]
     },
@@ -3114,11 +4114,31 @@
       "name": "Kaleb Johnson",
       "team": "PIT",
       "pos": "RB",
-      "adp": 284.0,
+      "adp": 283.0,
       "history": [
         {
           "date": "May 5",
           "adp": 284.0
+        },
+        {
+          "date": "May 6",
+          "adp": 283.0
+        }
+      ]
+    },
+    {
+      "name": "Emari Demercado",
+      "team": "KC",
+      "pos": "RB",
+      "adp": 296.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 294.0
+        },
+        {
+          "date": "May 6",
+          "adp": 296.0
         }
       ]
     },
@@ -3126,11 +4146,47 @@
       "name": "Jaylin Noel",
       "team": "HOU",
       "pos": "WR",
-      "adp": 238.0,
+      "adp": 239.0,
       "history": [
         {
           "date": "May 5",
           "adp": 238.0
+        },
+        {
+          "date": "May 6",
+          "adp": 239.0
+        }
+      ]
+    },
+    {
+      "name": "Adam Randall",
+      "team": "BAL",
+      "pos": "RB",
+      "adp": 238.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 237.0
+        },
+        {
+          "date": "May 6",
+          "adp": 238.0
+        }
+      ]
+    },
+    {
+      "name": "Joe Mixon",
+      "team": "",
+      "pos": "RB",
+      "adp": 281.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 286.0
+        },
+        {
+          "date": "May 6",
+          "adp": 281.0
         }
       ]
     },
@@ -3143,42 +4199,10 @@
         {
           "date": "May 5",
           "adp": 235.0
-        }
-      ]
-    },
-    {
-      "name": "Michael Mayer",
-      "team": "LV",
-      "pos": "TE",
-      "adp": 277.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 277.0
-        }
-      ]
-    },
-    {
-      "name": "Jack Bech",
-      "team": "LV",
-      "pos": "WR",
-      "adp": 236.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 236.0
-        }
-      ]
-    },
-    {
-      "name": "Kyle Williams",
-      "team": "NE",
-      "pos": "WR",
-      "adp": 269.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 269.0
+          "date": "May 6",
+          "adp": 235.0
         }
       ]
     },
@@ -3186,47 +4210,63 @@
       "name": "Chris Brooks",
       "team": "GB",
       "pos": "RB",
-      "adp": 247.0,
+      "adp": 249.0,
       "history": [
         {
           "date": "May 5",
           "adp": 247.0
-        }
-      ]
-    },
-    {
-      "name": "Max Klare",
-      "team": "LAR",
-      "pos": "TE",
-      "adp": 256.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 256.0
+          "date": "May 6",
+          "adp": 249.0
         }
       ]
     },
     {
-      "name": "Samaje Perine",
-      "team": "CIN",
-      "pos": "RB",
+      "name": "Kyle Williams",
+      "team": "NE",
+      "pos": "WR",
       "adp": 261.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 269.0
+        },
+        {
+          "date": "May 6",
           "adp": 261.0
         }
       ]
     },
     {
-      "name": "LeQuint Allen Jr.",
-      "team": "JAC",
-      "pos": "RB",
-      "adp": 264.0,
+      "name": "Michael Mayer",
+      "team": "LV",
+      "pos": "TE",
+      "adp": 280.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 264.0
+          "adp": 277.0
+        },
+        {
+          "date": "May 6",
+          "adp": 280.0
+        }
+      ]
+    },
+    {
+      "name": "Caleb Douglas",
+      "team": "MIA",
+      "pos": "WR",
+      "adp": 247.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 243.0
+        },
+        {
+          "date": "May 6",
+          "adp": 247.0
         }
       ]
     },
@@ -3234,23 +4274,159 @@
       "name": "Trevor Etienne",
       "team": "CAR",
       "pos": "RB",
-      "adp": 315.0,
+      "adp": 309.0,
       "history": [
         {
           "date": "May 5",
           "adp": 315.0
+        },
+        {
+          "date": "May 6",
+          "adp": 309.0
         }
       ]
     },
     {
-      "name": "Joe Mixon",
-      "team": "",
-      "pos": "RB",
-      "adp": 286.0,
+      "name": "Max Klare",
+      "team": "LAR",
+      "pos": "TE",
+      "adp": 251.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 286.0
+          "adp": 256.0
+        },
+        {
+          "date": "May 6",
+          "adp": 251.0
+        }
+      ]
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "CIN",
+      "pos": "RB",
+      "adp": 252.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 261.0
+        },
+        {
+          "date": "May 6",
+          "adp": 252.0
+        }
+      ]
+    },
+    {
+      "name": "Ja'Tavion Sanders",
+      "team": "CAR",
+      "pos": "TE",
+      "adp": 253.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 268.0
+        },
+        {
+          "date": "May 6",
+          "adp": 253.0
+        }
+      ]
+    },
+    {
+      "name": "Malik Davis",
+      "team": "DAL",
+      "pos": "RB",
+      "adp": 255.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 252.0
+        },
+        {
+          "date": "May 6",
+          "adp": 255.0
+        }
+      ]
+    },
+    {
+      "name": "LeQuint Allen Jr.",
+      "team": "JAC",
+      "pos": "RB",
+      "adp": 270.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 264.0
+        },
+        {
+          "date": "May 6",
+          "adp": 270.0
+        }
+      ]
+    },
+    {
+      "name": "Seth McGowan",
+      "team": "IND",
+      "pos": "RB",
+      "adp": 320.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 321.0
+        },
+        {
+          "date": "May 6",
+          "adp": 320.0
+        }
+      ]
+    },
+    {
+      "name": "Austin Ekeler",
+      "team": "",
+      "pos": "RB",
+      "adp": 336.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 365.0
+        },
+        {
+          "date": "May 6",
+          "adp": 336.0
+        }
+      ]
+    },
+    {
+      "name": "Mack Hollins",
+      "team": "NE",
+      "pos": "WR",
+      "adp": 314.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 295.0
+        },
+        {
+          "date": "May 6",
+          "adp": 314.0
+        }
+      ]
+    },
+    {
+      "name": "Devin Singletary",
+      "team": "NYG",
+      "pos": "RB",
+      "adp": 359.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 355.0
+        },
+        {
+          "date": "May 6",
+          "adp": 359.0
         }
       ]
     },
@@ -3263,66 +4439,10 @@
         {
           "date": "May 5",
           "adp": 240.0
-        }
-      ]
-    },
-    {
-      "name": "Mack Hollins",
-      "team": "NE",
-      "pos": "WR",
-      "adp": 295.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 295.0
-        }
-      ]
-    },
-    {
-      "name": "Malik Davis",
-      "team": "DAL",
-      "pos": "RB",
-      "adp": 252.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 252.0
-        }
-      ]
-    },
-    {
-      "name": "Ja'Tavion Sanders",
-      "team": "CAR",
-      "pos": "TE",
-      "adp": 268.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 268.0
-        }
-      ]
-    },
-    {
-      "name": "Seth McGowan",
-      "team": "IND",
-      "pos": "RB",
-      "adp": 321.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 321.0
-        }
-      ]
-    },
-    {
-      "name": "Andrei Iosivas",
-      "team": "CIN",
-      "pos": "WR",
-      "adp": 251.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 251.0
+          "date": "May 6",
+          "adp": 240.0
         }
       ]
     },
@@ -3330,323 +4450,15 @@
       "name": "Calvin Austin III",
       "team": "NYG",
       "pos": "WR",
-      "adp": 296.0,
+      "adp": 295.0,
       "history": [
         {
           "date": "May 5",
           "adp": 296.0
-        }
-      ]
-    },
-    {
-      "name": "Tyquan Thornton",
-      "team": "KC",
-      "pos": "WR",
-      "adp": 244.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 244.0
-        }
-      ]
-    },
-    {
-      "name": "George Holani",
-      "team": "SEA",
-      "pos": "RB",
-      "adp": 282.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 282.0
-        }
-      ]
-    },
-    {
-      "name": "Devin Singletary",
-      "team": "NYG",
-      "pos": "RB",
-      "adp": 355.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 355.0
-        }
-      ]
-    },
-    {
-      "name": "Dawson Knox",
-      "team": "BUF",
-      "pos": "TE",
-      "adp": 267.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 267.0
-        }
-      ]
-    },
-    {
-      "name": "Brashard Smith",
-      "team": "KC",
-      "pos": "RB",
-      "adp": 308.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 308.0
-        }
-      ]
-    },
-    {
-      "name": "Kendrick Bourne",
-      "team": "ARI",
-      "pos": "WR",
-      "adp": 275.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 275.0
-        }
-      ]
-    },
-    {
-      "name": "Jahan Dotson",
-      "team": "ATL",
-      "pos": "WR",
-      "adp": 292.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 292.0
-        }
-      ]
-    },
-    {
-      "name": "Darius Slayton",
-      "team": "NYG",
-      "pos": "WR",
-      "adp": 274.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 274.0
-        }
-      ]
-    },
-    {
-      "name": "Savion Williams",
-      "team": "GB",
-      "pos": "WR",
-      "adp": 279.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 279.0
-        }
-      ]
-    },
-    {
-      "name": "Eli Raridon",
-      "team": "NE",
-      "pos": "TE",
-      "adp": 265.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 265.0
-        }
-      ]
-    },
-    {
-      "name": "Elijah Arroyo",
-      "team": "SEA",
-      "pos": "TE",
-      "adp": 283.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 283.0
-        }
-      ]
-    },
-    {
-      "name": "Deion Burks",
-      "team": "IND",
-      "pos": "WR",
-      "adp": 287.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 287.0
-        }
-      ]
-    },
-    {
-      "name": "Tahj Brooks",
-      "team": "CIN",
-      "pos": "RB",
-      "adp": 281.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 281.0
-        }
-      ]
-    },
-    {
-      "name": "Malik Benson",
-      "team": "LV",
-      "pos": "WR",
-      "adp": 285.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 285.0
-        }
-      ]
-    },
-    {
-      "name": "Luke Musgrave",
-      "team": "GB",
-      "pos": "TE",
-      "adp": 320.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 320.0
-        }
-      ]
-    },
-    {
-      "name": "DeMario Douglas",
-      "team": "NE",
-      "pos": "WR",
-      "adp": 289.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 289.0
-        }
-      ]
-    },
-    {
-      "name": "Tai Felton",
-      "team": "MIN",
-      "pos": "WR",
-      "adp": 313.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 313.0
-        }
-      ]
-    },
-    {
-      "name": "Treylon Burks",
-      "team": "WAS",
-      "pos": "WR",
-      "adp": 300.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 300.0
-        }
-      ]
-    },
-    {
-      "name": "KaVontae Turpin",
-      "team": "DAL",
-      "pos": "WR",
-      "adp": 327.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 327.0
-        }
-      ]
-    },
-    {
-      "name": "Devontez Walker",
-      "team": "BAL",
-      "pos": "WR",
-      "adp": 317.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 317.0
-        }
-      ]
-    },
-    {
-      "name": "Jordan Whittington",
-      "team": "LAR",
-      "pos": "WR",
-      "adp": 316.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 316.0
-        }
-      ]
-    },
-    {
-      "name": "Charlie Kolar",
-      "team": "LAC",
-      "pos": "TE",
-      "adp": 319.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 319.0
-        }
-      ]
-    },
-    {
-      "name": "Cedric Tillman",
-      "team": "CLE",
-      "pos": "WR",
-      "adp": 326.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 326.0
-        }
-      ]
-    },
-    {
-      "name": "Rasheen Ali",
-      "team": "BAL",
-      "pos": "RB",
-      "adp": 341.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 341.0
-        }
-      ]
-    },
-    {
-      "name": "Luke McCaffrey",
-      "team": "WAS",
-      "pos": "WR",
-      "adp": 318.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 318.0
-        }
-      ]
-    },
-    {
-      "name": "Austin Ekeler",
-      "team": "",
-      "pos": "RB",
-      "adp": 365.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 365.0
+          "date": "May 6",
+          "adp": 295.0
         }
       ]
     },
@@ -3654,23 +4466,95 @@
       "name": "Darnell Washington",
       "team": "PIT",
       "pos": "TE",
-      "adp": 255.0,
+      "adp": 258.0,
       "history": [
         {
           "date": "May 5",
           "adp": 255.0
+        },
+        {
+          "date": "May 6",
+          "adp": 258.0
         }
       ]
     },
     {
-      "name": "Tez Johnson",
-      "team": "TB",
+      "name": "Andrei Iosivas",
+      "team": "CIN",
+      "pos": "WR",
+      "adp": 245.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 251.0
+        },
+        {
+          "date": "May 6",
+          "adp": 245.0
+        }
+      ]
+    },
+    {
+      "name": "George Holani",
+      "team": "SEA",
+      "pos": "RB",
+      "adp": 298.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 282.0
+        },
+        {
+          "date": "May 6",
+          "adp": 298.0
+        }
+      ]
+    },
+    {
+      "name": "Kendrick Bourne",
+      "team": "ARI",
       "pos": "WR",
       "adp": 271.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 275.0
+        },
+        {
+          "date": "May 6",
           "adp": 271.0
+        }
+      ]
+    },
+    {
+      "name": "Tyquan Thornton",
+      "team": "KC",
+      "pos": "WR",
+      "adp": 246.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 244.0
+        },
+        {
+          "date": "May 6",
+          "adp": 246.0
+        }
+      ]
+    },
+    {
+      "name": "Dawson Knox",
+      "team": "BUF",
+      "pos": "TE",
+      "adp": 263.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 267.0
+        },
+        {
+          "date": "May 6",
+          "adp": 263.0
         }
       ]
     },
@@ -3678,11 +4562,319 @@
       "name": "Justin Joly",
       "team": "DEN",
       "pos": "TE",
-      "adp": 248.0,
+      "adp": 250.0,
       "history": [
         {
           "date": "May 5",
           "adp": 248.0
+        },
+        {
+          "date": "May 6",
+          "adp": 250.0
+        }
+      ]
+    },
+    {
+      "name": "Carson Beck",
+      "team": "ARI",
+      "pos": "QB",
+      "adp": 248.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 245.0
+        },
+        {
+          "date": "May 6",
+          "adp": 248.0
+        }
+      ]
+    },
+    {
+      "name": "Brashard Smith",
+      "team": "KC",
+      "pos": "RB",
+      "adp": 312.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 308.0
+        },
+        {
+          "date": "May 6",
+          "adp": 312.0
+        }
+      ]
+    },
+    {
+      "name": "Jahan Dotson",
+      "team": "ATL",
+      "pos": "WR",
+      "adp": 287.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 292.0
+        },
+        {
+          "date": "May 6",
+          "adp": 287.0
+        }
+      ]
+    },
+    {
+      "name": "Deion Burks",
+      "team": "IND",
+      "pos": "WR",
+      "adp": 272.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 287.0
+        },
+        {
+          "date": "May 6",
+          "adp": 272.0
+        }
+      ]
+    },
+    {
+      "name": "Darius Slayton",
+      "team": "NYG",
+      "pos": "WR",
+      "adp": 269.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 274.0
+        },
+        {
+          "date": "May 6",
+          "adp": 269.0
+        }
+      ]
+    },
+    {
+      "name": "Savion Williams",
+      "team": "GB",
+      "pos": "WR",
+      "adp": 275.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 279.0
+        },
+        {
+          "date": "May 6",
+          "adp": 275.0
+        }
+      ]
+    },
+    {
+      "name": "Eli Raridon",
+      "team": "NE",
+      "pos": "TE",
+      "adp": 268.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 265.0
+        },
+        {
+          "date": "May 6",
+          "adp": 268.0
+        }
+      ]
+    },
+    {
+      "name": "Elijah Arroyo",
+      "team": "SEA",
+      "pos": "TE",
+      "adp": 291.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 283.0
+        },
+        {
+          "date": "May 6",
+          "adp": 291.0
+        }
+      ]
+    },
+    {
+      "name": "Luke Musgrave",
+      "team": "GB",
+      "pos": "TE",
+      "adp": 318.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 320.0
+        },
+        {
+          "date": "May 6",
+          "adp": 318.0
+        }
+      ]
+    },
+    {
+      "name": "Tahj Brooks",
+      "team": "CIN",
+      "pos": "RB",
+      "adp": 284.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 281.0
+        },
+        {
+          "date": "May 6",
+          "adp": 284.0
+        }
+      ]
+    },
+    {
+      "name": "DeMario Douglas",
+      "team": "NE",
+      "pos": "WR",
+      "adp": 286.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 289.0
+        },
+        {
+          "date": "May 6",
+          "adp": 286.0
+        }
+      ]
+    },
+    {
+      "name": "Malik Benson",
+      "team": "LV",
+      "pos": "WR",
+      "adp": 300.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 285.0
+        },
+        {
+          "date": "May 6",
+          "adp": 300.0
+        }
+      ]
+    },
+    {
+      "name": "Treylon Burks",
+      "team": "WAS",
+      "pos": "WR",
+      "adp": 292.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 300.0
+        },
+        {
+          "date": "May 6",
+          "adp": 292.0
+        }
+      ]
+    },
+    {
+      "name": "CJ Daniels",
+      "team": "LAR",
+      "pos": "WR",
+      "adp": 288.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 293.0
+        },
+        {
+          "date": "May 6",
+          "adp": 288.0
+        }
+      ]
+    },
+    {
+      "name": "Devontez Walker",
+      "team": "BAL",
+      "pos": "WR",
+      "adp": 313.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 317.0
+        },
+        {
+          "date": "May 6",
+          "adp": 313.0
+        }
+      ]
+    },
+    {
+      "name": "Joshua Palmer",
+      "team": "BUF",
+      "pos": "WR",
+      "adp": 310.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 323.0
+        },
+        {
+          "date": "May 6",
+          "adp": 310.0
+        }
+      ]
+    },
+    {
+      "name": "Jordan Whittington",
+      "team": "LAR",
+      "pos": "WR",
+      "adp": 311.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 316.0
+        },
+        {
+          "date": "May 6",
+          "adp": 311.0
+        }
+      ]
+    },
+    {
+      "name": "Luke McCaffrey",
+      "team": "WAS",
+      "pos": "WR",
+      "adp": 304.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 318.0
+        },
+        {
+          "date": "May 6",
+          "adp": 304.0
+        }
+      ]
+    },
+    {
+      "name": "Cedric Tillman",
+      "team": "CLE",
+      "pos": "WR",
+      "adp": 329.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 326.0
+        },
+        {
+          "date": "May 6",
+          "adp": 329.0
         }
       ]
     },
@@ -3690,11 +4882,79 @@
       "name": "Mac Jones",
       "team": "SF",
       "pos": "QB",
-      "adp": 314.0,
+      "adp": 308.0,
       "history": [
         {
           "date": "May 5",
           "adp": 314.0
+        },
+        {
+          "date": "May 6",
+          "adp": 308.0
+        }
+      ]
+    },
+    {
+      "name": "Kalif Raymond",
+      "team": "CHI",
+      "pos": "WR",
+      "adp": 326.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 325.0
+        },
+        {
+          "date": "May 6",
+          "adp": 326.0
+        }
+      ]
+    },
+    {
+      "name": "Tutu Atwell",
+      "team": "MIA",
+      "pos": "WR",
+      "adp": 302.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 297.0
+        },
+        {
+          "date": "May 6",
+          "adp": 302.0
+        }
+      ]
+    },
+    {
+      "name": "Will Howard",
+      "team": "PIT",
+      "pos": "QB",
+      "adp": 325.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 324.0
+        },
+        {
+          "date": "May 6",
+          "adp": 325.0
+        }
+      ]
+    },
+    {
+      "name": "Greg Dortch",
+      "team": "DET",
+      "pos": "WR",
+      "adp": 350.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 376.0
+        },
+        {
+          "date": "May 6",
+          "adp": 350.0
         }
       ]
     },
@@ -3702,35 +4962,31 @@
       "name": "Zavion Thomas",
       "team": "CHI",
       "pos": "WR",
-      "adp": 253.0,
+      "adp": 259.0,
       "history": [
         {
           "date": "May 5",
           "adp": 253.0
+        },
+        {
+          "date": "May 6",
+          "adp": 259.0
         }
       ]
     },
     {
-      "name": "Audric Estime",
-      "team": "NO",
-      "pos": "RB",
-      "adp": 352.0,
+      "name": "Tez Johnson",
+      "team": "TB",
+      "pos": "WR",
+      "adp": 279.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 352.0
-        }
-      ]
-    },
-    {
-      "name": "Jameis Winston",
-      "team": "NYG",
-      "pos": "QB",
-      "adp": 335.0,
-      "history": [
+          "adp": 271.0
+        },
         {
-          "date": "May 5",
-          "adp": 335.0
+          "date": "May 6",
+          "adp": 279.0
         }
       ]
     },
@@ -3738,11 +4994,15 @@
       "name": "Xavier Hutchinson",
       "team": "HOU",
       "pos": "WR",
-      "adp": 368.0,
+      "adp": 370.0,
       "history": [
         {
           "date": "May 5",
           "adp": 368.0
+        },
+        {
+          "date": "May 6",
+          "adp": 370.0
         }
       ]
     },
@@ -3755,30 +5015,10 @@
         {
           "date": "May 5",
           "adp": 345.0
-        }
-      ]
-    },
-    {
-      "name": "Will Howard",
-      "team": "PIT",
-      "pos": "QB",
-      "adp": 324.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 324.0
-        }
-      ]
-    },
-    {
-      "name": "Tutu Atwell",
-      "team": "MIA",
-      "pos": "WR",
-      "adp": 297.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 297.0
+          "date": "May 6",
+          "adp": 345.0
         }
       ]
     },
@@ -3786,59 +5026,15 @@
       "name": "Colbie Young",
       "team": "CIN",
       "pos": "WR",
-      "adp": 371.0,
+      "adp": 373.0,
       "history": [
         {
           "date": "May 5",
           "adp": 371.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Huntley",
-      "team": "BAL",
-      "pos": "QB",
-      "adp": 380.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 380.0
-        }
-      ]
-    },
-    {
-      "name": "Greg Dortch",
-      "team": "DET",
-      "pos": "WR",
-      "adp": 376.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 376.0
-        }
-      ]
-    },
-    {
-      "name": "Jahdae Walker",
-      "team": "CHI",
-      "pos": "WR",
-      "adp": 278.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 278.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Badie",
-      "team": "DEN",
-      "pos": "RB",
-      "adp": 288.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 288.0
+          "date": "May 6",
+          "adp": 373.0
         }
       ]
     },
@@ -3846,71 +5042,15 @@
       "name": "Cole Kmet",
       "team": "CHI",
       "pos": "TE",
-      "adp": 291.0,
+      "adp": 276.0,
       "history": [
         {
           "date": "May 5",
           "adp": 291.0
-        }
-      ]
-    },
-    {
-      "name": "Joe Milton III",
-      "team": "DAL",
-      "pos": "QB",
-      "adp": 381.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 381.0
-        }
-      ]
-    },
-    {
-      "name": "CJ Daniels",
-      "team": "LAR",
-      "pos": "WR",
-      "adp": 293.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 293.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Higbee",
-      "team": "LAR",
-      "pos": "TE",
-      "adp": 332.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 332.0
-        }
-      ]
-    },
-    {
-      "name": "Joe Flacco",
-      "team": "CIN",
-      "pos": "QB",
-      "adp": 330.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 330.0
-        }
-      ]
-    },
-    {
-      "name": "Xavier Legette",
-      "team": "CAR",
-      "pos": "WR",
-      "adp": 311.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 311.0
+          "date": "May 6",
+          "adp": 276.0
         }
       ]
     },
@@ -3923,150 +5063,10 @@
         {
           "date": "May 5",
           "adp": 349.0
-        }
-      ]
-    },
-    {
-      "name": "Kevin Coleman Jr.",
-      "team": "MIA",
-      "pos": "WR",
-      "adp": 298.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 298.0
-        }
-      ]
-    },
-    {
-      "name": "Cyrus Allen",
-      "team": "KC",
-      "pos": "WR",
-      "adp": 299.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 299.0
-        }
-      ]
-    },
-    {
-      "name": "Jalen Royals",
-      "team": "KC",
-      "pos": "WR",
-      "adp": 301.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 301.0
-        }
-      ]
-    },
-    {
-      "name": "Cade Klubnik",
-      "team": "NYJ",
-      "pos": "QB",
-      "adp": 302.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 302.0
-        }
-      ]
-    },
-    {
-      "name": "Nick Westbrook-Ikhine",
-      "team": "IND",
-      "pos": "WR",
-      "adp": 303.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 303.0
-        }
-      ]
-    },
-    {
-      "name": "Ty Simpson",
-      "team": "LAR",
-      "pos": "QB",
-      "adp": 334.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 334.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylin Lane",
-      "team": "WAS",
-      "pos": "WR",
-      "adp": 304.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 304.0
-        }
-      ]
-    },
-    {
-      "name": "KeAndre Lambert-Smith",
-      "team": "LAC",
-      "pos": "WR",
-      "adp": 305.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 305.0
-        }
-      ]
-    },
-    {
-      "name": "Drew Sample",
-      "team": "CIN",
-      "pos": "TE",
-      "adp": 306.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 306.0
-        }
-      ]
-    },
-    {
-      "name": "Drew Allar",
-      "team": "PIT",
-      "pos": "QB",
-      "adp": 307.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 307.0
-        }
-      ]
-    },
-    {
-      "name": "Dyami Brown",
-      "team": "WAS",
-      "pos": "WR",
-      "adp": 309.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 309.0
-        }
-      ]
-    },
-    {
-      "name": "Taylen Green",
-      "team": "CLE",
-      "pos": "QB",
-      "adp": 310.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 310.0
+          "date": "May 6",
+          "adp": 349.0
         }
       ]
     },
@@ -4074,107 +5074,75 @@
       "name": "Trey Lance",
       "team": "LAC",
       "pos": "QB",
-      "adp": 378.0,
+      "adp": 355.0,
       "history": [
         {
           "date": "May 5",
           "adp": 378.0
-        }
-      ]
-    },
-    {
-      "name": "Isaac Guerendo",
-      "team": "SF",
-      "pos": "RB",
-      "adp": 333.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 333.0
+          "date": "May 6",
+          "adp": 355.0
         }
       ]
     },
     {
-      "name": "Joshua Palmer",
-      "team": "BUF",
-      "pos": "WR",
-      "adp": 323.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 323.0
-        }
-      ]
-    },
-    {
-      "name": "Kalif Raymond",
-      "team": "CHI",
-      "pos": "WR",
-      "adp": 325.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 325.0
-        }
-      ]
-    },
-    {
-      "name": "Olamide Zaccheaus",
-      "team": "ATL",
-      "pos": "WR",
-      "adp": 338.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 338.0
-        }
-      ]
-    },
-    {
-      "name": "Marcus Mariota",
-      "team": "WAS",
-      "pos": "QB",
-      "adp": 379.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 379.0
-        }
-      ]
-    },
-    {
-      "name": "Will Kacmarek",
-      "team": "MIA",
-      "pos": "TE",
-      "adp": 328.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 328.0
-        }
-      ]
-    },
-    {
-      "name": "Anthony Richardson Sr.",
-      "team": "IND",
-      "pos": "QB",
-      "adp": 329.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 329.0
-        }
-      ]
-    },
-    {
-      "name": "Michael Trigg",
+      "name": "Joe Milton III",
       "team": "DAL",
+      "pos": "QB",
+      "adp": 358.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 381.0
+        },
+        {
+          "date": "May 6",
+          "adp": 358.0
+        }
+      ]
+    },
+    {
+      "name": "Charlie Kolar",
+      "team": "LAC",
       "pos": "TE",
       "adp": 331.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 319.0
+        },
+        {
+          "date": "May 6",
           "adp": 331.0
+        }
+      ]
+    },
+    {
+      "name": "Tyler Higbee",
+      "team": "LAR",
+      "pos": "TE",
+      "adp": 323.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 332.0
+        },
+        {
+          "date": "May 6",
+          "adp": 323.0
+        }
+      ]
+    },
+    {
+      "name": "Rashaad Penny",
+      "team": "",
+      "pos": "RB",
+      "adp": 285.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 285.0
         }
       ]
     },
@@ -4182,23 +5150,483 @@
       "name": "Isaiah Bond",
       "team": "CLE",
       "pos": "WR",
-      "adp": 342.0,
+      "adp": 319.0,
       "history": [
         {
           "date": "May 5",
           "adp": 342.0
+        },
+        {
+          "date": "May 6",
+          "adp": 319.0
         }
       ]
     },
     {
-      "name": "Kendrick Law",
-      "team": "DET",
+      "name": "Jake Browning",
+      "team": "TB",
+      "pos": "QB",
+      "adp": 382.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 382.0
+        }
+      ]
+    },
+    {
+      "name": "Cyrus Allen",
+      "team": "KC",
       "pos": "WR",
-      "adp": 336.0,
+      "adp": 290.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 336.0
+          "adp": 299.0
+        },
+        {
+          "date": "May 6",
+          "adp": 290.0
+        }
+      ]
+    },
+    {
+      "name": "Cade Klubnik",
+      "team": "NYJ",
+      "pos": "QB",
+      "adp": 293.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 302.0
+        },
+        {
+          "date": "May 6",
+          "adp": 293.0
+        }
+      ]
+    },
+    {
+      "name": "Jahdae Walker",
+      "team": "CHI",
+      "pos": "WR",
+      "adp": 294.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 278.0
+        },
+        {
+          "date": "May 6",
+          "adp": 294.0
+        }
+      ]
+    },
+    {
+      "name": "Drew Allar",
+      "team": "PIT",
+      "pos": "QB",
+      "adp": 297.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 307.0
+        },
+        {
+          "date": "May 6",
+          "adp": 297.0
+        }
+      ]
+    },
+    {
+      "name": "Nick Westbrook-Ikhine",
+      "team": "IND",
+      "pos": "WR",
+      "adp": 299.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 303.0
+        },
+        {
+          "date": "May 6",
+          "adp": 299.0
+        }
+      ]
+    },
+    {
+      "name": "Ty Simpson",
+      "team": "LAR",
+      "pos": "QB",
+      "adp": 328.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 334.0
+        },
+        {
+          "date": "May 6",
+          "adp": 328.0
+        }
+      ]
+    },
+    {
+      "name": "Jalen Royals",
+      "team": "KC",
+      "pos": "WR",
+      "adp": 303.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 301.0
+        },
+        {
+          "date": "May 6",
+          "adp": 303.0
+        }
+      ]
+    },
+    {
+      "name": "Xavier Legette",
+      "team": "CAR",
+      "pos": "WR",
+      "adp": 306.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 311.0
+        },
+        {
+          "date": "May 6",
+          "adp": 306.0
+        }
+      ]
+    },
+    {
+      "name": "Anthony Richardson Sr.",
+      "team": "IND",
+      "pos": "QB",
+      "adp": 305.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 329.0
+        },
+        {
+          "date": "May 6",
+          "adp": 305.0
+        }
+      ]
+    },
+    {
+      "name": "Marcus Mariota",
+      "team": "WAS",
+      "pos": "QB",
+      "adp": 375.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 379.0
+        },
+        {
+          "date": "May 6",
+          "adp": 375.0
+        }
+      ]
+    },
+    {
+      "name": "KeAndre Lambert-Smith",
+      "team": "LAC",
+      "pos": "WR",
+      "adp": 307.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 305.0
+        },
+        {
+          "date": "May 6",
+          "adp": 307.0
+        }
+      ]
+    },
+    {
+      "name": "Joe Flacco",
+      "team": "CIN",
+      "pos": "QB",
+      "adp": 343.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 330.0
+        },
+        {
+          "date": "May 6",
+          "adp": 343.0
+        }
+      ]
+    },
+    {
+      "name": "KaVontae Turpin",
+      "team": "DAL",
+      "pos": "WR",
+      "adp": 315.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 327.0
+        },
+        {
+          "date": "May 6",
+          "adp": 315.0
+        }
+      ]
+    },
+    {
+      "name": "Taylen Green",
+      "team": "CLE",
+      "pos": "QB",
+      "adp": 316.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 310.0
+        },
+        {
+          "date": "May 6",
+          "adp": 316.0
+        }
+      ]
+    },
+    {
+      "name": "Jaylin Lane",
+      "team": "WAS",
+      "pos": "WR",
+      "adp": 317.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 304.0
+        },
+        {
+          "date": "May 6",
+          "adp": 317.0
+        }
+      ]
+    },
+    {
+      "name": "Tai Felton",
+      "team": "MIN",
+      "pos": "WR",
+      "adp": 321.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 313.0
+        },
+        {
+          "date": "May 6",
+          "adp": 321.0
+        }
+      ]
+    },
+    {
+      "name": "Kevin Coleman Jr.",
+      "team": "MIA",
+      "pos": "WR",
+      "adp": 322.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 298.0
+        },
+        {
+          "date": "May 6",
+          "adp": 322.0
+        }
+      ]
+    },
+    {
+      "name": "Drew Sample",
+      "team": "CIN",
+      "pos": "TE",
+      "adp": 324.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 306.0
+        },
+        {
+          "date": "May 6",
+          "adp": 324.0
+        }
+      ]
+    },
+    {
+      "name": "Isaac Guerendo",
+      "team": "SF",
+      "pos": "RB",
+      "adp": 354.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 333.0
+        },
+        {
+          "date": "May 6",
+          "adp": 354.0
+        }
+      ]
+    },
+    {
+      "name": "Olamide Zaccheaus",
+      "team": "ATL",
+      "pos": "WR",
+      "adp": 339.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 338.0
+        },
+        {
+          "date": "May 6",
+          "adp": 339.0
+        }
+      ]
+    },
+    {
+      "name": "Jameis Winston",
+      "team": "NYG",
+      "pos": "QB",
+      "adp": 376.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 335.0
+        },
+        {
+          "date": "May 6",
+          "adp": 376.0
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Horn Jr.",
+      "team": "CAR",
+      "pos": "WR",
+      "adp": 327.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 375.0
+        },
+        {
+          "date": "May 6",
+          "adp": 327.0
+        }
+      ]
+    },
+    {
+      "name": "Dyami Brown",
+      "team": "WAS",
+      "pos": "WR",
+      "adp": 330.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 309.0
+        },
+        {
+          "date": "May 6",
+          "adp": 330.0
+        }
+      ]
+    },
+    {
+      "name": "Jerome Ford",
+      "team": "WAS",
+      "pos": "RB",
+      "adp": 369.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 369.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Trigg",
+      "team": "DAL",
+      "pos": "TE",
+      "adp": 333.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 331.0
+        },
+        {
+          "date": "May 6",
+          "adp": 333.0
+        }
+      ]
+    },
+    {
+      "name": "Dont'e Thornton Jr.",
+      "team": "LV",
+      "pos": "WR",
+      "adp": 334.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 350.0
+        },
+        {
+          "date": "May 6",
+          "adp": 334.0
+        }
+      ]
+    },
+    {
+      "name": "Dillon Bell",
+      "team": "MIN",
+      "pos": "WR",
+      "adp": 335.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 364.0
+        },
+        {
+          "date": "May 6",
+          "adp": 335.0
+        }
+      ]
+    },
+    {
+      "name": "Isaiah Davis",
+      "team": "NYJ",
+      "pos": "RB",
+      "adp": 368.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 368.0
+        }
+      ]
+    },
+    {
+      "name": "Taysom Hill",
+      "team": "",
+      "pos": "TE",
+      "adp": 337.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 363.0
+        },
+        {
+          "date": "May 6",
+          "adp": 337.0
         }
       ]
     },
@@ -4206,11 +5634,15 @@
       "name": "Jeff Caldwell",
       "team": "KC",
       "pos": "WR",
-      "adp": 337.0,
+      "adp": 338.0,
       "history": [
         {
           "date": "May 5",
           "adp": 337.0
+        },
+        {
+          "date": "May 6",
+          "adp": 338.0
         }
       ]
     },
@@ -4218,23 +5650,31 @@
       "name": "Jack Endries",
       "team": "CIN",
       "pos": "TE",
-      "adp": 339.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 339.0
-        }
-      ]
-    },
-    {
-      "name": "Konata Mumpfield",
-      "team": "LAR",
-      "pos": "WR",
       "adp": 340.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 339.0
+        },
+        {
+          "date": "May 6",
           "adp": 340.0
+        }
+      ]
+    },
+    {
+      "name": "Noah Fant",
+      "team": "NO",
+      "pos": "TE",
+      "adp": 341.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 369.0
+        },
+        {
+          "date": "May 6",
+          "adp": 341.0
         }
       ]
     },
@@ -4242,11 +5682,15 @@
       "name": "Will Shipley",
       "team": "PHI",
       "pos": "RB",
-      "adp": 343.0,
+      "adp": 342.0,
       "history": [
         {
           "date": "May 5",
           "adp": 343.0
+        },
+        {
+          "date": "May 6",
+          "adp": 342.0
         }
       ]
     },
@@ -4259,6 +5703,26 @@
         {
           "date": "May 5",
           "adp": 344.0
+        },
+        {
+          "date": "May 6",
+          "adp": 344.0
+        }
+      ]
+    },
+    {
+      "name": "Noah Gray",
+      "team": "KC",
+      "pos": "TE",
+      "adp": 367.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 367.0
+        },
+        {
+          "date": "May 6",
+          "adp": 367.0
         }
       ]
     },
@@ -4270,6 +5734,10 @@
       "history": [
         {
           "date": "May 5",
+          "adp": 346.0
+        },
+        {
+          "date": "May 6",
           "adp": 346.0
         }
       ]
@@ -4283,6 +5751,10 @@
         {
           "date": "May 5",
           "adp": 347.0
+        },
+        {
+          "date": "May 6",
+          "adp": 347.0
         }
       ]
     },
@@ -4295,30 +5767,38 @@
         {
           "date": "May 5",
           "adp": 348.0
+        },
+        {
+          "date": "May 6",
+          "adp": 348.0
         }
       ]
     },
     {
-      "name": "Dont'e Thornton Jr.",
-      "team": "LV",
+      "name": "Roman Wilson",
+      "team": "PIT",
       "pos": "WR",
-      "adp": 350.0,
+      "adp": 351.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 350.0
+          "adp": 377.0
+        },
+        {
+          "date": "May 6",
+          "adp": 351.0
         }
       ]
     },
     {
-      "name": "Noah Gray",
-      "team": "KC",
+      "name": "Adam Trautman",
+      "team": "DEN",
       "pos": "TE",
-      "adp": 367.0,
+      "adp": 352.0,
       "history": [
         {
-          "date": "May 5",
-          "adp": 367.0
+          "date": "May 6",
+          "adp": 352.0
         }
       ]
     },
@@ -4326,11 +5806,15 @@
       "name": "Nate Boerkircher",
       "team": "JAC",
       "pos": "TE",
-      "adp": 351.0,
+      "adp": 353.0,
       "history": [
         {
           "date": "May 5",
           "adp": 351.0
+        },
+        {
+          "date": "May 6",
+          "adp": 353.0
         }
       ]
     },
@@ -4338,11 +5822,15 @@
       "name": "Kyle Juszczyk",
       "team": "SF",
       "pos": "RB",
-      "adp": 353.0,
+      "adp": 356.0,
       "history": [
         {
           "date": "May 5",
           "adp": 353.0
+        },
+        {
+          "date": "May 6",
+          "adp": 356.0
         }
       ]
     },
@@ -4350,11 +5838,15 @@
       "name": "Jalen Milroe",
       "team": "SEA",
       "pos": "QB",
-      "adp": 354.0,
+      "adp": 357.0,
       "history": [
         {
           "date": "May 5",
           "adp": 354.0
+        },
+        {
+          "date": "May 6",
+          "adp": 357.0
         }
       ]
     },
@@ -4362,35 +5854,15 @@
       "name": "Jarquez Hunter",
       "team": "LAR",
       "pos": "RB",
-      "adp": 356.0,
+      "adp": 360.0,
       "history": [
         {
           "date": "May 5",
           "adp": 356.0
-        }
-      ]
-    },
-    {
-      "name": "Seydou Traore",
-      "team": "MIA",
-      "pos": "TE",
-      "adp": 357.0,
-      "history": [
+        },
         {
-          "date": "May 5",
-          "adp": 357.0
-        }
-      ]
-    },
-    {
-      "name": "Darren Waller",
-      "team": "",
-      "pos": "TE",
-      "adp": 358.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 358.0
+          "date": "May 6",
+          "adp": 360.0
         }
       ]
     },
@@ -4398,23 +5870,27 @@
       "name": "Erick All Jr.",
       "team": "CIN",
       "pos": "TE",
-      "adp": 359.0,
+      "adp": 361.0,
       "history": [
         {
           "date": "May 5",
           "adp": 359.0
+        },
+        {
+          "date": "May 6",
+          "adp": 361.0
         }
       ]
     },
     {
-      "name": "Tyren Montgomery",
-      "team": "TEN",
+      "name": "Odell Beckham Jr.",
+      "team": "",
       "pos": "WR",
-      "adp": 360.0,
+      "adp": 362.0,
       "history": [
         {
-          "date": "May 5",
-          "adp": 360.0
+          "date": "May 6",
+          "adp": 362.0
         }
       ]
     },
@@ -4422,46 +5898,30 @@
       "name": "Nick Chubb",
       "team": "",
       "pos": "RB",
-      "adp": 361.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 361.0
-        }
-      ]
-    },
-    {
-      "name": "Mitch Tinsley",
-      "team": "CIN",
-      "pos": "WR",
-      "adp": 362.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 362.0
-        }
-      ]
-    },
-    {
-      "name": "Taysom Hill",
-      "team": "",
-      "pos": "TE",
       "adp": 363.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 361.0
+        },
+        {
+          "date": "May 6",
           "adp": 363.0
         }
       ]
     },
     {
-      "name": "Dillon Bell",
-      "team": "MIN",
-      "pos": "WR",
+      "name": "Darren Waller",
+      "team": "",
+      "pos": "TE",
       "adp": 364.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 358.0
+        },
+        {
+          "date": "May 6",
           "adp": 364.0
         }
       ]
@@ -4470,23 +5930,43 @@
       "name": "Josh Cameron",
       "team": "JAC",
       "pos": "WR",
+      "adp": 365.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 366.0
+        },
+        {
+          "date": "May 6",
+          "adp": 365.0
+        }
+      ]
+    },
+    {
+      "name": "Will Kacmarek",
+      "team": "MIA",
+      "pos": "TE",
       "adp": 366.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 328.0
+        },
+        {
+          "date": "May 6",
           "adp": 366.0
         }
       ]
     },
     {
-      "name": "Noah Fant",
-      "team": "NO",
-      "pos": "TE",
-      "adp": 369.0,
+      "name": "John Metchie III",
+      "team": "CAR",
+      "pos": "WR",
+      "adp": 371.0,
       "history": [
         {
-          "date": "May 5",
-          "adp": 369.0
+          "date": "May 6",
+          "adp": 371.0
         }
       ]
     },
@@ -4494,95 +5974,67 @@
       "name": "Josh Oliver",
       "team": "MIN",
       "pos": "TE",
-      "adp": 370.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 370.0
-        }
-      ]
-    },
-    {
-      "name": "Tommy Tremble",
-      "team": "CAR",
-      "pos": "TE",
       "adp": 372.0,
       "history": [
         {
           "date": "May 5",
+          "adp": 370.0
+        },
+        {
+          "date": "May 6",
           "adp": 372.0
         }
       ]
     },
     {
-      "name": "Matthew Hibner",
-      "team": "BAL",
-      "pos": "TE",
-      "adp": 373.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 373.0
-        }
-      ]
-    },
-    {
-      "name": "Jawhar Jordan",
-      "team": "HOU",
+      "name": "Jam Miller",
+      "team": "NE",
       "pos": "RB",
       "adp": 374.0,
       "history": [
         {
-          "date": "May 5",
+          "date": "May 6",
           "adp": 374.0
         }
       ]
     },
     {
-      "name": "Jimmy Horn Jr.",
-      "team": "CAR",
-      "pos": "WR",
-      "adp": 375.0,
-      "history": [
-        {
-          "date": "May 5",
-          "adp": 375.0
-        }
-      ]
-    },
-    {
-      "name": "Roman Wilson",
-      "team": "PIT",
-      "pos": "WR",
+      "name": "Tyson Bagent",
+      "team": "CHI",
+      "pos": "QB",
       "adp": 377.0,
       "history": [
         {
-          "date": "May 5",
+          "date": "May 6",
           "adp": 377.0
         }
       ]
     },
     {
-      "name": "Davis Mills",
-      "team": "HOU",
-      "pos": "QB",
-      "adp": 382.0,
+      "name": "Phil Mafah",
+      "team": "DAL",
+      "pos": "RB",
+      "adp": 378.0,
       "history": [
         {
-          "date": "May 5",
-          "adp": 382.0
+          "date": "May 6",
+          "adp": 378.0
         }
       ]
     },
     {
-      "name": "Durham Smythe",
-      "team": "BAL",
-      "pos": "TE",
-      "adp": 383.0,
+      "name": "Kendrick Law",
+      "team": "DET",
+      "pos": "WR",
+      "adp": 379.0,
       "history": [
         {
           "date": "May 5",
-          "adp": 383.0
+          "adp": 336.0
+        },
+        {
+          "date": "May 6",
+          "adp": 379.0
         }
       ]
     },
@@ -4590,11 +6042,15 @@
       "name": "Sione Vaki",
       "team": "DET",
       "pos": "RB",
-      "adp": 384.0,
+      "adp": 380.0,
       "history": [
         {
           "date": "May 5",
           "adp": 384.0
+        },
+        {
+          "date": "May 6",
+          "adp": 380.0
         }
       ]
     },
@@ -4602,11 +6058,67 @@
       "name": "Ashton Dulin",
       "team": "IND",
       "pos": "WR",
-      "adp": 385.0,
+      "adp": 381.0,
       "history": [
         {
           "date": "May 5",
           "adp": 385.0
+        },
+        {
+          "date": "May 6",
+          "adp": 381.0
+        }
+      ]
+    },
+    {
+      "name": "Malik Heath",
+      "team": "",
+      "pos": "WR",
+      "adp": 383.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 383.0
+        }
+      ]
+    },
+    {
+      "name": "Mitch Tinsley",
+      "team": "CIN",
+      "pos": "WR",
+      "adp": 384.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 362.0
+        },
+        {
+          "date": "May 6",
+          "adp": 384.0
+        }
+      ]
+    },
+    {
+      "name": "Robert Henry Jr.",
+      "team": "WAS",
+      "pos": "RB",
+      "adp": 385.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 385.0
+        }
+      ]
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "team": "BAL",
+      "pos": "WR",
+      "adp": 386.0,
+      "history": [
+        {
+          "date": "May 6",
+          "adp": 386.0
         }
       ]
     },
@@ -4614,11 +6126,31 @@
       "name": "Elijah Moore",
       "team": "PHI",
       "pos": "WR",
-      "adp": 386.0,
+      "adp": 387.0,
       "history": [
         {
           "date": "May 5",
           "adp": 386.0
+        },
+        {
+          "date": "May 6",
+          "adp": 387.0
+        }
+      ]
+    },
+    {
+      "name": "Tyren Montgomery",
+      "team": "TEN",
+      "pos": "WR",
+      "adp": 388.0,
+      "history": [
+        {
+          "date": "May 5",
+          "adp": 360.0
+        },
+        {
+          "date": "May 6",
+          "adp": 388.0
         }
       ]
     }
