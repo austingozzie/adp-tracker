@@ -1,12 +1,15 @@
 {
-  "updated": "2026-05-06 15:58",
-  "source": "FantasyPros / Underdog Fantasy",
+  "updated": "2026-05-06 17:41",
+  "source": "FantasyPros (Underdog + ESPN) + Sleeper API",
   "players": [
     {
       "name": "Bijan Robinson",
       "team": "ATL",
       "pos": "RB",
       "adp": 1.0,
+      "adp_ud": 1.0,
+      "adp_espn": null,
+      "adp_sleeper": 1.0,
       "history": [
         {
           "date": "May 5",
@@ -23,6 +26,9 @@
       "team": "DET",
       "pos": "RB",
       "adp": 2.0,
+      "adp_ud": 2.0,
+      "adp_espn": null,
+      "adp_sleeper": 3.0,
       "history": [
         {
           "date": "May 5",
@@ -39,6 +45,9 @@
       "team": "CIN",
       "pos": "WR",
       "adp": 3.0,
+      "adp_ud": 3.0,
+      "adp_espn": null,
+      "adp_sleeper": 3.0,
       "history": [
         {
           "date": "May 5",
@@ -55,6 +64,9 @@
       "team": "LAR",
       "pos": "WR",
       "adp": 4.0,
+      "adp_ud": 4.0,
+      "adp_espn": null,
+      "adp_sleeper": 5.0,
       "history": [
         {
           "date": "May 5",
@@ -71,6 +83,9 @@
       "team": "SEA",
       "pos": "WR",
       "adp": 5.0,
+      "adp_ud": 5.0,
+      "adp_espn": null,
+      "adp_sleeper": 5.0,
       "history": [
         {
           "date": "May 5",
@@ -87,6 +102,9 @@
       "team": "SF",
       "pos": "RB",
       "adp": 7.0,
+      "adp_ud": 7.0,
+      "adp_espn": null,
+      "adp_sleeper": 5.0,
       "history": [
         {
           "date": "May 5",
@@ -103,6 +121,9 @@
       "team": "IND",
       "pos": "RB",
       "adp": 6.0,
+      "adp_ud": 6.0,
+      "adp_espn": null,
+      "adp_sleeper": 4.0,
       "history": [
         {
           "date": "May 5",
@@ -119,6 +140,9 @@
       "team": "DET",
       "pos": "WR",
       "adp": 8.0,
+      "adp_ud": 8.0,
+      "adp_espn": null,
+      "adp_sleeper": 11.0,
       "history": [
         {
           "date": "May 5",
@@ -135,6 +159,9 @@
       "team": "BUF",
       "pos": "RB",
       "adp": 11.0,
+      "adp_ud": 11.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -151,6 +178,9 @@
       "team": "MIN",
       "pos": "WR",
       "adp": 10.0,
+      "adp_ud": 10.0,
+      "adp_espn": null,
+      "adp_sleeper": 12.0,
       "history": [
         {
           "date": "May 5",
@@ -167,6 +197,9 @@
       "team": "DAL",
       "pos": "WR",
       "adp": 9.0,
+      "adp_ud": 9.0,
+      "adp_espn": null,
+      "adp_sleeper": 11.0,
       "history": [
         {
           "date": "May 5",
@@ -183,6 +216,9 @@
       "team": "LV",
       "pos": "RB",
       "adp": 12.0,
+      "adp_ud": 12.0,
+      "adp_espn": null,
+      "adp_sleeper": 12.0,
       "history": [
         {
           "date": "May 5",
@@ -199,6 +235,9 @@
       "team": "MIA",
       "pos": "RB",
       "adp": 13.0,
+      "adp_ud": 13.0,
+      "adp_espn": null,
+      "adp_sleeper": 10.0,
       "history": [
         {
           "date": "May 5",
@@ -215,6 +254,9 @@
       "team": "PHI",
       "pos": "RB",
       "adp": 14.0,
+      "adp_ud": 14.0,
+      "adp_espn": null,
+      "adp_sleeper": 13.0,
       "history": [
         {
           "date": "May 5",
@@ -231,6 +273,9 @@
       "team": "ARI",
       "pos": "TE",
       "adp": 24.0,
+      "adp_ud": 24.0,
+      "adp_espn": null,
+      "adp_sleeper": 19.0,
       "history": [
         {
           "date": "May 5",
@@ -247,6 +292,9 @@
       "team": "KC",
       "pos": "RB",
       "adp": 15.0,
+      "adp_ud": 15.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -263,6 +311,9 @@
       "team": "CIN",
       "pos": "RB",
       "adp": 19.0,
+      "adp_ud": 19.0,
+      "adp_espn": null,
+      "adp_sleeper": 18.0,
       "history": [
         {
           "date": "May 5",
@@ -279,6 +330,9 @@
       "team": "LAC",
       "pos": "RB",
       "adp": 16.0,
+      "adp_ud": 16.0,
+      "adp_espn": null,
+      "adp_sleeper": 12.0,
       "history": [
         {
           "date": "May 5",
@@ -295,6 +349,9 @@
       "team": "ATL",
       "pos": "WR",
       "adp": 21.0,
+      "adp_ud": 21.0,
+      "adp_espn": null,
+      "adp_sleeper": 14.0,
       "history": [
         {
           "date": "May 5",
@@ -311,6 +368,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 20.0,
+      "adp_ud": 20.0,
+      "adp_espn": null,
+      "adp_sleeper": 33.0,
       "history": [
         {
           "date": "May 5",
@@ -327,6 +387,9 @@
       "team": "NYG",
       "pos": "WR",
       "adp": 17.0,
+      "adp_ud": 17.0,
+      "adp_espn": null,
+      "adp_sleeper": 19.0,
       "history": [
         {
           "date": "May 5",
@@ -343,6 +406,9 @@
       "team": "LV",
       "pos": "TE",
       "adp": 22.0,
+      "adp_ud": 22.0,
+      "adp_espn": null,
+      "adp_sleeper": 26.0,
       "history": [
         {
           "date": "May 5",
@@ -359,6 +425,9 @@
       "team": "BAL",
       "pos": "RB",
       "adp": 18.0,
+      "adp_ud": 18.0,
+      "adp_espn": null,
+      "adp_sleeper": 24.0,
       "history": [
         {
           "date": "May 5",
@@ -375,6 +444,9 @@
       "team": "ARI",
       "pos": "RB",
       "adp": 23.0,
+      "adp_ud": 23.0,
+      "adp_espn": null,
+      "adp_sleeper": 15.0,
       "history": [
         {
           "date": "May 5",
@@ -391,6 +463,9 @@
       "team": "BUF",
       "pos": "QB",
       "adp": 29.0,
+      "adp_ud": 29.0,
+      "adp_espn": null,
+      "adp_sleeper": 1.0,
       "history": [
         {
           "date": "May 5",
@@ -407,6 +482,9 @@
       "team": "DAL",
       "pos": "WR",
       "adp": 25.0,
+      "adp_ud": 25.0,
+      "adp_espn": null,
+      "adp_sleeper": 23.0,
       "history": [
         {
           "date": "May 5",
@@ -423,6 +501,9 @@
       "team": "HOU",
       "pos": "WR",
       "adp": 26.0,
+      "adp_ud": 26.0,
+      "adp_espn": null,
+      "adp_sleeper": 21.0,
       "history": [
         {
           "date": "May 5",
@@ -439,6 +520,9 @@
       "team": "GB",
       "pos": "RB",
       "adp": 27.0,
+      "adp_ud": 27.0,
+      "adp_espn": null,
+      "adp_sleeper": 20.0,
       "history": [
         {
           "date": "May 5",
@@ -455,6 +539,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 28.0,
+      "adp_ud": 28.0,
+      "adp_espn": null,
+      "adp_sleeper": 31.0,
       "history": [
         {
           "date": "May 5",
@@ -471,6 +558,9 @@
       "team": "NO",
       "pos": "WR",
       "adp": 35.0,
+      "adp_ud": 35.0,
+      "adp_espn": null,
+      "adp_sleeper": 26.0,
       "history": [
         {
           "date": "May 5",
@@ -487,6 +577,9 @@
       "team": "LAR",
       "pos": "RB",
       "adp": 34.0,
+      "adp_ud": 34.0,
+      "adp_espn": null,
+      "adp_sleeper": 26.0,
       "history": [
         {
           "date": "May 5",
@@ -503,6 +596,9 @@
       "team": "NO",
       "pos": "RB",
       "adp": 30.0,
+      "adp_ud": 30.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -519,6 +615,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 33.0,
+      "adp_ud": 33.0,
+      "adp_espn": null,
+      "adp_sleeper": 37.0,
       "history": [
         {
           "date": "May 5",
@@ -535,6 +634,9 @@
       "team": "NYJ",
       "pos": "RB",
       "adp": 32.0,
+      "adp_ud": 32.0,
+      "adp_espn": null,
+      "adp_sleeper": 27.0,
       "history": [
         {
           "date": "May 5",
@@ -551,6 +653,9 @@
       "team": "DAL",
       "pos": "RB",
       "adp": 37.0,
+      "adp_ud": 37.0,
+      "adp_espn": null,
+      "adp_sleeper": 32.0,
       "history": [
         {
           "date": "May 5",
@@ -567,6 +672,9 @@
       "team": "CIN",
       "pos": "WR",
       "adp": 36.0,
+      "adp_ud": 36.0,
+      "adp_espn": null,
+      "adp_sleeper": 36.0,
       "history": [
         {
           "date": "May 5",
@@ -583,6 +691,9 @@
       "team": "NYJ",
       "pos": "WR",
       "adp": 38.0,
+      "adp_ud": 38.0,
+      "adp_espn": null,
+      "adp_sleeper": 38.0,
       "history": [
         {
           "date": "May 5",
@@ -599,6 +710,9 @@
       "team": "CHI",
       "pos": "TE",
       "adp": 46.0,
+      "adp_ud": 46.0,
+      "adp_espn": null,
+      "adp_sleeper": 48.0,
       "history": [
         {
           "date": "May 5",
@@ -615,6 +729,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 31.0,
+      "adp_ud": 31.0,
+      "adp_espn": null,
+      "adp_sleeper": 53.0,
       "history": [
         {
           "date": "May 5",
@@ -631,6 +748,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 39.0,
+      "adp_ud": 39.0,
+      "adp_espn": null,
+      "adp_sleeper": 49.0,
       "history": [
         {
           "date": "May 5",
@@ -647,6 +767,9 @@
       "team": "TB",
       "pos": "RB",
       "adp": 43.0,
+      "adp_ud": 43.0,
+      "adp_espn": null,
+      "adp_sleeper": 22.0,
       "history": [
         {
           "date": "May 5",
@@ -663,6 +786,9 @@
       "team": "TB",
       "pos": "WR",
       "adp": 40.0,
+      "adp_ud": 40.0,
+      "adp_espn": null,
+      "adp_sleeper": 54.0,
       "history": [
         {
           "date": "May 5",
@@ -679,6 +805,9 @@
       "team": "BAL",
       "pos": "QB",
       "adp": 54.0,
+      "adp_ud": 54.0,
+      "adp_espn": null,
+      "adp_sleeper": 12.0,
       "history": [
         {
           "date": "May 5",
@@ -695,6 +824,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 41.0,
+      "adp_ud": 41.0,
+      "adp_espn": null,
+      "adp_sleeper": 47.0,
       "history": [
         {
           "date": "May 5",
@@ -711,6 +843,9 @@
       "team": "CHI",
       "pos": "WR",
       "adp": 42.0,
+      "adp_ud": 42.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -727,6 +862,9 @@
       "team": "HOU",
       "pos": "RB",
       "adp": 48.0,
+      "adp_ud": 48.0,
+      "adp_espn": null,
+      "adp_sleeper": 48.0,
       "history": [
         {
           "date": "May 5",
@@ -743,6 +881,9 @@
       "team": "NYG",
       "pos": "RB",
       "adp": 49.0,
+      "adp_ud": 49.0,
+      "adp_espn": null,
+      "adp_sleeper": 41.0,
       "history": [
         {
           "date": "May 5",
@@ -759,6 +900,9 @@
       "team": "LAR",
       "pos": "WR",
       "adp": 52.0,
+      "adp_ud": 52.0,
+      "adp_espn": null,
+      "adp_sleeper": 46.0,
       "history": [
         {
           "date": "May 5",
@@ -775,6 +919,9 @@
       "team": "BUF",
       "pos": "WR",
       "adp": 53.0,
+      "adp_ud": 53.0,
+      "adp_espn": null,
+      "adp_sleeper": 59.0,
       "history": [
         {
           "date": "May 5",
@@ -791,6 +938,9 @@
       "team": "NE",
       "pos": "RB",
       "adp": 45.0,
+      "adp_ud": 45.0,
+      "adp_espn": null,
+      "adp_sleeper": 37.0,
       "history": [
         {
           "date": "May 5",
@@ -807,6 +957,9 @@
       "team": "CLE",
       "pos": "RB",
       "adp": 55.0,
+      "adp_ud": 55.0,
+      "adp_espn": null,
+      "adp_sleeper": 45.0,
       "history": [
         {
           "date": "May 5",
@@ -823,6 +976,9 @@
       "team": "CIN",
       "pos": "QB",
       "adp": 62.0,
+      "adp_ud": 62.0,
+      "adp_espn": null,
+      "adp_sleeper": 11.0,
       "history": [
         {
           "date": "May 5",
@@ -839,6 +995,9 @@
       "team": "DEN",
       "pos": "WR",
       "adp": 50.0,
+      "adp_ud": 50.0,
+      "adp_espn": null,
+      "adp_sleeper": 42.0,
       "history": [
         {
           "date": "May 5",
@@ -855,6 +1014,9 @@
       "team": "DET",
       "pos": "WR",
       "adp": 47.0,
+      "adp_ud": 47.0,
+      "adp_espn": null,
+      "adp_sleeper": 52.0,
       "history": [
         {
           "date": "May 5",
@@ -871,6 +1033,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 44.0,
+      "adp_ud": 44.0,
+      "adp_espn": null,
+      "adp_sleeper": 60.0,
       "history": [
         {
           "date": "May 5",
@@ -887,6 +1052,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 51.0,
+      "adp_ud": 51.0,
+      "adp_espn": null,
+      "adp_sleeper": 56.0,
       "history": [
         {
           "date": "May 5",
@@ -903,6 +1071,9 @@
       "team": "NE",
       "pos": "QB",
       "adp": 71.0,
+      "adp_ud": 71.0,
+      "adp_espn": null,
+      "adp_sleeper": 3.0,
       "history": [
         {
           "date": "May 5",
@@ -919,6 +1090,9 @@
       "team": "CHI",
       "pos": "RB",
       "adp": 56.0,
+      "adp_ud": 56.0,
+      "adp_espn": null,
+      "adp_sleeper": 47.0,
       "history": [
         {
           "date": "May 5",
@@ -935,6 +1109,9 @@
       "team": "IND",
       "pos": "TE",
       "adp": 69.0,
+      "adp_ud": 69.0,
+      "adp_espn": null,
+      "adp_sleeper": 57.0,
       "history": [
         {
           "date": "May 5",
@@ -951,6 +1128,9 @@
       "team": "WAS",
       "pos": "QB",
       "adp": 65.0,
+      "adp_ud": 65.0,
+      "adp_espn": null,
+      "adp_sleeper": 9.0,
       "history": [
         {
           "date": "May 5",
@@ -967,6 +1147,9 @@
       "team": "CHI",
       "pos": "WR",
       "adp": 57.0,
+      "adp_ud": 57.0,
+      "adp_espn": null,
+      "adp_sleeper": 68.0,
       "history": [
         {
           "date": "May 5",
@@ -983,6 +1166,9 @@
       "team": "JAC",
       "pos": "RB",
       "adp": 59.0,
+      "adp_ud": 59.0,
+      "adp_espn": null,
+      "adp_sleeper": 44.0,
       "history": [
         {
           "date": "May 5",
@@ -999,6 +1185,9 @@
       "team": "GB",
       "pos": "WR",
       "adp": 60.0,
+      "adp_ud": 60.0,
+      "adp_espn": null,
+      "adp_sleeper": 64.0,
       "history": [
         {
           "date": "May 5",
@@ -1015,6 +1204,9 @@
       "team": "CHI",
       "pos": "QB",
       "adp": 70.0,
+      "adp_ud": 70.0,
+      "adp_espn": null,
+      "adp_sleeper": 15.0,
       "history": [
         {
           "date": "May 5",
@@ -1031,6 +1223,9 @@
       "team": "PHI",
       "pos": "QB",
       "adp": 68.0,
+      "adp_ud": 68.0,
+      "adp_espn": null,
+      "adp_sleeper": 26.0,
       "history": [
         {
           "date": "May 5",
@@ -1047,6 +1242,9 @@
       "team": "CAR",
       "pos": "RB",
       "adp": 67.0,
+      "adp_ud": 67.0,
+      "adp_espn": null,
+      "adp_sleeper": 66.0,
       "history": [
         {
           "date": "May 5",
@@ -1063,6 +1261,9 @@
       "team": "SEA",
       "pos": "RB",
       "adp": 58.0,
+      "adp_ud": 58.0,
+      "adp_espn": null,
+      "adp_sleeper": 101.0,
       "history": [
         {
           "date": "May 5",
@@ -1079,6 +1280,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 61.0,
+      "adp_ud": 61.0,
+      "adp_espn": null,
+      "adp_sleeper": 61.0,
       "history": [
         {
           "date": "May 5",
@@ -1095,6 +1299,9 @@
       "team": "ARI",
       "pos": "WR",
       "adp": 66.0,
+      "adp_ud": 66.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1111,6 +1318,9 @@
       "team": "DEN",
       "pos": "RB",
       "adp": 80.0,
+      "adp_ud": 80.0,
+      "adp_espn": null,
+      "adp_sleeper": 40.0,
       "history": [
         {
           "date": "May 5",
@@ -1127,6 +1337,9 @@
       "team": "GB",
       "pos": "TE",
       "adp": 81.0,
+      "adp_ud": 81.0,
+      "adp_espn": null,
+      "adp_sleeper": 71.0,
       "history": [
         {
           "date": "May 5",
@@ -1143,6 +1356,9 @@
       "team": "JAC",
       "pos": "WR",
       "adp": 64.0,
+      "adp_ud": 64.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1159,6 +1375,9 @@
       "team": "DAL",
       "pos": "QB",
       "adp": 78.0,
+      "adp_ud": 78.0,
+      "adp_espn": null,
+      "adp_sleeper": 45.0,
       "history": [
         {
           "date": "May 5",
@@ -1175,6 +1394,9 @@
       "team": "CLE",
       "pos": "TE",
       "adp": 90.0,
+      "adp_ud": 90.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1191,6 +1413,9 @@
       "team": "IND",
       "pos": "WR",
       "adp": 72.0,
+      "adp_ud": 72.0,
+      "adp_espn": null,
+      "adp_sleeper": 88.0,
       "history": [
         {
           "date": "May 5",
@@ -1207,6 +1432,9 @@
       "team": "NE",
       "pos": "RB",
       "adp": 75.0,
+      "adp_ud": 75.0,
+      "adp_espn": null,
+      "adp_sleeper": 58.0,
       "history": [
         {
           "date": "May 5",
@@ -1223,6 +1451,9 @@
       "team": "JAC",
       "pos": "WR",
       "adp": 74.0,
+      "adp_ud": 74.0,
+      "adp_espn": null,
+      "adp_sleeper": 90.0,
       "history": [
         {
           "date": "May 5",
@@ -1239,6 +1470,9 @@
       "team": "NO",
       "pos": "WR",
       "adp": 63.0,
+      "adp_ud": 63.0,
+      "adp_espn": null,
+      "adp_sleeper": 70.0,
       "history": [
         {
           "date": "May 5",
@@ -1255,6 +1489,9 @@
       "team": "PIT",
       "pos": "RB",
       "adp": 83.0,
+      "adp_ud": 83.0,
+      "adp_espn": null,
+      "adp_sleeper": 52.0,
       "history": [
         {
           "date": "May 5",
@@ -1271,6 +1508,9 @@
       "team": "NYG",
       "pos": "QB",
       "adp": 89.0,
+      "adp_ud": 89.0,
+      "adp_espn": null,
+      "adp_sleeper": 24.0,
       "history": [
         {
           "date": "May 5",
@@ -1287,6 +1527,9 @@
       "team": "JAC",
       "pos": "QB",
       "adp": 85.0,
+      "adp_ud": 85.0,
+      "adp_espn": null,
+      "adp_sleeper": 31.0,
       "history": [
         {
           "date": "May 5",
@@ -1303,6 +1546,9 @@
       "team": "DEN",
       "pos": "WR",
       "adp": 82.0,
+      "adp_ud": 82.0,
+      "adp_espn": null,
+      "adp_sleeper": 72.0,
       "history": [
         {
           "date": "May 5",
@@ -1319,6 +1565,9 @@
       "team": "LAC",
       "pos": "QB",
       "adp": 86.0,
+      "adp_ud": 86.0,
+      "adp_espn": null,
+      "adp_sleeper": 25.0,
       "history": [
         {
           "date": "May 5",
@@ -1335,6 +1584,9 @@
       "team": "PIT",
       "pos": "WR",
       "adp": 77.0,
+      "adp_ud": 77.0,
+      "adp_espn": null,
+      "adp_sleeper": 73.0,
       "history": [
         {
           "date": "May 5",
@@ -1351,6 +1603,9 @@
       "team": "ARI",
       "pos": "WR",
       "adp": 84.0,
+      "adp_ud": 84.0,
+      "adp_espn": null,
+      "adp_sleeper": 75.0,
       "history": [
         {
           "date": "May 5",
@@ -1367,6 +1622,9 @@
       "team": "ATL",
       "pos": "TE",
       "adp": 102.0,
+      "adp_ud": 102.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1383,6 +1641,9 @@
       "team": "PIT",
       "pos": "RB",
       "adp": 91.0,
+      "adp_ud": 91.0,
+      "adp_espn": null,
+      "adp_sleeper": 65.0,
       "history": [
         {
           "date": "May 5",
@@ -1399,6 +1660,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 73.0,
+      "adp_ud": 73.0,
+      "adp_espn": null,
+      "adp_sleeper": 77.0,
       "history": [
         {
           "date": "May 5",
@@ -1415,6 +1679,9 @@
       "team": "DET",
       "pos": "TE",
       "adp": 100.0,
+      "adp_ud": 100.0,
+      "adp_espn": null,
+      "adp_sleeper": 79.0,
       "history": [
         {
           "date": "May 5",
@@ -1431,6 +1698,9 @@
       "team": "TEN",
       "pos": "RB",
       "adp": 76.0,
+      "adp_ud": 76.0,
+      "adp_espn": null,
+      "adp_sleeper": 63.0,
       "history": [
         {
           "date": "May 5",
@@ -1447,6 +1717,9 @@
       "team": "KC",
       "pos": "QB",
       "adp": 94.0,
+      "adp_ud": 94.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1463,6 +1736,9 @@
       "team": "LAR",
       "pos": "QB",
       "adp": 103.0,
+      "adp_ud": 103.0,
+      "adp_espn": null,
+      "adp_sleeper": 103.0,
       "history": [
         {
           "date": "May 5",
@@ -1479,6 +1755,9 @@
       "team": "CHI",
       "pos": "RB",
       "adp": 88.0,
+      "adp_ud": 88.0,
+      "adp_espn": null,
+      "adp_sleeper": 61.0,
       "history": [
         {
           "date": "May 5",
@@ -1495,6 +1774,9 @@
       "team": "TB",
       "pos": "WR",
       "adp": 92.0,
+      "adp_ud": 92.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1511,6 +1793,9 @@
       "team": "SF",
       "pos": "QB",
       "adp": 96.0,
+      "adp_ud": 96.0,
+      "adp_espn": null,
+      "adp_sleeper": 37.0,
       "history": [
         {
           "date": "May 5",
@@ -1527,6 +1812,9 @@
       "team": "DEN",
       "pos": "QB",
       "adp": 98.0,
+      "adp_ud": 98.0,
+      "adp_espn": null,
+      "adp_sleeper": 34.0,
       "history": [
         {
           "date": "May 5",
@@ -1543,6 +1831,9 @@
       "team": "DET",
       "pos": "QB",
       "adp": 104.0,
+      "adp_ud": 104.0,
+      "adp_espn": null,
+      "adp_sleeper": 66.0,
       "history": [
         {
           "date": "May 5",
@@ -1559,6 +1850,9 @@
       "team": "DEN",
       "pos": "RB",
       "adp": 101.0,
+      "adp_ud": 101.0,
+      "adp_espn": null,
+      "adp_sleeper": 75.0,
       "history": [
         {
           "date": "May 5",
@@ -1575,6 +1869,9 @@
       "team": "JAC",
       "pos": "WR",
       "adp": 93.0,
+      "adp_ud": 93.0,
+      "adp_espn": null,
+      "adp_sleeper": 77.0,
       "history": [
         {
           "date": "May 5",
@@ -1591,6 +1888,9 @@
       "team": "MIN",
       "pos": "WR",
       "adp": 79.0,
+      "adp_ud": 79.0,
+      "adp_espn": null,
+      "adp_sleeper": 99.0,
       "history": [
         {
           "date": "May 5",
@@ -1607,6 +1907,9 @@
       "team": "LAR",
       "pos": "RB",
       "adp": 95.0,
+      "adp_ud": 95.0,
+      "adp_espn": null,
+      "adp_sleeper": 68.0,
       "history": [
         {
           "date": "May 5",
@@ -1623,6 +1926,9 @@
       "team": "SF",
       "pos": "TE",
       "adp": 118.0,
+      "adp_ud": 118.0,
+      "adp_espn": null,
+      "adp_sleeper": 99.0,
       "history": [
         {
           "date": "May 5",
@@ -1639,6 +1945,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 97.0,
+      "adp_ud": 97.0,
+      "adp_espn": null,
+      "adp_sleeper": 86.0,
       "history": [
         {
           "date": "May 5",
@@ -1655,6 +1964,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 117.0,
+      "adp_ud": 117.0,
+      "adp_espn": null,
+      "adp_sleeper": 105.0,
       "history": [
         {
           "date": "May 5",
@@ -1671,6 +1983,9 @@
       "team": "GB",
       "pos": "WR",
       "adp": 87.0,
+      "adp_ud": 87.0,
+      "adp_espn": null,
+      "adp_sleeper": 119.0,
       "history": [
         {
           "date": "May 5",
@@ -1687,6 +2002,9 @@
       "team": "MIN",
       "pos": "QB",
       "adp": 106.0,
+      "adp_ud": 106.0,
+      "adp_espn": null,
+      "adp_sleeper": 92.0,
       "history": [
         {
           "date": "May 5",
@@ -1703,6 +2021,9 @@
       "team": "PIT",
       "pos": "WR",
       "adp": 109.0,
+      "adp_ud": 109.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1719,6 +2040,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 99.0,
+      "adp_ud": 99.0,
+      "adp_espn": null,
+      "adp_sleeper": 110.0,
       "history": [
         {
           "date": "May 5",
@@ -1735,6 +2059,9 @@
       "team": "LAC",
       "pos": "TE",
       "adp": 119.0,
+      "adp_ud": 119.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -1751,6 +2078,9 @@
       "team": "NO",
       "pos": "QB",
       "adp": 112.0,
+      "adp_ud": 112.0,
+      "adp_espn": null,
+      "adp_sleeper": 81.0,
       "history": [
         {
           "date": "May 5",
@@ -1767,6 +2097,9 @@
       "team": "GB",
       "pos": "QB",
       "adp": 107.0,
+      "adp_ud": 107.0,
+      "adp_espn": null,
+      "adp_sleeper": 50.0,
       "history": [
         {
           "date": "May 5",
@@ -1783,6 +2116,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 108.0,
+      "adp_ud": 108.0,
+      "adp_espn": null,
+      "adp_sleeper": 117.0,
       "history": [
         {
           "date": "May 5",
@@ -1799,6 +2135,9 @@
       "team": "TB",
       "pos": "QB",
       "adp": 116.0,
+      "adp_ud": 116.0,
+      "adp_espn": null,
+      "adp_sleeper": 64.0,
       "history": [
         {
           "date": "May 5",
@@ -1815,6 +2154,9 @@
       "team": "TB",
       "pos": "RB",
       "adp": 120.0,
+      "adp_ud": 120.0,
+      "adp_espn": null,
+      "adp_sleeper": 86.0,
       "history": [
         {
           "date": "May 5",
@@ -1831,6 +2173,9 @@
       "team": "DAL",
       "pos": "TE",
       "adp": 125.0,
+      "adp_ud": 125.0,
+      "adp_espn": null,
+      "adp_sleeper": 97.0,
       "history": [
         {
           "date": "May 5",
@@ -1847,6 +2192,9 @@
       "team": "NYG",
       "pos": "TE",
       "adp": 134.0,
+      "adp_ud": 134.0,
+      "adp_espn": null,
+      "adp_sleeper": 113.0,
       "history": [
         {
           "date": "May 5",
@@ -1863,6 +2211,9 @@
       "team": "KC",
       "pos": "TE",
       "adp": 127.0,
+      "adp_ud": 127.0,
+      "adp_espn": null,
+      "adp_sleeper": 106.0,
       "history": [
         {
           "date": "May 5",
@@ -1879,6 +2230,9 @@
       "team": "MIN",
       "pos": "RB",
       "adp": 121.0,
+      "adp_ud": 121.0,
+      "adp_espn": null,
+      "adp_sleeper": 112.0,
       "history": [
         {
           "date": "May 5",
@@ -1895,6 +2249,9 @@
       "team": "PHI",
       "pos": "TE",
       "adp": 136.0,
+      "adp_ud": 136.0,
+      "adp_espn": null,
+      "adp_sleeper": 94.0,
       "history": [
         {
           "date": "May 5",
@@ -1911,6 +2268,9 @@
       "team": "IND",
       "pos": "WR",
       "adp": 105.0,
+      "adp_ud": 105.0,
+      "adp_espn": null,
+      "adp_sleeper": 133.0,
       "history": [
         {
           "date": "May 5",
@@ -1927,6 +2287,9 @@
       "team": "BUF",
       "pos": "TE",
       "adp": 132.0,
+      "adp_ud": 132.0,
+      "adp_espn": null,
+      "adp_sleeper": 81.0,
       "history": [
         {
           "date": "May 5",
@@ -1943,6 +2306,9 @@
       "team": "WAS",
       "pos": "RB",
       "adp": 122.0,
+      "adp_ud": 122.0,
+      "adp_espn": null,
+      "adp_sleeper": 125.0,
       "history": [
         {
           "date": "May 5",
@@ -1959,6 +2325,9 @@
       "team": "GB",
       "pos": "WR",
       "adp": 110.0,
+      "adp_ud": 110.0,
+      "adp_espn": null,
+      "adp_sleeper": 158.0,
       "history": [
         {
           "date": "May 5",
@@ -1975,6 +2344,9 @@
       "team": "CLE",
       "pos": "WR",
       "adp": 113.0,
+      "adp_ud": 113.0,
+      "adp_espn": null,
+      "adp_sleeper": 129.0,
       "history": [
         {
           "date": "May 5",
@@ -1991,6 +2363,9 @@
       "team": "JAC",
       "pos": "RB",
       "adp": 114.0,
+      "adp_ud": 114.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2007,6 +2382,9 @@
       "team": "MIA",
       "pos": "QB",
       "adp": 130.0,
+      "adp_ud": 130.0,
+      "adp_espn": null,
+      "adp_sleeper": 109.0,
       "history": [
         {
           "date": "May 5",
@@ -2023,6 +2401,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 115.0,
+      "adp_ud": 115.0,
+      "adp_espn": null,
+      "adp_sleeper": 122.0,
       "history": [
         {
           "date": "May 5",
@@ -2039,6 +2420,9 @@
       "team": "ARI",
       "pos": "RB",
       "adp": 153.0,
+      "adp_ud": 153.0,
+      "adp_espn": null,
+      "adp_sleeper": 89.0,
       "history": [
         {
           "date": "May 5",
@@ -2055,6 +2439,9 @@
       "team": "WAS",
       "pos": "RB",
       "adp": 111.0,
+      "adp_ud": 111.0,
+      "adp_espn": null,
+      "adp_sleeper": 95.0,
       "history": [
         {
           "date": "May 5",
@@ -2071,6 +2458,9 @@
       "team": "MIN",
       "pos": "RB",
       "adp": 123.0,
+      "adp_ud": 123.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2087,6 +2477,9 @@
       "team": "BUF",
       "pos": "WR",
       "adp": 128.0,
+      "adp_ud": 128.0,
+      "adp_espn": null,
+      "adp_sleeper": 120.0,
       "history": [
         {
           "date": "May 5",
@@ -2103,6 +2496,9 @@
       "team": "NYJ",
       "pos": "TE",
       "adp": 142.0,
+      "adp_ud": 142.0,
+      "adp_espn": null,
+      "adp_sleeper": 109.0,
       "history": [
         {
           "date": "May 5",
@@ -2119,6 +2515,9 @@
       "team": "BAL",
       "pos": "TE",
       "adp": 131.0,
+      "adp_ud": 131.0,
+      "adp_espn": null,
+      "adp_sleeper": 96.0,
       "history": [
         {
           "date": "May 5",
@@ -2135,6 +2534,9 @@
       "team": "CAR",
       "pos": "RB",
       "adp": 126.0,
+      "adp_ud": 126.0,
+      "adp_espn": null,
+      "adp_sleeper": 144.0,
       "history": [
         {
           "date": "May 5",
@@ -2151,6 +2553,9 @@
       "team": "HOU",
       "pos": "WR",
       "adp": 124.0,
+      "adp_ud": 124.0,
+      "adp_espn": null,
+      "adp_sleeper": 126.0,
       "history": [
         {
           "date": "May 5",
@@ -2167,6 +2572,9 @@
       "team": "SEA",
       "pos": "QB",
       "adp": 135.0,
+      "adp_ud": 135.0,
+      "adp_espn": null,
+      "adp_sleeper": 84.0,
       "history": [
         {
           "date": "May 5",
@@ -2183,6 +2591,9 @@
       "team": "HOU",
       "pos": "QB",
       "adp": 141.0,
+      "adp_ud": 141.0,
+      "adp_espn": null,
+      "adp_sleeper": 80.0,
       "history": [
         {
           "date": "May 5",
@@ -2199,6 +2610,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 129.0,
+      "adp_ud": 129.0,
+      "adp_espn": null,
+      "adp_sleeper": 132.0,
       "history": [
         {
           "date": "May 5",
@@ -2215,6 +2629,9 @@
       "team": "NO",
       "pos": "TE",
       "adp": 155.0,
+      "adp_ud": 155.0,
+      "adp_espn": null,
+      "adp_sleeper": 103.0,
       "history": [
         {
           "date": "May 5",
@@ -2231,6 +2648,9 @@
       "team": "NYG",
       "pos": "RB",
       "adp": 133.0,
+      "adp_ud": 133.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2247,6 +2667,9 @@
       "team": "SEA",
       "pos": "RB",
       "adp": 145.0,
+      "adp_ud": 145.0,
+      "adp_espn": null,
+      "adp_sleeper": 101.0,
       "history": [
         {
           "date": "May 5",
@@ -2263,6 +2686,9 @@
       "team": "JAC",
       "pos": "TE",
       "adp": 149.0,
+      "adp_ud": 149.0,
+      "adp_espn": null,
+      "adp_sleeper": 104.0,
       "history": [
         {
           "date": "May 5",
@@ -2279,6 +2705,9 @@
       "team": "TEN",
       "pos": "QB",
       "adp": 139.0,
+      "adp_ud": 139.0,
+      "adp_espn": null,
+      "adp_sleeper": 75.0,
       "history": [
         {
           "date": "May 5",
@@ -2295,6 +2724,9 @@
       "team": "IND",
       "pos": "QB",
       "adp": 144.0,
+      "adp_ud": 144.0,
+      "adp_espn": null,
+      "adp_sleeper": 109.0,
       "history": [
         {
           "date": "May 5",
@@ -2311,6 +2743,9 @@
       "team": "NYJ",
       "pos": "WR",
       "adp": 138.0,
+      "adp_ud": 138.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2327,6 +2762,9 @@
       "team": "CAR",
       "pos": "QB",
       "adp": 150.0,
+      "adp_ud": 150.0,
+      "adp_espn": null,
+      "adp_sleeper": 98.0,
       "history": [
         {
           "date": "May 5",
@@ -2343,6 +2781,9 @@
       "team": "DEN",
       "pos": "RB",
       "adp": 143.0,
+      "adp_ud": 143.0,
+      "adp_espn": null,
+      "adp_sleeper": 118.0,
       "history": [
         {
           "date": "May 5",
@@ -2359,6 +2800,9 @@
       "team": "HOU",
       "pos": "RB",
       "adp": 146.0,
+      "adp_ud": 146.0,
+      "adp_espn": null,
+      "adp_sleeper": 105.0,
       "history": [
         {
           "date": "May 5",
@@ -2375,6 +2819,9 @@
       "team": "SEA",
       "pos": "WR",
       "adp": 137.0,
+      "adp_ud": 137.0,
+      "adp_espn": null,
+      "adp_sleeper": 162.0,
       "history": [
         {
           "date": "May 5",
@@ -2391,6 +2838,9 @@
       "team": "",
       "pos": "WR",
       "adp": 148.0,
+      "adp_ud": 148.0,
+      "adp_espn": null,
+      "adp_sleeper": 46.0,
       "history": [
         {
           "date": "May 5",
@@ -2407,6 +2857,9 @@
       "team": "NE",
       "pos": "TE",
       "adp": 151.0,
+      "adp_ud": 151.0,
+      "adp_espn": null,
+      "adp_sleeper": 92.0,
       "history": [
         {
           "date": "May 5",
@@ -2423,6 +2876,9 @@
       "team": "TB",
       "pos": "WR",
       "adp": 140.0,
+      "adp_ud": 140.0,
+      "adp_espn": null,
+      "adp_sleeper": 165.0,
       "history": [
         {
           "date": "May 5",
@@ -2439,6 +2895,9 @@
       "team": "MIN",
       "pos": "TE",
       "adp": 161.0,
+      "adp_ud": 161.0,
+      "adp_espn": null,
+      "adp_sleeper": 128.0,
       "history": [
         {
           "date": "May 5",
@@ -2455,6 +2914,9 @@
       "team": "CLE",
       "pos": "WR",
       "adp": 152.0,
+      "adp_ud": 152.0,
+      "adp_espn": null,
+      "adp_sleeper": 153.0,
       "history": [
         {
           "date": "May 5",
@@ -2471,6 +2933,9 @@
       "team": "WAS",
       "pos": "TE",
       "adp": 154.0,
+      "adp_ud": 154.0,
+      "adp_espn": null,
+      "adp_sleeper": 137.0,
       "history": [
         {
           "date": "May 5",
@@ -2487,6 +2952,9 @@
       "team": "DET",
       "pos": "RB",
       "adp": 157.0,
+      "adp_ud": 157.0,
+      "adp_espn": null,
+      "adp_sleeper": 151.0,
       "history": [
         {
           "date": "May 5",
@@ -2503,6 +2971,9 @@
       "team": "LV",
       "pos": "RB",
       "adp": 170.0,
+      "adp_ud": 170.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2519,6 +2990,9 @@
       "team": "ARI",
       "pos": "QB",
       "adp": 168.0,
+      "adp_ud": 168.0,
+      "adp_espn": null,
+      "adp_sleeper": 201.0,
       "history": [
         {
           "date": "May 5",
@@ -2535,6 +3009,9 @@
       "team": "",
       "pos": "WR",
       "adp": 156.0,
+      "adp_ud": 156.0,
+      "adp_espn": null,
+      "adp_sleeper": 121.0,
       "history": [
         {
           "date": "May 5",
@@ -2551,6 +3028,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 160.0,
+      "adp_ud": 160.0,
+      "adp_espn": null,
+      "adp_sleeper": 177.0,
       "history": [
         {
           "date": "May 5",
@@ -2567,6 +3047,9 @@
       "team": "LAC",
       "pos": "RB",
       "adp": 147.0,
+      "adp_ud": 147.0,
+      "adp_espn": null,
+      "adp_sleeper": 148.0,
       "history": [
         {
           "date": "May 5",
@@ -2583,6 +3066,9 @@
       "team": "",
       "pos": "WR",
       "adp": 181.0,
+      "adp_ud": 181.0,
+      "adp_espn": null,
+      "adp_sleeper": 145.0,
       "history": [
         {
           "date": "May 5",
@@ -2599,6 +3085,9 @@
       "team": "TEN",
       "pos": "RB",
       "adp": 162.0,
+      "adp_ud": 162.0,
+      "adp_espn": null,
+      "adp_sleeper": 122.0,
       "history": [
         {
           "date": "May 5",
@@ -2615,6 +3104,9 @@
       "team": "SEA",
       "pos": "RB",
       "adp": 188.0,
+      "adp_ud": 188.0,
+      "adp_espn": null,
+      "adp_sleeper": 161.0,
       "history": [
         {
           "date": "May 5",
@@ -2631,6 +3123,9 @@
       "team": "KC",
       "pos": "RB",
       "adp": 182.0,
+      "adp_ud": 182.0,
+      "adp_espn": null,
+      "adp_sleeper": 113.0,
       "history": [
         {
           "date": "May 5",
@@ -2647,6 +3142,9 @@
       "team": "LV",
       "pos": "QB",
       "adp": 164.0,
+      "adp_ud": 164.0,
+      "adp_espn": null,
+      "adp_sleeper": 39.0,
       "history": [
         {
           "date": "May 5",
@@ -2663,6 +3161,9 @@
       "team": "CLE",
       "pos": "RB",
       "adp": 169.0,
+      "adp_ud": 169.0,
+      "adp_espn": null,
+      "adp_sleeper": 129.0,
       "history": [
         {
           "date": "May 5",
@@ -2679,6 +3180,9 @@
       "team": "HOU",
       "pos": "TE",
       "adp": 173.0,
+      "adp_ud": 173.0,
+      "adp_espn": null,
+      "adp_sleeper": 98.0,
       "history": [
         {
           "date": "May 5",
@@ -2695,6 +3199,9 @@
       "team": "SEA",
       "pos": "TE",
       "adp": 167.0,
+      "adp_ud": 167.0,
+      "adp_espn": null,
+      "adp_sleeper": 126.0,
       "history": [
         {
           "date": "May 5",
@@ -2711,6 +3218,9 @@
       "team": "",
       "pos": "WR",
       "adp": 172.0,
+      "adp_ud": 172.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2727,6 +3237,9 @@
       "team": "CLE",
       "pos": "WR",
       "adp": 174.0,
+      "adp_ud": 174.0,
+      "adp_espn": null,
+      "adp_sleeper": 160.0,
       "history": [
         {
           "date": "May 5",
@@ -2743,6 +3256,9 @@
       "team": "LV",
       "pos": "WR",
       "adp": 159.0,
+      "adp_ud": 159.0,
+      "adp_espn": null,
+      "adp_sleeper": 197.0,
       "history": [
         {
           "date": "May 5",
@@ -2759,6 +3275,9 @@
       "team": "NO",
       "pos": "RB",
       "adp": 196.0,
+      "adp_ud": 196.0,
+      "adp_espn": null,
+      "adp_sleeper": 119.0,
       "history": [
         {
           "date": "May 5",
@@ -2775,6 +3294,9 @@
       "team": "NYJ",
       "pos": "QB",
       "adp": 177.0,
+      "adp_ud": 177.0,
+      "adp_espn": null,
+      "adp_sleeper": 260.0,
       "history": [
         {
           "date": "May 5",
@@ -2791,6 +3313,9 @@
       "team": "ATL",
       "pos": "RB",
       "adp": 166.0,
+      "adp_ud": 166.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2807,6 +3332,9 @@
       "team": "JAC",
       "pos": "WR",
       "adp": 158.0,
+      "adp_ud": 158.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -2823,6 +3351,9 @@
       "team": "LV",
       "pos": "WR",
       "adp": 165.0,
+      "adp_ud": 165.0,
+      "adp_espn": null,
+      "adp_sleeper": 188.0,
       "history": [
         {
           "date": "May 5",
@@ -2839,6 +3370,9 @@
       "team": "TEN",
       "pos": "RB",
       "adp": 175.0,
+      "adp_ud": 175.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -2851,6 +3385,9 @@
       "team": "ARI",
       "pos": "RB",
       "adp": 223.0,
+      "adp_ud": 223.0,
+      "adp_espn": null,
+      "adp_sleeper": 92.0,
       "history": [
         {
           "date": "May 5",
@@ -2867,6 +3404,9 @@
       "team": "DET",
       "pos": "WR",
       "adp": 163.0,
+      "adp_ud": 163.0,
+      "adp_espn": null,
+      "adp_sleeper": 184.0,
       "history": [
         {
           "date": "May 5",
@@ -2883,6 +3423,9 @@
       "team": "PHI",
       "pos": "TE",
       "adp": 184.0,
+      "adp_ud": 184.0,
+      "adp_espn": null,
+      "adp_sleeper": 140.0,
       "history": [
         {
           "date": "May 5",
@@ -2899,6 +3442,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 178.0,
+      "adp_ud": 178.0,
+      "adp_espn": null,
+      "adp_sleeper": 180.0,
       "history": [
         {
           "date": "May 5",
@@ -2915,6 +3461,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 190.0,
+      "adp_ud": 190.0,
+      "adp_espn": null,
+      "adp_sleeper": 164.0,
       "history": [
         {
           "date": "May 5",
@@ -2931,6 +3480,9 @@
       "team": "PHI",
       "pos": "RB",
       "adp": 180.0,
+      "adp_ud": 180.0,
+      "adp_espn": null,
+      "adp_sleeper": 147.0,
       "history": [
         {
           "date": "May 5",
@@ -2947,6 +3499,9 @@
       "team": "TB",
       "pos": "TE",
       "adp": 187.0,
+      "adp_ud": 187.0,
+      "adp_espn": null,
+      "adp_sleeper": 148.0,
       "history": [
         {
           "date": "May 5",
@@ -2963,6 +3518,9 @@
       "team": "TEN",
       "pos": "TE",
       "adp": 183.0,
+      "adp_ud": 183.0,
+      "adp_espn": null,
+      "adp_sleeper": 153.0,
       "history": [
         {
           "date": "May 5",
@@ -2979,6 +3537,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 192.0,
+      "adp_ud": 192.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -2995,6 +3556,9 @@
       "team": "",
       "pos": "QB",
       "adp": 199.0,
+      "adp_ud": 199.0,
+      "adp_espn": null,
+      "adp_sleeper": 235.0,
       "history": [
         {
           "date": "May 5",
@@ -3011,6 +3575,9 @@
       "team": "WAS",
       "pos": "RB",
       "adp": 189.0,
+      "adp_ud": 189.0,
+      "adp_espn": null,
+      "adp_sleeper": 157.0,
       "history": [
         {
           "date": "May 5",
@@ -3027,6 +3594,9 @@
       "team": "LAC",
       "pos": "RB",
       "adp": 210.0,
+      "adp_ud": 210.0,
+      "adp_espn": null,
+      "adp_sleeper": 141.0,
       "history": [
         {
           "date": "May 5",
@@ -3043,6 +3613,9 @@
       "team": "DEN",
       "pos": "WR",
       "adp": 215.0,
+      "adp_ud": 215.0,
+      "adp_espn": null,
+      "adp_sleeper": 171.0,
       "history": [
         {
           "date": "May 5",
@@ -3059,6 +3632,9 @@
       "team": "PIT",
       "pos": "TE",
       "adp": 195.0,
+      "adp_ud": 195.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3075,6 +3651,9 @@
       "team": "ATL",
       "pos": "QB",
       "adp": 207.0,
+      "adp_ud": 207.0,
+      "adp_espn": null,
+      "adp_sleeper": 183.0,
       "history": [
         {
           "date": "May 5",
@@ -3091,6 +3670,9 @@
       "team": "",
       "pos": "TE",
       "adp": 197.0,
+      "adp_ud": 197.0,
+      "adp_espn": null,
+      "adp_sleeper": 190.0,
       "history": [
         {
           "date": "May 5",
@@ -3107,6 +3689,9 @@
       "team": "NYJ",
       "pos": "RB",
       "adp": 185.0,
+      "adp_ud": 185.0,
+      "adp_espn": null,
+      "adp_sleeper": 135.0,
       "history": [
         {
           "date": "May 5",
@@ -3123,6 +3708,9 @@
       "team": "HOU",
       "pos": "WR",
       "adp": 194.0,
+      "adp_ud": 194.0,
+      "adp_espn": null,
+      "adp_sleeper": 187.0,
       "history": [
         {
           "date": "May 5",
@@ -3139,6 +3727,9 @@
       "team": "NYJ",
       "pos": "WR",
       "adp": 201.0,
+      "adp_ud": 201.0,
+      "adp_espn": null,
+      "adp_sleeper": 162.0,
       "history": [
         {
           "date": "May 5",
@@ -3155,6 +3746,9 @@
       "team": "LAR",
       "pos": "TE",
       "adp": 228.0,
+      "adp_ud": 228.0,
+      "adp_espn": null,
+      "adp_sleeper": 136.0,
       "history": [
         {
           "date": "May 5",
@@ -3171,6 +3765,9 @@
       "team": "TB",
       "pos": "RB",
       "adp": 204.0,
+      "adp_ud": 204.0,
+      "adp_espn": null,
+      "adp_sleeper": 155.0,
       "history": [
         {
           "date": "May 5",
@@ -3187,6 +3784,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 208.0,
+      "adp_ud": 208.0,
+      "adp_espn": null,
+      "adp_sleeper": 210.0,
       "history": [
         {
           "date": "May 5",
@@ -3203,6 +3803,9 @@
       "team": "BUF",
       "pos": "RB",
       "adp": 200.0,
+      "adp_ud": 200.0,
+      "adp_espn": null,
+      "adp_sleeper": 167.0,
       "history": [
         {
           "date": "May 5",
@@ -3219,6 +3822,9 @@
       "team": "SEA",
       "pos": "WR",
       "adp": 211.0,
+      "adp_ud": 211.0,
+      "adp_espn": null,
+      "adp_sleeper": 206.0,
       "history": [
         {
           "date": "May 5",
@@ -3235,6 +3841,9 @@
       "team": "NYG",
       "pos": "WR",
       "adp": 202.0,
+      "adp_ud": 202.0,
+      "adp_espn": null,
+      "adp_sleeper": 194.0,
       "history": [
         {
           "date": "May 5",
@@ -3251,6 +3860,9 @@
       "team": "LAR",
       "pos": "TE",
       "adp": 206.0,
+      "adp_ud": 206.0,
+      "adp_espn": null,
+      "adp_sleeper": 141.0,
       "history": [
         {
           "date": "May 5",
@@ -3267,6 +3879,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 179.0,
+      "adp_ud": 179.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3283,6 +3898,9 @@
       "team": "MIA",
       "pos": "TE",
       "adp": 218.0,
+      "adp_ud": 218.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3299,6 +3917,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 198.0,
+      "adp_ud": 198.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3315,6 +3936,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 176.0,
+      "adp_ud": 176.0,
+      "adp_espn": null,
+      "adp_sleeper": 156.0,
       "history": [
         {
           "date": "May 5",
@@ -3331,6 +3955,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 193.0,
+      "adp_ud": 193.0,
+      "adp_espn": null,
+      "adp_sleeper": 203.0,
       "history": [
         {
           "date": "May 5",
@@ -3347,6 +3974,9 @@
       "team": "NYG",
       "pos": "TE",
       "adp": 236.0,
+      "adp_ud": 236.0,
+      "adp_espn": null,
+      "adp_sleeper": 144.0,
       "history": [
         {
           "date": "May 5",
@@ -3363,6 +3993,9 @@
       "team": "DAL",
       "pos": "WR",
       "adp": 191.0,
+      "adp_ud": 191.0,
+      "adp_espn": null,
+      "adp_sleeper": 199.0,
       "history": [
         {
           "date": "May 5",
@@ -3379,6 +4012,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 171.0,
+      "adp_ud": 171.0,
+      "adp_espn": null,
+      "adp_sleeper": 214.0,
       "history": [
         {
           "date": "May 5",
@@ -3395,6 +4031,9 @@
       "team": "SF",
       "pos": "RB",
       "adp": 227.0,
+      "adp_ud": 227.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3411,6 +4050,9 @@
       "team": "SEA",
       "pos": "WR",
       "adp": 213.0,
+      "adp_ud": 213.0,
+      "adp_espn": null,
+      "adp_sleeper": 199.0,
       "history": [
         {
           "date": "May 5",
@@ -3427,6 +4069,9 @@
       "team": "SF",
       "pos": "TE",
       "adp": 221.0,
+      "adp_ud": 221.0,
+      "adp_espn": null,
+      "adp_sleeper": 178.0,
       "history": [
         {
           "date": "May 5",
@@ -3443,6 +4088,9 @@
       "team": "PIT",
       "pos": "WR",
       "adp": 186.0,
+      "adp_ud": 186.0,
+      "adp_espn": null,
+      "adp_sleeper": 194.0,
       "history": [
         {
           "date": "May 5",
@@ -3459,6 +4107,9 @@
       "team": "MIN",
       "pos": "RB",
       "adp": 212.0,
+      "adp_ud": 212.0,
+      "adp_espn": null,
+      "adp_sleeper": 176.0,
       "history": [
         {
           "date": "May 5",
@@ -3475,6 +4126,9 @@
       "team": "TB",
       "pos": "WR",
       "adp": 214.0,
+      "adp_ud": 214.0,
+      "adp_espn": null,
+      "adp_sleeper": 196.0,
       "history": [
         {
           "date": "May 5",
@@ -3491,6 +4145,9 @@
       "team": "CLE",
       "pos": "QB",
       "adp": 226.0,
+      "adp_ud": 226.0,
+      "adp_espn": null,
+      "adp_sleeper": 222.0,
       "history": [
         {
           "date": "May 5",
@@ -3507,6 +4164,9 @@
       "team": "SF",
       "pos": "RB",
       "adp": 216.0,
+      "adp_ud": 216.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3523,6 +4183,9 @@
       "team": "NYJ",
       "pos": "TE",
       "adp": 261.0,
+      "adp_ud": 261.0,
+      "adp_espn": null,
+      "adp_sleeper": 138.0,
       "history": [
         {
           "date": "May 5",
@@ -3539,6 +4202,9 @@
       "team": "ATL",
       "pos": "QB",
       "adp": 230.0,
+      "adp_ud": 230.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3555,6 +4221,9 @@
       "team": "ATL",
       "pos": "WR",
       "adp": 203.0,
+      "adp_ud": 203.0,
+      "adp_espn": null,
+      "adp_sleeper": 185.0,
       "history": [
         {
           "date": "May 5",
@@ -3571,6 +4240,9 @@
       "team": "DEN",
       "pos": "WR",
       "adp": 224.0,
+      "adp_ud": 224.0,
+      "adp_espn": null,
+      "adp_sleeper": 172.0,
       "history": [
         {
           "date": "May 5",
@@ -3587,6 +4259,9 @@
       "team": "LV",
       "pos": "QB",
       "adp": 237.0,
+      "adp_ud": 237.0,
+      "adp_espn": null,
+      "adp_sleeper": 368.0,
       "history": [
         {
           "date": "May 5",
@@ -3603,6 +4278,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 241.0,
+      "adp_ud": 241.0,
+      "adp_espn": null,
+      "adp_sleeper": 175.0,
       "history": [
         {
           "date": "May 5",
@@ -3619,6 +4297,9 @@
       "team": "NYG",
       "pos": "WR",
       "adp": 225.0,
+      "adp_ud": 225.0,
+      "adp_espn": null,
+      "adp_sleeper": 210.0,
       "history": [
         {
           "date": "May 5",
@@ -3635,6 +4316,9 @@
       "team": "DAL",
       "pos": "RB",
       "adp": 232.0,
+      "adp_ud": 232.0,
+      "adp_espn": null,
+      "adp_sleeper": 189.0,
       "history": [
         {
           "date": "May 5",
@@ -3651,6 +4335,9 @@
       "team": "DEN",
       "pos": "TE",
       "adp": 239.0,
+      "adp_ud": 239.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3667,6 +4354,9 @@
       "team": "ARI",
       "pos": "RB",
       "adp": 334.0,
+      "adp_ud": 334.0,
+      "adp_espn": null,
+      "adp_sleeper": 114.0,
       "history": [
         {
           "date": "May 5",
@@ -3683,6 +4373,9 @@
       "team": "BUF",
       "pos": "WR",
       "adp": 219.0,
+      "adp_ud": 219.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3699,6 +4392,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 220.0,
+      "adp_ud": 220.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3715,6 +4411,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 231.0,
+      "adp_ud": 231.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3731,6 +4430,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 266.0,
+      "adp_ud": 266.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3747,6 +4449,9 @@
       "team": "CLE",
       "pos": "QB",
       "adp": 217.0,
+      "adp_ud": 217.0,
+      "adp_espn": null,
+      "adp_sleeper": 397.0,
       "history": [
         {
           "date": "May 5",
@@ -3763,6 +4468,9 @@
       "team": "BUF",
       "pos": "WR",
       "adp": 229.0,
+      "adp_ud": 229.0,
+      "adp_espn": null,
+      "adp_sleeper": 206.0,
       "history": [
         {
           "date": "May 5",
@@ -3779,6 +4487,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 284.0,
+      "adp_ud": 284.0,
+      "adp_espn": null,
+      "adp_sleeper": 185.0,
       "history": [
         {
           "date": "May 5",
@@ -3795,6 +4506,9 @@
       "team": "BAL",
       "pos": "RB",
       "adp": 233.0,
+      "adp_ud": 233.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3811,6 +4525,9 @@
       "team": "CIN",
       "pos": "TE",
       "adp": 209.0,
+      "adp_ud": 209.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3827,6 +4544,9 @@
       "team": "LAC",
       "pos": "RB",
       "adp": 260.0,
+      "adp_ud": 260.0,
+      "adp_espn": null,
+      "adp_sleeper": 219.0,
       "history": [
         {
           "date": "May 5",
@@ -3843,6 +4563,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 205.0,
+      "adp_ud": 205.0,
+      "adp_espn": null,
+      "adp_sleeper": 201.0,
       "history": [
         {
           "date": "May 5",
@@ -3859,6 +4582,9 @@
       "team": "MIA",
       "pos": "RB",
       "adp": 269.0,
+      "adp_ud": 269.0,
+      "adp_espn": null,
+      "adp_sleeper": 174.0,
       "history": [
         {
           "date": "May 5",
@@ -3875,6 +4601,9 @@
       "team": "NO",
       "pos": "WR",
       "adp": 247.0,
+      "adp_ud": 247.0,
+      "adp_espn": null,
+      "adp_sleeper": 209.0,
       "history": [
         {
           "date": "May 5",
@@ -3891,6 +4620,9 @@
       "team": "MIA",
       "pos": "RB",
       "adp": 240.0,
+      "adp_ud": 240.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -3907,6 +4639,9 @@
       "team": "LV",
       "pos": "WR",
       "adp": 235.0,
+      "adp_ud": 235.0,
+      "adp_espn": null,
+      "adp_sleeper": 208.0,
       "history": [
         {
           "date": "May 5",
@@ -3923,6 +4658,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 273.0,
+      "adp_ud": 273.0,
+      "adp_espn": null,
+      "adp_sleeper": 116.0,
       "history": [
         {
           "date": "May 5",
@@ -3939,6 +4677,9 @@
       "team": "BAL",
       "pos": "RB",
       "adp": 238.0,
+      "adp_ud": 238.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3955,6 +4696,9 @@
       "team": "KC",
       "pos": "QB",
       "adp": 271.0,
+      "adp_ud": 271.0,
+      "adp_espn": null,
+      "adp_sleeper": 326.0,
       "history": [
         {
           "date": "May 5",
@@ -3971,6 +4715,9 @@
       "team": "IND",
       "pos": "RB",
       "adp": 262.0,
+      "adp_ud": 262.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -3987,6 +4734,9 @@
       "team": "GB",
       "pos": "RB",
       "adp": 248.0,
+      "adp_ud": 248.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4003,6 +4753,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 270.0,
+      "adp_ud": 270.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4019,6 +4772,9 @@
       "team": "PIT",
       "pos": "RB",
       "adp": 272.0,
+      "adp_ud": 272.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4035,6 +4791,9 @@
       "team": "DEN",
       "pos": "WR",
       "adp": 278.0,
+      "adp_ud": 278.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -4051,6 +4810,9 @@
       "team": "NO",
       "pos": "RB",
       "adp": 300.0,
+      "adp_ud": 300.0,
+      "adp_espn": null,
+      "adp_sleeper": 169.0,
       "history": [
         {
           "date": "May 5",
@@ -4067,6 +4829,9 @@
       "team": "BUF",
       "pos": "RB",
       "adp": 264.0,
+      "adp_ud": 264.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4083,6 +4848,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 222.0,
+      "adp_ud": 222.0,
+      "adp_espn": null,
+      "adp_sleeper": 182.0,
       "history": [
         {
           "date": "May 5",
@@ -4099,6 +4867,9 @@
       "team": "MIN",
       "pos": "QB",
       "adp": 312.0,
+      "adp_ud": 312.0,
+      "adp_espn": null,
+      "adp_sleeper": 200.0,
       "history": [
         {
           "date": "May 5",
@@ -4115,6 +4886,9 @@
       "team": "NO",
       "pos": "WR",
       "adp": 277.0,
+      "adp_ud": 277.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4131,6 +4905,9 @@
       "team": "PIT",
       "pos": "RB",
       "adp": 282.0,
+      "adp_ud": 282.0,
+      "adp_espn": null,
+      "adp_sleeper": 173.0,
       "history": [
         {
           "date": "May 5",
@@ -4147,6 +4924,9 @@
       "team": "HOU",
       "pos": "WR",
       "adp": 242.0,
+      "adp_ud": 242.0,
+      "adp_espn": null,
+      "adp_sleeper": 190.0,
       "history": [
         {
           "date": "May 5",
@@ -4163,6 +4943,9 @@
       "team": "",
       "pos": "RB",
       "adp": 283.0,
+      "adp_ud": 283.0,
+      "adp_espn": null,
+      "adp_sleeper": 212.0,
       "history": [
         {
           "date": "May 5",
@@ -4179,6 +4962,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 234.0,
+      "adp_ud": 234.0,
+      "adp_espn": null,
+      "adp_sleeper": 203.0,
       "history": [
         {
           "date": "May 5",
@@ -4195,6 +4981,9 @@
       "team": "GB",
       "pos": "RB",
       "adp": 249.0,
+      "adp_ud": 249.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4211,6 +5000,9 @@
       "team": "LV",
       "pos": "TE",
       "adp": 280.0,
+      "adp_ud": 280.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4227,6 +5019,9 @@
       "team": "CIN",
       "pos": "RB",
       "adp": 250.0,
+      "adp_ud": 250.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4243,6 +5038,9 @@
       "team": "KC",
       "pos": "RB",
       "adp": 322.0,
+      "adp_ud": 322.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4259,6 +5057,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 255.0,
+      "adp_ud": 255.0,
+      "adp_espn": null,
+      "adp_sleeper": 195.0,
       "history": [
         {
           "date": "May 5",
@@ -4275,6 +5076,9 @@
       "team": "LAR",
       "pos": "TE",
       "adp": 253.0,
+      "adp_ud": 253.0,
+      "adp_espn": null,
+      "adp_sleeper": 212.0,
       "history": [
         {
           "date": "May 5",
@@ -4291,6 +5095,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 245.0,
+      "adp_ud": 245.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4307,6 +5114,9 @@
       "team": "DAL",
       "pos": "RB",
       "adp": 258.0,
+      "adp_ud": 258.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4323,6 +5133,9 @@
       "team": "JAC",
       "pos": "RB",
       "adp": 268.0,
+      "adp_ud": 268.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -4339,6 +5152,9 @@
       "team": "CAR",
       "pos": "TE",
       "adp": 257.0,
+      "adp_ud": 257.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4355,6 +5171,9 @@
       "team": "IND",
       "pos": "RB",
       "adp": 320.0,
+      "adp_ud": 320.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4371,6 +5190,9 @@
       "team": "NO",
       "pos": "TE",
       "adp": 246.0,
+      "adp_ud": 246.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4387,6 +5209,9 @@
       "team": "CIN",
       "pos": "WR",
       "adp": 243.0,
+      "adp_ud": 243.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4403,6 +5228,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 244.0,
+      "adp_ud": 244.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4419,6 +5247,9 @@
       "team": "SEA",
       "pos": "RB",
       "adp": 295.0,
+      "adp_ud": 295.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4435,6 +5266,9 @@
       "team": "NYG",
       "pos": "RB",
       "adp": 387.0,
+      "adp_ud": 387.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4451,6 +5285,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 310.0,
+      "adp_ud": 310.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4467,6 +5304,9 @@
       "team": "BUF",
       "pos": "TE",
       "adp": 259.0,
+      "adp_ud": 259.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4483,6 +5323,9 @@
       "team": "PIT",
       "pos": "TE",
       "adp": 254.0,
+      "adp_ud": 254.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4499,6 +5342,9 @@
       "team": "",
       "pos": "RB",
       "adp": 369.0,
+      "adp_ud": 369.0,
+      "adp_espn": null,
+      "adp_sleeper": 317.0,
       "history": [
         {
           "date": "May 5",
@@ -4515,6 +5361,9 @@
       "team": "ARI",
       "pos": "WR",
       "adp": 267.0,
+      "adp_ud": 267.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4531,6 +5380,9 @@
       "team": "ARI",
       "pos": "QB",
       "adp": 251.0,
+      "adp_ud": 251.0,
+      "adp_espn": null,
+      "adp_sleeper": 416.0,
       "history": [
         {
           "date": "May 5",
@@ -4547,6 +5399,9 @@
       "team": "DEN",
       "pos": "TE",
       "adp": 256.0,
+      "adp_ud": 256.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4563,6 +5418,9 @@
       "team": "NYG",
       "pos": "WR",
       "adp": 265.0,
+      "adp_ud": 265.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4579,6 +5437,9 @@
       "team": "ATL",
       "pos": "WR",
       "adp": 281.0,
+      "adp_ud": 281.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4595,6 +5456,9 @@
       "team": "LV",
       "pos": "WR",
       "adp": 294.0,
+      "adp_ud": 294.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4611,6 +5475,9 @@
       "team": "GB",
       "pos": "WR",
       "adp": 275.0,
+      "adp_ud": 275.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4627,6 +5494,9 @@
       "team": "WAS",
       "pos": "RB",
       "adp": 375.0,
+      "adp_ud": 375.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -4639,6 +5509,9 @@
       "team": "SEA",
       "pos": "TE",
       "adp": 290.0,
+      "adp_ud": 290.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4655,6 +5528,9 @@
       "team": "NE",
       "pos": "TE",
       "adp": 276.0,
+      "adp_ud": 276.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4671,6 +5547,9 @@
       "team": "KC",
       "pos": "RB",
       "adp": 339.0,
+      "adp_ud": 339.0,
+      "adp_espn": null,
+      "adp_sleeper": 182.0,
       "history": [
         {
           "date": "May 5",
@@ -4687,6 +5566,9 @@
       "team": "IND",
       "pos": "QB",
       "adp": 311.0,
+      "adp_ud": 311.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -4703,6 +5585,9 @@
       "team": "CIN",
       "pos": "RB",
       "adp": 287.0,
+      "adp_ud": 287.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4719,6 +5604,9 @@
       "team": "CAR",
       "pos": "RB",
       "adp": 286.0,
+      "adp_ud": 286.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4735,6 +5623,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 285.0,
+      "adp_ud": 285.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4751,6 +5642,9 @@
       "team": "IND",
       "pos": "WR",
       "adp": 263.0,
+      "adp_ud": 263.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4767,6 +5661,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 288.0,
+      "adp_ud": 288.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4783,6 +5680,9 @@
       "team": "DET",
       "pos": "WR",
       "adp": 314.0,
+      "adp_ud": 314.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4799,6 +5699,9 @@
       "team": "CLE",
       "pos": "WR",
       "adp": 315.0,
+      "adp_ud": 315.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4815,6 +5718,9 @@
       "team": "LAR",
       "pos": "WR",
       "adp": 291.0,
+      "adp_ud": 291.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4831,6 +5737,9 @@
       "team": "GB",
       "pos": "TE",
       "adp": 345.0,
+      "adp_ud": 345.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4847,6 +5756,9 @@
       "team": "CHI",
       "pos": "WR",
       "adp": 306.0,
+      "adp_ud": 306.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4863,6 +5775,9 @@
       "team": "SF",
       "pos": "QB",
       "adp": 302.0,
+      "adp_ud": 302.0,
+      "adp_espn": null,
+      "adp_sleeper": 249.0,
       "history": [
         {
           "date": "May 5",
@@ -4879,6 +5794,9 @@
       "team": "NO",
       "pos": "RB",
       "adp": 327.0,
+      "adp_ud": 327.0,
+      "adp_espn": null,
+      "adp_sleeper": 190.0,
       "history": [
         {
           "date": "May 6",
@@ -4891,6 +5809,9 @@
       "team": "DAL",
       "pos": "TE",
       "adp": 324.0,
+      "adp_ud": 324.0,
+      "adp_espn": null,
+      "adp_sleeper": 212.0,
       "history": [
         {
           "date": "May 5",
@@ -4907,6 +5828,9 @@
       "team": "LV",
       "pos": "WR",
       "adp": 337.0,
+      "adp_ud": 337.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -4923,6 +5847,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 328.0,
+      "adp_ud": 328.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4939,6 +5866,9 @@
       "team": "CHI",
       "pos": "WR",
       "adp": 252.0,
+      "adp_ud": 252.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -4955,6 +5885,9 @@
       "team": "PIT",
       "pos": "QB",
       "adp": 336.0,
+      "adp_ud": 336.0,
+      "adp_espn": null,
+      "adp_sleeper": 372.0,
       "history": [
         {
           "date": "May 5",
@@ -4971,6 +5904,9 @@
       "team": "LAR",
       "pos": "TE",
       "adp": 304.0,
+      "adp_ud": 304.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -4987,6 +5923,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 323.0,
+      "adp_ud": 323.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5003,6 +5942,9 @@
       "team": "HOU",
       "pos": "WR",
       "adp": 377.0,
+      "adp_ud": 377.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5019,6 +5961,9 @@
       "team": "NYG",
       "pos": "WR",
       "adp": 346.0,
+      "adp_ud": 346.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5035,6 +5980,9 @@
       "team": "CHI",
       "pos": "TE",
       "adp": 274.0,
+      "adp_ud": 274.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5051,6 +5999,9 @@
       "team": "LAC",
       "pos": "TE",
       "adp": 330.0,
+      "adp_ud": 330.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5067,6 +6018,9 @@
       "team": "TB",
       "pos": "WR",
       "adp": 279.0,
+      "adp_ud": 279.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5083,6 +6037,9 @@
       "team": "WAS",
       "pos": "TE",
       "adp": 356.0,
+      "adp_ud": 356.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5099,6 +6056,9 @@
       "team": "DAL",
       "pos": "QB",
       "adp": 362.0,
+      "adp_ud": 362.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5115,6 +6075,9 @@
       "team": "LAR",
       "pos": "QB",
       "adp": 297.0,
+      "adp_ud": 297.0,
+      "adp_espn": null,
+      "adp_sleeper": 141.0,
       "history": [
         {
           "date": "May 5",
@@ -5131,6 +6094,9 @@
       "team": "DAL",
       "pos": "WR",
       "adp": 289.0,
+      "adp_ud": 289.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5147,6 +6113,9 @@
       "team": "TB",
       "pos": "QB",
       "adp": 398.0,
+      "adp_ud": 398.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5159,6 +6128,9 @@
       "team": "PIT",
       "pos": "QB",
       "adp": 292.0,
+      "adp_ud": 292.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5175,6 +6147,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 293.0,
+      "adp_ud": 293.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5191,6 +6166,9 @@
       "team": "LAC",
       "pos": "QB",
       "adp": 361.0,
+      "adp_ud": 361.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5207,6 +6185,9 @@
       "team": "LAR",
       "pos": "WR",
       "adp": 296.0,
+      "adp_ud": 296.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5223,6 +6204,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 298.0,
+      "adp_ud": 298.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5239,6 +6223,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 299.0,
+      "adp_ud": 299.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5255,6 +6242,9 @@
       "team": "LAC",
       "pos": "WR",
       "adp": 301.0,
+      "adp_ud": 301.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5271,6 +6261,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 303.0,
+      "adp_ud": 303.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5287,6 +6280,9 @@
       "team": "NYJ",
       "pos": "QB",
       "adp": 305.0,
+      "adp_ud": 305.0,
+      "adp_espn": null,
+      "adp_sleeper": 398.0,
       "history": [
         {
           "date": "May 5",
@@ -5303,6 +6299,9 @@
       "team": "PIT",
       "pos": "WR",
       "adp": 307.0,
+      "adp_ud": 307.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5319,6 +6318,9 @@
       "team": "CLE",
       "pos": "WR",
       "adp": 332.0,
+      "adp_ud": 332.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5335,6 +6337,9 @@
       "team": "IND",
       "pos": "WR",
       "adp": 308.0,
+      "adp_ud": 308.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5351,6 +6356,9 @@
       "team": "CHI",
       "pos": "WR",
       "adp": 309.0,
+      "adp_ud": 309.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5367,6 +6375,9 @@
       "team": "BUF",
       "pos": "WR",
       "adp": 313.0,
+      "adp_ud": 313.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5383,6 +6394,9 @@
       "team": "CIN",
       "pos": "QB",
       "adp": 333.0,
+      "adp_ud": 333.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5399,6 +6413,9 @@
       "team": "WAS",
       "pos": "WR",
       "adp": 316.0,
+      "adp_ud": 316.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5415,6 +6432,9 @@
       "team": "MIN",
       "pos": "WR",
       "adp": 317.0,
+      "adp_ud": 317.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5431,6 +6451,9 @@
       "team": "",
       "pos": "TE",
       "adp": 318.0,
+      "adp_ud": 318.0,
+      "adp_espn": null,
+      "adp_sleeper": 321.0,
       "history": [
         {
           "date": "May 5",
@@ -5447,6 +6470,9 @@
       "team": "CLE",
       "pos": "QB",
       "adp": 319.0,
+      "adp_ud": 319.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5463,6 +6489,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 340.0,
+      "adp_ud": 340.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5479,6 +6508,9 @@
       "team": "SF",
       "pos": "RB",
       "adp": 359.0,
+      "adp_ud": 359.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5495,6 +6527,9 @@
       "team": "MIN",
       "pos": "WR",
       "adp": 321.0,
+      "adp_ud": 321.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5511,6 +6546,9 @@
       "team": "NYG",
       "pos": "QB",
       "adp": 384.0,
+      "adp_ud": 384.0,
+      "adp_espn": null,
+      "adp_sleeper": 409.0,
       "history": [
         {
           "date": "May 5",
@@ -5527,6 +6565,9 @@
       "team": "WAS",
       "pos": "QB",
       "adp": 383.0,
+      "adp_ud": 383.0,
+      "adp_espn": null,
+      "adp_sleeper": 400.0,
       "history": [
         {
           "date": "May 5",
@@ -5543,6 +6584,9 @@
       "team": "CIN",
       "pos": "TE",
       "adp": 325.0,
+      "adp_ud": 325.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5559,6 +6603,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 326.0,
+      "adp_ud": 326.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5575,6 +6622,9 @@
       "team": "CIN",
       "pos": "TE",
       "adp": 329.0,
+      "adp_ud": 329.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5591,6 +6641,9 @@
       "team": "CIN",
       "pos": "TE",
       "adp": 331.0,
+      "adp_ud": 331.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5607,6 +6660,9 @@
       "team": "MIA",
       "pos": "WR",
       "adp": 335.0,
+      "adp_ud": 335.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5623,6 +6679,9 @@
       "team": "HOU",
       "pos": "TE",
       "adp": 338.0,
+      "adp_ud": 338.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5635,6 +6694,9 @@
       "team": "NYJ",
       "pos": "RB",
       "adp": 374.0,
+      "adp_ud": 374.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5647,6 +6709,9 @@
       "team": "ATL",
       "pos": "WR",
       "adp": 344.0,
+      "adp_ud": 344.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5663,6 +6728,9 @@
       "team": "TEN",
       "pos": "RB",
       "adp": 341.0,
+      "adp_ud": 341.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5675,6 +6743,9 @@
       "team": "KC",
       "pos": "TE",
       "adp": 342.0,
+      "adp_ud": 342.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5687,6 +6758,9 @@
       "team": "",
       "pos": "TE",
       "adp": 343.0,
+      "adp_ud": 343.0,
+      "adp_espn": null,
+      "adp_sleeper": 588.0,
       "history": [
         {
           "date": "May 6",
@@ -5699,6 +6773,9 @@
       "team": "TEN",
       "pos": "TE",
       "adp": 347.0,
+      "adp_ud": 347.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5711,6 +6788,9 @@
       "team": "NO",
       "pos": "TE",
       "adp": 348.0,
+      "adp_ud": 348.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5727,6 +6807,9 @@
       "team": "PHI",
       "pos": "RB",
       "adp": 349.0,
+      "adp_ud": 349.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5743,6 +6826,9 @@
       "team": "",
       "pos": "TE",
       "adp": 397.0,
+      "adp_ud": 397.0,
+      "adp_espn": null,
+      "adp_sleeper": 206.0,
       "history": [
         {
           "date": "May 6",
@@ -5755,6 +6841,9 @@
       "team": "JAC",
       "pos": "RB",
       "adp": 350.0,
+      "adp_ud": 350.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5771,6 +6860,9 @@
       "team": "CHI",
       "pos": "TE",
       "adp": 351.0,
+      "adp_ud": 351.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5787,6 +6879,9 @@
       "team": "JAC",
       "pos": "TE",
       "adp": 352.0,
+      "adp_ud": 352.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5799,6 +6894,9 @@
       "team": "CIN",
       "pos": "WR",
       "adp": 353.0,
+      "adp_ud": 353.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -5815,6 +6913,9 @@
       "team": "CAR",
       "pos": "TE",
       "adp": 354.0,
+      "adp_ud": 354.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5831,6 +6932,9 @@
       "team": "NE",
       "pos": "WR",
       "adp": 355.0,
+      "adp_ud": 355.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -5843,6 +6947,9 @@
       "team": "PHI",
       "pos": "TE",
       "adp": 357.0,
+      "adp_ud": 357.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5855,6 +6962,9 @@
       "team": "DEN",
       "pos": "TE",
       "adp": 358.0,
+      "adp_ud": 358.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -5867,6 +6977,9 @@
       "team": "KC",
       "pos": "TE",
       "adp": 373.0,
+      "adp_ud": 373.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5883,6 +6996,9 @@
       "team": "NE",
       "pos": "RB",
       "adp": 360.0,
+      "adp_ud": 360.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5895,6 +7011,9 @@
       "team": "MIN",
       "pos": "RB",
       "adp": 363.0,
+      "adp_ud": 363.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5907,6 +7026,9 @@
       "team": "LAR",
       "pos": "RB",
       "adp": 364.0,
+      "adp_ud": 364.0,
+      "adp_espn": null,
+      "adp_sleeper": 191.0,
       "history": [
         {
           "date": "May 5",
@@ -5923,6 +7045,9 @@
       "team": "DAL",
       "pos": "RB",
       "adp": 365.0,
+      "adp_ud": 365.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5935,6 +7060,9 @@
       "team": "",
       "pos": "WR",
       "adp": 366.0,
+      "adp_ud": 366.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -5947,6 +7075,9 @@
       "team": "",
       "pos": "TE",
       "adp": 367.0,
+      "adp_ud": 367.0,
+      "adp_espn": null,
+      "adp_sleeper": 249.0,
       "history": [
         {
           "date": "May 5",
@@ -5963,6 +7094,9 @@
       "team": "NO",
       "pos": "WR",
       "adp": 368.0,
+      "adp_ud": 368.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -5975,6 +7109,9 @@
       "team": "KC",
       "pos": "WR",
       "adp": 370.0,
+      "adp_ud": 370.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -5991,6 +7128,9 @@
       "team": "TEN",
       "pos": "WR",
       "adp": 371.0,
+      "adp_ud": 371.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -6007,6 +7147,9 @@
       "team": "MIA",
       "pos": "TE",
       "adp": 372.0,
+      "adp_ud": 372.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -6023,6 +7166,9 @@
       "team": "ARI",
       "pos": "TE",
       "adp": 376.0,
+      "adp_ud": 376.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -6035,6 +7181,9 @@
       "team": "CAR",
       "pos": "WR",
       "adp": 378.0,
+      "adp_ud": 378.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -6047,6 +7196,9 @@
       "team": "MIN",
       "pos": "TE",
       "adp": 379.0,
+      "adp_ud": 379.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6063,6 +7215,9 @@
       "team": "SF",
       "pos": "WR",
       "adp": 380.0,
+      "adp_ud": 380.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6079,6 +7234,9 @@
       "team": "JAC",
       "pos": "TE",
       "adp": 381.0,
+      "adp_ud": 381.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6095,6 +7253,9 @@
       "team": "SEA",
       "pos": "QB",
       "adp": 382.0,
+      "adp_ud": 382.0,
+      "adp_espn": null,
+      "adp_sleeper": 355.0,
       "history": [
         {
           "date": "May 5",
@@ -6111,6 +7272,9 @@
       "team": "CHI",
       "pos": "QB",
       "adp": 385.0,
+      "adp_ud": 385.0,
+      "adp_espn": null,
+      "adp_sleeper": 412.0,
       "history": [
         {
           "date": "May 6",
@@ -6123,6 +7287,9 @@
       "team": "BUF",
       "pos": "QB",
       "adp": 386.0,
+      "adp_ud": 386.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 6",
@@ -6135,6 +7302,9 @@
       "team": "DET",
       "pos": "WR",
       "adp": 388.0,
+      "adp_ud": 388.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 5",
@@ -6151,6 +7321,9 @@
       "team": "DET",
       "pos": "RB",
       "adp": 389.0,
+      "adp_ud": 389.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6167,6 +7340,9 @@
       "team": "IND",
       "pos": "WR",
       "adp": 390.0,
+      "adp_ud": 390.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6183,6 +7359,9 @@
       "team": "BAL",
       "pos": "WR",
       "adp": 391.0,
+      "adp_ud": 391.0,
+      "adp_espn": null,
+      "adp_sleeper": 319.0,
       "history": [
         {
           "date": "May 6",
@@ -6195,6 +7374,9 @@
       "team": "CIN",
       "pos": "WR",
       "adp": 392.0,
+      "adp_ud": 392.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
@@ -6211,6 +7393,9 @@
       "team": "",
       "pos": "RB",
       "adp": 393.0,
+      "adp_ud": 393.0,
+      "adp_espn": null,
+      "adp_sleeper": 244.0,
       "history": [
         {
           "date": "May 5",
@@ -6227,6 +7412,9 @@
       "team": "",
       "pos": "WR",
       "adp": 394.0,
+      "adp_ud": 394.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -6239,6 +7427,9 @@
       "team": "WAS",
       "pos": "RB",
       "adp": 395.0,
+      "adp_ud": 395.0,
+      "adp_espn": null,
+      "adp_sleeper": null,
       "history": [
         {
           "date": "May 6",
@@ -6251,6 +7442,9 @@
       "team": "PHI",
       "pos": "WR",
       "adp": 396.0,
+      "adp_ud": 396.0,
+      "adp_espn": null,
+      "adp_sleeper": 999.0,
       "history": [
         {
           "date": "May 5",
