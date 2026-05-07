@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 14:35",
+  "updated": "2026-05-07 15:50",
   "source": "FantasyPros (Underdog + ESPN) + Sleeper API",
   "players": [
     {
@@ -3481,7 +3481,7 @@
       "pos": "WR",
       "adp": 148.0,
       "adp_ud": 148.0,
-      "adp_espn": null,
+      "adp_espn": 114.0,
       "adp_sleeper": 46.0,
       "history": [
         {
@@ -3596,7 +3596,7 @@
       "pos": "WR",
       "adp": 154.0,
       "adp_ud": 154.0,
-      "adp_espn": null,
+      "adp_espn": 88.0,
       "adp_sleeper": 121.0,
       "history": [
         {
@@ -3895,7 +3895,7 @@
       "pos": "WR",
       "adp": 173.0,
       "adp_ud": 173.0,
-      "adp_espn": null,
+      "adp_espn": 96.0,
       "adp_sleeper": null,
       "history": [
         {
@@ -4328,7 +4328,7 @@
       "pos": "QB",
       "adp": 200.0,
       "adp_ud": 200.0,
-      "adp_espn": null,
+      "adp_espn": 190.0,
       "adp_sleeper": 235.0,
       "history": [
         {
@@ -4466,7 +4466,7 @@
       "pos": "TE",
       "adp": 197.0,
       "adp_ud": 197.0,
-      "adp_espn": null,
+      "adp_espn": 72.0,
       "adp_sleeper": 190.0,
       "history": [
         {
@@ -5938,7 +5938,7 @@
       "pos": "RB",
       "adp": 281.0,
       "adp_ud": 281.0,
-      "adp_espn": null,
+      "adp_espn": 145.0,
       "adp_sleeper": 212.0,
       "history": [
         {
@@ -7857,7 +7857,7 @@
       "pos": "TE",
       "adp": 316.0,
       "adp_ud": 316.0,
-      "adp_espn": null,
+      "adp_espn": 246.0,
       "adp_sleeper": 321.0,
       "history": [
         {
@@ -8243,7 +8243,7 @@
       "pos": "TE",
       "adp": 373.0,
       "adp_ud": 373.0,
-      "adp_espn": null,
+      "adp_espn": 187.0,
       "adp_sleeper": 206.0,
       "history": [
         {
@@ -8536,7 +8536,7 @@
       "pos": "TE",
       "adp": 368.0,
       "adp_ud": 368.0,
-      "adp_espn": null,
+      "adp_espn": 188.0,
       "adp_sleeper": 249.0,
       "history": [
         {
@@ -8842,7 +8842,7 @@
       "pos": "RB",
       "adp": 390.0,
       "adp_ud": 390.0,
-      "adp_espn": null,
+      "adp_espn": 121.0,
       "adp_sleeper": 244.0,
       "history": [
         {
@@ -8865,7 +8865,7 @@
       "pos": "WR",
       "adp": 392.0,
       "adp_ud": 392.0,
-      "adp_espn": null,
+      "adp_espn": 263.0,
       "adp_sleeper": null,
       "history": [
         {
