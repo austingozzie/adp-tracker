@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16 13:48",
+  "updated": "2026-05-17 13:47",
   "source": "FantasyPros (Underdog + ESPN) + Sleeper API",
   "players": [
     {
@@ -16,6 +16,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 1.0
+        },
+        {
+          "date": "May 17",
           "adp": 1.0
         }
       ]
@@ -35,6 +39,10 @@
         {
           "date": "May 16",
           "adp": 2.0
+        },
+        {
+          "date": "May 17",
+          "adp": 2.0
         }
       ]
     },
@@ -52,6 +60,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 3.0
+        },
+        {
+          "date": "May 17",
           "adp": 3.0
         }
       ]
@@ -71,6 +83,10 @@
         {
           "date": "May 16",
           "adp": 4.0
+        },
+        {
+          "date": "May 17",
+          "adp": 4.0
         }
       ]
     },
@@ -88,6 +104,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 5.0
+        },
+        {
+          "date": "May 17",
           "adp": 5.0
         }
       ]
@@ -107,6 +127,10 @@
         {
           "date": "May 16",
           "adp": 7.0
+        },
+        {
+          "date": "May 17",
+          "adp": 7.0
         }
       ]
     },
@@ -124,6 +148,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 6.0
+        },
+        {
+          "date": "May 17",
           "adp": 6.0
         }
       ]
@@ -143,6 +171,10 @@
         {
           "date": "May 16",
           "adp": 8.0
+        },
+        {
+          "date": "May 17",
+          "adp": 8.0
         }
       ]
     },
@@ -160,6 +192,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 10.0
+        },
+        {
+          "date": "May 17",
           "adp": 10.0
         }
       ]
@@ -179,6 +215,10 @@
         {
           "date": "May 16",
           "adp": 11.0
+        },
+        {
+          "date": "May 17",
+          "adp": 11.0
         }
       ]
     },
@@ -197,24 +237,10 @@
         {
           "date": "May 16",
           "adp": 9.0
-        }
-      ]
-    },
-    {
-      "name": "De'Von Achane MIA ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 13.0,
-      "adp_ud": 13.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB7",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 13.0
+          "date": "May 17",
+          "adp": 9.0
         }
       ]
     },
@@ -233,6 +259,32 @@
         {
           "date": "May 16",
           "adp": 12.0
+        },
+        {
+          "date": "May 17",
+          "adp": 12.0
+        }
+      ]
+    },
+    {
+      "name": "De'Von Achane MIA ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 13.0,
+      "adp_ud": 13.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB7",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 13.0
+        },
+        {
+          "date": "May 17",
+          "adp": 13.0
         }
       ]
     },
@@ -250,6 +302,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 14.0
+        },
+        {
+          "date": "May 17",
           "adp": 14.0
         }
       ]
@@ -269,6 +325,10 @@
         {
           "date": "May 16",
           "adp": 24.0
+        },
+        {
+          "date": "May 17",
+          "adp": 24.0
         }
       ]
     },
@@ -287,24 +347,10 @@
         {
           "date": "May 16",
           "adp": 18.0
-        }
-      ]
-    },
-    {
-      "name": "Kenneth Walker III KC ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 15.0,
-      "adp_ud": 15.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB9",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 15.0
+          "date": "May 17",
+          "adp": 18.0
         }
       ]
     },
@@ -323,24 +369,32 @@
         {
           "date": "May 16",
           "adp": 16.0
+        },
+        {
+          "date": "May 17",
+          "adp": 16.0
         }
       ]
     },
     {
-      "name": "Rashee Rice KC ()",
+      "name": "Kenneth Walker III KC ()",
       "team": "",
-      "pos": "WR",
-      "adp": 19.0,
-      "adp_ud": 19.0,
+      "pos": "RB",
+      "adp": 15.0,
+      "adp_ud": 15.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR7",
+      "pos_rank_ud": "RB9",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 19.0
+          "adp": 15.0
+        },
+        {
+          "date": "May 17",
+          "adp": 15.0
         }
       ]
     },
@@ -359,6 +413,32 @@
         {
           "date": "May 16",
           "adp": 20.0
+        },
+        {
+          "date": "May 17",
+          "adp": 20.0
+        }
+      ]
+    },
+    {
+      "name": "Rashee Rice KC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 19.0,
+      "adp_ud": 19.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR7",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 19.0
+        },
+        {
+          "date": "May 17",
+          "adp": 19.0
         }
       ]
     },
@@ -366,8 +446,8 @@
       "name": "Brock Bowers LV ()",
       "team": "",
       "pos": "TE",
-      "adp": 22.0,
-      "adp_ud": 22.0,
+      "adp": 21.0,
+      "adp_ud": 21.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -377,6 +457,10 @@
         {
           "date": "May 16",
           "adp": 22.0
+        },
+        {
+          "date": "May 17",
+          "adp": 21.0
         }
       ]
     },
@@ -395,6 +479,10 @@
         {
           "date": "May 16",
           "adp": 17.0
+        },
+        {
+          "date": "May 17",
+          "adp": 17.0
         }
       ]
     },
@@ -402,8 +490,8 @@
       "name": "Malik Nabers NYG ()",
       "team": "",
       "pos": "WR",
-      "adp": 21.0,
-      "adp_ud": 21.0,
+      "adp": 22.0,
+      "adp_ud": 22.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -413,6 +501,10 @@
         {
           "date": "May 16",
           "adp": 21.0
+        },
+        {
+          "date": "May 17",
+          "adp": 22.0
         }
       ]
     },
@@ -430,6 +522,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 23.0
+        },
+        {
+          "date": "May 17",
           "adp": 23.0
         }
       ]
@@ -449,6 +545,10 @@
         {
           "date": "May 16",
           "adp": 29.0
+        },
+        {
+          "date": "May 17",
+          "adp": 29.0
         }
       ]
     },
@@ -466,6 +566,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 25.0
+        },
+        {
+          "date": "May 17",
           "adp": 25.0
         }
       ]
@@ -485,6 +589,10 @@
         {
           "date": "May 16",
           "adp": 26.0
+        },
+        {
+          "date": "May 17",
+          "adp": 26.0
         }
       ]
     },
@@ -502,6 +610,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 27.0
+        },
+        {
+          "date": "May 17",
           "adp": 27.0
         }
       ]
@@ -521,6 +633,10 @@
         {
           "date": "May 16",
           "adp": 28.0
+        },
+        {
+          "date": "May 17",
+          "adp": 28.0
         }
       ]
     },
@@ -538,6 +654,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 33.0
+        },
+        {
+          "date": "May 17",
           "adp": 33.0
         }
       ]
@@ -557,6 +677,10 @@
         {
           "date": "May 16",
           "adp": 34.0
+        },
+        {
+          "date": "May 17",
+          "adp": 34.0
         }
       ]
     },
@@ -574,6 +698,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 30.0
+        },
+        {
+          "date": "May 17",
           "adp": 30.0
         }
       ]
@@ -593,6 +721,10 @@
         {
           "date": "May 16",
           "adp": 31.0
+        },
+        {
+          "date": "May 17",
+          "adp": 31.0
         }
       ]
     },
@@ -610,6 +742,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 35.0
+        },
+        {
+          "date": "May 17",
           "adp": 35.0
         }
       ]
@@ -629,6 +765,10 @@
         {
           "date": "May 16",
           "adp": 36.0
+        },
+        {
+          "date": "May 17",
+          "adp": 36.0
         }
       ]
     },
@@ -646,6 +786,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 37.0
+        },
+        {
+          "date": "May 17",
           "adp": 37.0
         }
       ]
@@ -665,6 +809,32 @@
         {
           "date": "May 16",
           "adp": 32.0
+        },
+        {
+          "date": "May 17",
+          "adp": 32.0
+        }
+      ]
+    },
+    {
+      "name": "Colston Loveland CHI ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 45.0,
+      "adp_ud": 45.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE3",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 46.0
+        },
+        {
+          "date": "May 17",
+          "adp": 45.0
         }
       ]
     },
@@ -683,24 +853,10 @@
         {
           "date": "May 16",
           "adp": 38.0
-        }
-      ]
-    },
-    {
-      "name": "Colston Loveland CHI ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 46.0,
-      "adp_ud": 46.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE3",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 46.0
+          "date": "May 17",
+          "adp": 38.0
         }
       ]
     },
@@ -718,6 +874,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 39.0
+        },
+        {
+          "date": "May 17",
           "adp": 39.0
         }
       ]
@@ -737,6 +897,10 @@
         {
           "date": "May 16",
           "adp": 40.0
+        },
+        {
+          "date": "May 17",
+          "adp": 40.0
         }
       ]
     },
@@ -754,6 +918,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 43.0
+        },
+        {
+          "date": "May 17",
           "adp": 43.0
         }
       ]
@@ -773,6 +941,10 @@
         {
           "date": "May 16",
           "adp": 55.0
+        },
+        {
+          "date": "May 17",
+          "adp": 55.0
         }
       ]
     },
@@ -790,6 +962,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 41.0
+        },
+        {
+          "date": "May 17",
           "adp": 41.0
         }
       ]
@@ -809,6 +985,10 @@
         {
           "date": "May 16",
           "adp": 47.0
+        },
+        {
+          "date": "May 17",
+          "adp": 47.0
         }
       ]
     },
@@ -827,24 +1007,10 @@
         {
           "date": "May 16",
           "adp": 42.0
-        }
-      ]
-    },
-    {
-      "name": "Davante Adams LAR ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 52.0,
-      "adp_ud": 52.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR26",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 52.0
+          "date": "May 17",
+          "adp": 42.0
         }
       ]
     },
@@ -863,6 +1029,32 @@
         {
           "date": "May 16",
           "adp": 53.0
+        },
+        {
+          "date": "May 17",
+          "adp": 53.0
+        }
+      ]
+    },
+    {
+      "name": "Davante Adams LAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 52.0,
+      "adp_ud": 52.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR26",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 52.0
+        },
+        {
+          "date": "May 17",
+          "adp": 52.0
         }
       ]
     },
@@ -881,6 +1073,10 @@
         {
           "date": "May 16",
           "adp": 49.0
+        },
+        {
+          "date": "May 17",
+          "adp": 49.0
         }
       ]
     },
@@ -888,8 +1084,8 @@
       "name": "TreVeyon Henderson NE ()",
       "team": "",
       "pos": "RB",
-      "adp": 45.0,
-      "adp_ud": 45.0,
+      "adp": 46.0,
+      "adp_ud": 46.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -899,24 +1095,10 @@
         {
           "date": "May 16",
           "adp": 45.0
-        }
-      ]
-    },
-    {
-      "name": "Joe Burrow CIN ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 63.0,
-      "adp_ud": 63.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB3",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 63.0
+          "date": "May 17",
+          "adp": 46.0
         }
       ]
     },
@@ -935,6 +1117,32 @@
         {
           "date": "May 16",
           "adp": 56.0
+        },
+        {
+          "date": "May 17",
+          "adp": 56.0
+        }
+      ]
+    },
+    {
+      "name": "Joe Burrow CIN ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 63.0,
+      "adp_ud": 63.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB3",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 63.0
+        },
+        {
+          "date": "May 17",
+          "adp": 63.0
         }
       ]
     },
@@ -952,6 +1160,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 50.0
+        },
+        {
+          "date": "May 17",
           "adp": 50.0
         }
       ]
@@ -971,6 +1183,10 @@
         {
           "date": "May 16",
           "adp": 48.0
+        },
+        {
+          "date": "May 17",
+          "adp": 48.0
         }
       ]
     },
@@ -989,24 +1205,10 @@
         {
           "date": "May 16",
           "adp": 44.0
-        }
-      ]
-    },
-    {
-      "name": "Drake Maye NE ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 71.0,
-      "adp_ud": 71.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB7",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 71.0
+          "date": "May 17",
+          "adp": 44.0
         }
       ]
     },
@@ -1025,24 +1227,32 @@
         {
           "date": "May 16",
           "adp": 51.0
+        },
+        {
+          "date": "May 17",
+          "adp": 51.0
         }
       ]
     },
     {
-      "name": "D'Andre Swift CHI ()",
+      "name": "Drake Maye NE ()",
       "team": "",
-      "pos": "RB",
-      "adp": 54.0,
-      "adp_ud": 54.0,
+      "pos": "QB",
+      "adp": 71.0,
+      "adp_ud": 71.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB23",
+      "pos_rank_ud": "QB7",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 54.0
+          "adp": 71.0
+        },
+        {
+          "date": "May 17",
+          "adp": 71.0
         }
       ]
     },
@@ -1061,6 +1271,32 @@
         {
           "date": "May 16",
           "adp": 66.0
+        },
+        {
+          "date": "May 17",
+          "adp": 66.0
+        }
+      ]
+    },
+    {
+      "name": "D'Andre Swift CHI ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 54.0,
+      "adp_ud": 54.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB23",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 54.0
+        },
+        {
+          "date": "May 17",
+          "adp": 54.0
         }
       ]
     },
@@ -1079,24 +1315,10 @@
         {
           "date": "May 16",
           "adp": 65.0
-        }
-      ]
-    },
-    {
-      "name": "Rome Odunze CHI ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 57.0,
-      "adp_ud": 57.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR28",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 57.0
+          "date": "May 17",
+          "adp": 65.0
         }
       ]
     },
@@ -1115,6 +1337,32 @@
         {
           "date": "May 16",
           "adp": 58.0
+        },
+        {
+          "date": "May 17",
+          "adp": 58.0
+        }
+      ]
+    },
+    {
+      "name": "Rome Odunze CHI ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 57.0,
+      "adp_ud": 57.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR28",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 57.0
+        },
+        {
+          "date": "May 17",
+          "adp": 57.0
         }
       ]
     },
@@ -1132,6 +1380,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 61.0
+        },
+        {
+          "date": "May 17",
           "adp": 61.0
         }
       ]
@@ -1151,6 +1403,10 @@
         {
           "date": "May 16",
           "adp": 59.0
+        },
+        {
+          "date": "May 17",
+          "adp": 59.0
         }
       ]
     },
@@ -1168,6 +1424,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 70.0
+        },
+        {
+          "date": "May 17",
           "adp": 70.0
         }
       ]
@@ -1187,6 +1447,10 @@
         {
           "date": "May 16",
           "adp": 69.0
+        },
+        {
+          "date": "May 17",
+          "adp": 69.0
         }
       ]
     },
@@ -1204,6 +1468,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 68.0
+        },
+        {
+          "date": "May 17",
           "adp": 68.0
         }
       ]
@@ -1223,6 +1491,10 @@
         {
           "date": "May 16",
           "adp": 60.0
+        },
+        {
+          "date": "May 17",
+          "adp": 60.0
         }
       ]
     },
@@ -1240,6 +1512,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 67.0
+        },
+        {
+          "date": "May 17",
           "adp": 67.0
         }
       ]
@@ -1259,6 +1535,10 @@
         {
           "date": "May 16",
           "adp": 92.0
+        },
+        {
+          "date": "May 17",
+          "adp": 92.0
         }
       ]
     },
@@ -1277,24 +1557,10 @@
         {
           "date": "May 16",
           "adp": 78.0
-        }
-      ]
-    },
-    {
-      "name": "Tucker Kraft GB ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 79.0,
-      "adp_ud": 79.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE5",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 79.0
+          "date": "May 17",
+          "adp": 78.0
         }
       ]
     },
@@ -1313,24 +1579,32 @@
         {
           "date": "May 16",
           "adp": 64.0
+        },
+        {
+          "date": "May 17",
+          "adp": 64.0
         }
       ]
     },
     {
-      "name": "RJ Harvey DEN ()",
+      "name": "Tucker Kraft GB ()",
       "team": "",
-      "pos": "RB",
-      "adp": 83.0,
-      "adp_ud": 83.0,
+      "pos": "TE",
+      "adp": 79.0,
+      "adp_ud": 79.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB31",
+      "pos_rank_ud": "TE5",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 83.0
+          "adp": 79.0
+        },
+        {
+          "date": "May 17",
+          "adp": 79.0
         }
       ]
     },
@@ -1349,6 +1623,32 @@
         {
           "date": "May 16",
           "adp": 62.0
+        },
+        {
+          "date": "May 17",
+          "adp": 62.0
+        }
+      ]
+    },
+    {
+      "name": "RJ Harvey DEN ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 84.0,
+      "adp_ud": 84.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB31",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 83.0
+        },
+        {
+          "date": "May 17",
+          "adp": 84.0
         }
       ]
     },
@@ -1367,24 +1667,10 @@
         {
           "date": "May 16",
           "adp": 74.0
-        }
-      ]
-    },
-    {
-      "name": "Alec Pierce IND ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 72.0,
-      "adp_ud": 72.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR34",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 72.0
+          "date": "May 17",
+          "adp": 74.0
         }
       ]
     },
@@ -1403,6 +1689,32 @@
         {
           "date": "May 16",
           "adp": 75.0
+        },
+        {
+          "date": "May 17",
+          "adp": 75.0
+        }
+      ]
+    },
+    {
+      "name": "Alec Pierce IND ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 72.0,
+      "adp_ud": 72.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR34",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 72.0
+        },
+        {
+          "date": "May 17",
+          "adp": 72.0
         }
       ]
     },
@@ -1420,6 +1732,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 86.0
+        },
+        {
+          "date": "May 17",
           "adp": 86.0
         }
       ]
@@ -1439,60 +1755,10 @@
         {
           "date": "May 16",
           "adp": 81.0
-        }
-      ]
-    },
-    {
-      "name": "Jaxson Dart NYG ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 90.0,
-      "adp_ud": 90.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB11",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 90.0
-        }
-      ]
-    },
-    {
-      "name": "Justin Herbert LAC ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 84.0,
-      "adp_ud": 84.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB9",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 84.0
-        }
-      ]
-    },
-    {
-      "name": "Courtland Sutton DEN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 80.0,
-      "adp_ud": 80.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR38",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 80.0
+          "date": "May 17",
+          "adp": 81.0
         }
       ]
     },
@@ -1511,24 +1777,76 @@
         {
           "date": "May 16",
           "adp": 76.0
+        },
+        {
+          "date": "May 17",
+          "adp": 76.0
         }
       ]
     },
     {
-      "name": "Sam LaPorta DET ()",
+      "name": "Jaxson Dart NYG ()",
       "team": "",
-      "pos": "TE",
-      "adp": 98.0,
-      "adp_ud": 98.0,
+      "pos": "QB",
+      "adp": 90.0,
+      "adp_ud": 90.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE7",
+      "pos_rank_ud": "QB11",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 98.0
+          "adp": 90.0
+        },
+        {
+          "date": "May 17",
+          "adp": 90.0
+        }
+      ]
+    },
+    {
+      "name": "Justin Herbert LAC ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 83.0,
+      "adp_ud": 83.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB9",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 84.0
+        },
+        {
+          "date": "May 17",
+          "adp": 83.0
+        }
+      ]
+    },
+    {
+      "name": "Courtland Sutton DEN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 80.0,
+      "adp_ud": 80.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR38",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 80.0
+        },
+        {
+          "date": "May 17",
+          "adp": 80.0
         }
       ]
     },
@@ -1547,6 +1865,32 @@
         {
           "date": "May 16",
           "adp": 77.0
+        },
+        {
+          "date": "May 17",
+          "adp": 77.0
+        }
+      ]
+    },
+    {
+      "name": "Sam LaPorta DET ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 98.0,
+      "adp_ud": 98.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE7",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 98.0
+        },
+        {
+          "date": "May 17",
+          "adp": 98.0
         }
       ]
     },
@@ -1564,6 +1908,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 87.0
+        },
+        {
+          "date": "May 17",
           "adp": 87.0
         }
       ]
@@ -1583,6 +1931,10 @@
         {
           "date": "May 16",
           "adp": 103.0
+        },
+        {
+          "date": "May 17",
+          "adp": 103.0
         }
       ]
     },
@@ -1600,6 +1952,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 73.0
+        },
+        {
+          "date": "May 17",
           "adp": 73.0
         }
       ]
@@ -1619,6 +1975,10 @@
         {
           "date": "May 16",
           "adp": 91.0
+        },
+        {
+          "date": "May 17",
+          "adp": 91.0
         }
       ]
     },
@@ -1636,6 +1996,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 93.0
+        },
+        {
+          "date": "May 17",
           "adp": 93.0
         }
       ]
@@ -1655,6 +2019,10 @@
         {
           "date": "May 16",
           "adp": 104.0
+        },
+        {
+          "date": "May 17",
+          "adp": 104.0
         }
       ]
     },
@@ -1672,6 +2040,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 89.0
+        },
+        {
+          "date": "May 17",
           "adp": 89.0
         }
       ]
@@ -1691,6 +2063,10 @@
         {
           "date": "May 16",
           "adp": 88.0
+        },
+        {
+          "date": "May 17",
+          "adp": 88.0
         }
       ]
     },
@@ -1708,6 +2084,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 97.0
+        },
+        {
+          "date": "May 17",
           "adp": 97.0
         }
       ]
@@ -1727,24 +2107,10 @@
         {
           "date": "May 16",
           "adp": 100.0
-        }
-      ]
-    },
-    {
-      "name": "Jared Goff DET ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 105.0,
-      "adp_ud": 105.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB16",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 105.0
+          "date": "May 17",
+          "adp": 100.0
         }
       ]
     },
@@ -1763,42 +2129,32 @@
         {
           "date": "May 16",
           "adp": 95.0
+        },
+        {
+          "date": "May 17",
+          "adp": 95.0
         }
       ]
     },
     {
-      "name": "J.K. Dobbins DEN ()",
+      "name": "Jared Goff DET ()",
       "team": "",
-      "pos": "RB",
-      "adp": 102.0,
-      "adp_ud": 102.0,
+      "pos": "QB",
+      "adp": 105.0,
+      "adp_ud": 105.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB35",
+      "pos_rank_ud": "QB16",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 102.0
-        }
-      ]
-    },
-    {
-      "name": "Jayden Reed GB ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 82.0,
-      "adp_ud": 82.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR39",
-      "pos_rank_sleeper": null,
-      "history": [
+          "adp": 105.0
+        },
         {
-          "date": "May 16",
-          "adp": 82.0
+          "date": "May 17",
+          "adp": 105.0
         }
       ]
     },
@@ -1817,24 +2173,54 @@
         {
           "date": "May 16",
           "adp": 85.0
+        },
+        {
+          "date": "May 17",
+          "adp": 85.0
         }
       ]
     },
     {
-      "name": "George Kittle SF ()",
+      "name": "Jayden Reed GB ()",
       "team": "",
-      "pos": "TE",
-      "adp": 117.0,
-      "adp_ud": 117.0,
+      "pos": "WR",
+      "adp": 82.0,
+      "adp_ud": 82.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE9",
+      "pos_rank_ud": "WR39",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 117.0
+          "adp": 82.0
+        },
+        {
+          "date": "May 17",
+          "adp": 82.0
+        }
+      ]
+    },
+    {
+      "name": "J.K. Dobbins DEN ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 102.0,
+      "adp_ud": 102.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB35",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 102.0
+        },
+        {
+          "date": "May 17",
+          "adp": 102.0
         }
       ]
     },
@@ -1853,6 +2239,32 @@
         {
           "date": "May 16",
           "adp": 96.0
+        },
+        {
+          "date": "May 17",
+          "adp": 96.0
+        }
+      ]
+    },
+    {
+      "name": "George Kittle SF ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 117.0,
+      "adp_ud": 117.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE9",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 117.0
+        },
+        {
+          "date": "May 17",
+          "adp": 117.0
         }
       ]
     },
@@ -1870,6 +2282,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 101.0
+        },
+        {
+          "date": "May 17",
           "adp": 101.0
         }
       ]
@@ -1889,6 +2305,10 @@
         {
           "date": "May 16",
           "adp": 94.0
+        },
+        {
+          "date": "May 17",
+          "adp": 94.0
         }
       ]
     },
@@ -1907,24 +2327,10 @@
         {
           "date": "May 16",
           "adp": 118.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Shough NO ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 113.0,
-      "adp_ud": 113.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB19",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 113.0
+          "date": "May 17",
+          "adp": 118.0
         }
       ]
     },
@@ -1943,6 +2349,32 @@
         {
           "date": "May 16",
           "adp": 109.0
+        },
+        {
+          "date": "May 17",
+          "adp": 109.0
+        }
+      ]
+    },
+    {
+      "name": "Tyler Shough NO ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 113.0,
+      "adp_ud": 113.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB19",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 113.0
+        },
+        {
+          "date": "May 17",
+          "adp": 113.0
         }
       ]
     },
@@ -1960,6 +2392,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 107.0
+        },
+        {
+          "date": "May 17",
           "adp": 107.0
         }
       ]
@@ -1979,6 +2415,32 @@
         {
           "date": "May 16",
           "adp": 108.0
+        },
+        {
+          "date": "May 17",
+          "adp": 108.0
+        }
+      ]
+    },
+    {
+      "name": "Travis Kelce KC ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 125.0,
+      "adp_ud": 125.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE11",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 125.0
+        },
+        {
+          "date": "May 17",
+          "adp": 125.0
         }
       ]
     },
@@ -1996,6 +2458,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 116.0
+        },
+        {
+          "date": "May 17",
           "adp": 116.0
         }
       ]
@@ -2015,24 +2481,10 @@
         {
           "date": "May 16",
           "adp": 119.0
-        }
-      ]
-    },
-    {
-      "name": "Travis Kelce KC ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 125.0,
-      "adp_ud": 125.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE11",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 125.0
+          "date": "May 17",
+          "adp": 119.0
         }
       ]
     },
@@ -2050,6 +2502,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 99.0
+        },
+        {
+          "date": "May 17",
           "adp": 99.0
         }
       ]
@@ -2069,6 +2525,10 @@
         {
           "date": "May 16",
           "adp": 124.0
+        },
+        {
+          "date": "May 17",
+          "adp": 124.0
         }
       ]
     },
@@ -2086,6 +2546,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 112.0
+        },
+        {
+          "date": "May 17",
           "adp": 112.0
         }
       ]
@@ -2105,24 +2569,10 @@
         {
           "date": "May 16",
           "adp": 121.0
-        }
-      ]
-    },
-    {
-      "name": "KC Concepcion CLE ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 115.0,
-      "adp_ud": 115.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR51",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 115.0
+          "date": "May 17",
+          "adp": 121.0
         }
       ]
     },
@@ -2130,8 +2580,8 @@
       "name": "Dalton Kincaid BUF ()",
       "team": "",
       "pos": "TE",
-      "adp": 131.0,
-      "adp_ud": 131.0,
+      "adp": 130.0,
+      "adp_ud": 130.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2141,6 +2591,10 @@
         {
           "date": "May 16",
           "adp": 131.0
+        },
+        {
+          "date": "May 17",
+          "adp": 130.0
         }
       ]
     },
@@ -2159,24 +2613,32 @@
         {
           "date": "May 16",
           "adp": 133.0
+        },
+        {
+          "date": "May 17",
+          "adp": 133.0
         }
       ]
     },
     {
-      "name": "Matthew Golden GB ()",
+      "name": "KC Concepcion CLE ()",
       "team": "",
       "pos": "WR",
-      "adp": 106.0,
-      "adp_ud": 106.0,
+      "adp": 115.0,
+      "adp_ud": 115.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR47",
+      "pos_rank_ud": "WR51",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 106.0
+          "adp": 115.0
+        },
+        {
+          "date": "May 17",
+          "adp": 115.0
         }
       ]
     },
@@ -2184,17 +2646,21 @@
       "name": "Dallas Goedert PHI ()",
       "team": "",
       "pos": "TE",
-      "adp": 135.0,
-      "adp_ud": 135.0,
+      "adp": 134.0,
+      "adp_ud": 134.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE16",
+      "pos_rank_ud": "TE15",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 135.0
+        },
+        {
+          "date": "May 17",
+          "adp": 134.0
         }
       ]
     },
@@ -2213,6 +2679,32 @@
         {
           "date": "May 16",
           "adp": 122.0
+        },
+        {
+          "date": "May 17",
+          "adp": 122.0
+        }
+      ]
+    },
+    {
+      "name": "Matthew Golden GB ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 106.0,
+      "adp_ud": 106.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR47",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 106.0
+        },
+        {
+          "date": "May 17",
+          "adp": 106.0
         }
       ]
     },
@@ -2220,17 +2712,21 @@
       "name": "Oronde Gadsden II LAC ()",
       "team": "",
       "pos": "TE",
-      "adp": 134.0,
-      "adp_ud": 134.0,
+      "adp": 135.0,
+      "adp_ud": 135.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE15",
+      "pos_rank_ud": "TE16",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 134.0
+        },
+        {
+          "date": "May 17",
+          "adp": 135.0
         }
       ]
     },
@@ -2238,8 +2734,8 @@
       "name": "Chris Rodriguez Jr. JAC ()",
       "team": "",
       "pos": "RB",
-      "adp": 110.0,
-      "adp_ud": 110.0,
+      "adp": 111.0,
+      "adp_ud": 111.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2249,6 +2745,10 @@
         {
           "date": "May 16",
           "adp": 110.0
+        },
+        {
+          "date": "May 17",
+          "adp": 111.0
         }
       ]
     },
@@ -2267,24 +2767,10 @@
         {
           "date": "May 16",
           "adp": 114.0
-        }
-      ]
-    },
-    {
-      "name": "Xavier Worthy KC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 111.0,
-      "adp_ud": 111.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR49",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 111.0
+          "date": "May 17",
+          "adp": 114.0
         }
       ]
     },
@@ -2303,6 +2789,32 @@
         {
           "date": "May 16",
           "adp": 120.0
+        },
+        {
+          "date": "May 17",
+          "adp": 120.0
+        }
+      ]
+    },
+    {
+      "name": "Xavier Worthy KC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 110.0,
+      "adp_ud": 110.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR49",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 111.0
+        },
+        {
+          "date": "May 17",
+          "adp": 110.0
         }
       ]
     },
@@ -2321,24 +2833,10 @@
         {
           "date": "May 16",
           "adp": 132.0
-        }
-      ]
-    },
-    {
-      "name": "Khalil Shakir BUF ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 127.0,
-      "adp_ud": 127.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR54",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 127.0
+          "date": "May 17",
+          "adp": 132.0
         }
       ]
     },
@@ -2357,6 +2855,32 @@
         {
           "date": "May 16",
           "adp": 128.0
+        },
+        {
+          "date": "May 17",
+          "adp": 128.0
+        }
+      ]
+    },
+    {
+      "name": "Khalil Shakir BUF ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 127.0,
+      "adp_ud": 127.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR54",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 127.0
+        },
+        {
+          "date": "May 17",
+          "adp": 127.0
         }
       ]
     },
@@ -2375,24 +2899,10 @@
         {
           "date": "May 16",
           "adp": 123.0
-        }
-      ]
-    },
-    {
-      "name": "Sam Darnold SEA ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 137.0,
-      "adp_ud": 137.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB22",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 137.0
+          "date": "May 17",
+          "adp": 123.0
         }
       ]
     },
@@ -2410,6 +2920,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 126.0
+        },
+        {
+          "date": "May 17",
           "adp": 126.0
         }
       ]
@@ -2429,24 +2943,32 @@
         {
           "date": "May 16",
           "adp": 148.0
+        },
+        {
+          "date": "May 17",
+          "adp": 148.0
         }
       ]
     },
     {
-      "name": "Jalen Coker CAR ()",
+      "name": "Sam Darnold SEA ()",
       "team": "",
-      "pos": "WR",
-      "adp": 130.0,
-      "adp_ud": 130.0,
+      "pos": "QB",
+      "adp": 137.0,
+      "adp_ud": 137.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR55",
+      "pos_rank_ud": "QB22",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 130.0
+          "adp": 137.0
+        },
+        {
+          "date": "May 17",
+          "adp": 137.0
         }
       ]
     },
@@ -2465,6 +2987,32 @@
         {
           "date": "May 16",
           "adp": 129.0
+        },
+        {
+          "date": "May 17",
+          "adp": 129.0
+        }
+      ]
+    },
+    {
+      "name": "Jalen Coker CAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 131.0,
+      "adp_ud": 131.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR55",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 130.0
+        },
+        {
+          "date": "May 17",
+          "adp": 131.0
         }
       ]
     },
@@ -2482,6 +3030,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 142.0
+        },
+        {
+          "date": "May 17",
           "adp": 142.0
         }
       ]
@@ -2501,6 +3053,10 @@
         {
           "date": "May 16",
           "adp": 138.0
+        },
+        {
+          "date": "May 17",
+          "adp": 138.0
         }
       ]
     },
@@ -2518,6 +3074,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 155.0
+        },
+        {
+          "date": "May 17",
           "adp": 155.0
         }
       ]
@@ -2537,6 +3097,10 @@
         {
           "date": "May 16",
           "adp": 159.0
+        },
+        {
+          "date": "May 17",
+          "adp": 159.0
         }
       ]
     },
@@ -2554,6 +3118,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 147.0
+        },
+        {
+          "date": "May 17",
           "adp": 147.0
         }
       ]
@@ -2573,6 +3141,10 @@
         {
           "date": "May 16",
           "adp": 149.0
+        },
+        {
+          "date": "May 17",
+          "adp": 149.0
         }
       ]
     },
@@ -2591,6 +3163,10 @@
         {
           "date": "May 16",
           "adp": 152.0
+        },
+        {
+          "date": "May 17",
+          "adp": 152.0
         }
       ]
     },
@@ -2598,8 +3174,8 @@
       "name": "Zach Charbonnet SEA ()",
       "team": "",
       "pos": "RB",
-      "adp": 156.0,
-      "adp_ud": 156.0,
+      "adp": 157.0,
+      "adp_ud": 157.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2609,6 +3185,10 @@
         {
           "date": "May 16",
           "adp": 156.0
+        },
+        {
+          "date": "May 17",
+          "adp": 157.0
         }
       ]
     },
@@ -2626,6 +3206,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 154.0
+        },
+        {
+          "date": "May 17",
           "adp": 154.0
         }
       ]
@@ -2645,24 +3229,10 @@
         {
           "date": "May 16",
           "adp": 150.0
-        }
-      ]
-    },
-    {
-      "name": "Omar Cooper Jr. NYJ ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 139.0,
-      "adp_ud": 139.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR57",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 139.0
+          "date": "May 17",
+          "adp": 150.0
         }
       ]
     },
@@ -2680,6 +3250,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 136.0
+        },
+        {
+          "date": "May 17",
           "adp": 136.0
         }
       ]
@@ -2699,6 +3273,32 @@
         {
           "date": "May 16",
           "adp": 146.0
+        },
+        {
+          "date": "May 17",
+          "adp": 146.0
+        }
+      ]
+    },
+    {
+      "name": "Omar Cooper Jr. NYJ ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 139.0,
+      "adp_ud": 139.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR57",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 139.0
+        },
+        {
+          "date": "May 17",
+          "adp": 139.0
         }
       ]
     },
@@ -2706,8 +3306,8 @@
       "name": "Jonah Coleman DEN ()",
       "team": "",
       "pos": "RB",
-      "adp": 140.0,
-      "adp_ud": 140.0,
+      "adp": 141.0,
+      "adp_ud": 141.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2717,6 +3317,32 @@
         {
           "date": "May 16",
           "adp": 140.0
+        },
+        {
+          "date": "May 17",
+          "adp": 141.0
+        }
+      ]
+    },
+    {
+      "name": "Isiah Pacheco DET ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 151.0,
+      "adp_ud": 151.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB47",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 151.0
+        },
+        {
+          "date": "May 17",
+          "adp": 151.0
         }
       ]
     },
@@ -2724,17 +3350,21 @@
       "name": "Jalen McMillan TB ()",
       "team": "",
       "pos": "WR",
-      "adp": 143.0,
-      "adp_ud": 143.0,
+      "adp": 144.0,
+      "adp_ud": 144.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR59",
+      "pos_rank_ud": "WR60",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 143.0
+        },
+        {
+          "date": "May 17",
+          "adp": 144.0
         }
       ]
     },
@@ -2742,8 +3372,8 @@
       "name": "Stefon Diggs",
       "team": "",
       "pos": "WR",
-      "adp": 141.0,
-      "adp_ud": 141.0,
+      "adp": 140.0,
+      "adp_ud": 140.0,
       "adp_sleeper": 125.9,
       "adp_espn": 300.0,
       "adp_yahoo": null,
@@ -2793,24 +3423,10 @@
         {
           "date": "May 16",
           "adp": 141.0
-        }
-      ]
-    },
-    {
-      "name": "Isiah Pacheco DET ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 151.0,
-      "adp_ud": 151.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB47",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 151.0
+          "date": "May 17",
+          "adp": 140.0
         }
       ]
     },
@@ -2828,6 +3444,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 153.0
+        },
+        {
+          "date": "May 17",
           "adp": 153.0
         }
       ]
@@ -2847,6 +3467,10 @@
         {
           "date": "May 16",
           "adp": 163.0
+        },
+        {
+          "date": "May 17",
+          "adp": 163.0
         }
       ]
     },
@@ -2864,6 +3488,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 162.0
+        },
+        {
+          "date": "May 17",
           "adp": 162.0
         }
       ]
@@ -2883,6 +3511,10 @@
         {
           "date": "May 16",
           "adp": 175.0
+        },
+        {
+          "date": "May 17",
+          "adp": 175.0
         }
       ]
     },
@@ -2890,8 +3522,8 @@
       "name": "Keaton Mitchell LAC ()",
       "team": "",
       "pos": "RB",
-      "adp": 144.0,
-      "adp_ud": 144.0,
+      "adp": 145.0,
+      "adp_ud": 145.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2901,6 +3533,10 @@
         {
           "date": "May 16",
           "adp": 144.0
+        },
+        {
+          "date": "May 17",
+          "adp": 145.0
         }
       ]
     },
@@ -2919,6 +3555,10 @@
         {
           "date": "May 16",
           "adp": 160.0
+        },
+        {
+          "date": "May 17",
+          "adp": 160.0
         }
       ]
     },
@@ -2926,35 +3566,21 @@
       "name": "Alvin Kamara NO ()",
       "team": "",
       "pos": "RB",
-      "adp": 181.0,
-      "adp_ud": 181.0,
+      "adp": 180.0,
+      "adp_ud": 180.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB57",
+      "pos_rank_ud": "RB55",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 181.0
-        }
-      ]
-    },
-    {
-      "name": "Fernando Mendoza LV ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 166.0,
-      "adp_ud": 166.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB27",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 166.0
+          "date": "May 17",
+          "adp": 180.0
         }
       ]
     },
@@ -2962,8 +3588,8 @@
       "name": "Jalen Nailor LV ()",
       "team": "",
       "pos": "WR",
-      "adp": 157.0,
-      "adp_ud": 157.0,
+      "adp": 156.0,
+      "adp_ud": 156.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2973,6 +3599,10 @@
         {
           "date": "May 16",
           "adp": 157.0
+        },
+        {
+          "date": "May 17",
+          "adp": 156.0
         }
       ]
     },
@@ -2991,6 +3621,54 @@
         {
           "date": "May 16",
           "adp": 167.0
+        },
+        {
+          "date": "May 17",
+          "adp": 167.0
+        }
+      ]
+    },
+    {
+      "name": "Fernando Mendoza LV ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 166.0,
+      "adp_ud": 166.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB27",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 166.0
+        },
+        {
+          "date": "May 17",
+          "adp": 166.0
+        }
+      ]
+    },
+    {
+      "name": "Travis Hunter JAC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 143.0,
+      "adp_ud": 143.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR59",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 145.0
+        },
+        {
+          "date": "May 17",
+          "adp": 143.0
         }
       ]
     },
@@ -2998,8 +3676,8 @@
       "name": "Brandon Aiyuk SF ()",
       "team": "",
       "pos": "WR",
-      "adp": 172.0,
-      "adp_ud": 172.0,
+      "adp": 173.0,
+      "adp_ud": 173.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3009,6 +3687,32 @@
         {
           "date": "May 16",
           "adp": 172.0
+        },
+        {
+          "date": "May 17",
+          "adp": 173.0
+        }
+      ]
+    },
+    {
+      "name": "Dalton Schultz HOU ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 171.0,
+      "adp_ud": 171.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE24",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 171.0
+        },
+        {
+          "date": "May 17",
+          "adp": 171.0
         }
       ]
     },
@@ -3067,6 +3771,32 @@
         {
           "date": "May 16",
           "adp": 170.0
+        },
+        {
+          "date": "May 17",
+          "adp": 170.0
+        }
+      ]
+    },
+    {
+      "name": "Emmett Johnson KC ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 181.0,
+      "adp_ud": 181.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB56",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 180.0
+        },
+        {
+          "date": "May 17",
+          "adp": 181.0
         }
       ]
     },
@@ -3074,8 +3804,8 @@
       "name": "Tyreek Hill",
       "team": "",
       "pos": "WR",
-      "adp": 191.0,
-      "adp_ud": 191.0,
+      "adp": 193.0,
+      "adp_ud": 193.0,
       "adp_sleeper": 161.9,
       "adp_espn": 294.0,
       "adp_yahoo": null,
@@ -3125,78 +3855,10 @@
         {
           "date": "May 16",
           "adp": 191.0
-        }
-      ]
-    },
-    {
-      "name": "Travis Hunter JAC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 145.0,
-      "adp_ud": 145.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR60",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 145.0
-        }
-      ]
-    },
-    {
-      "name": "Emmett Johnson KC ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 180.0,
-      "adp_ud": 180.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB56",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 180.0
-        }
-      ]
-    },
-    {
-      "name": "Dalton Schultz HOU ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 171.0,
-      "adp_ud": 171.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE24",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 171.0
-        }
-      ]
-    },
-    {
-      "name": "Mike Washington Jr. LV ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 179.0,
-      "adp_ud": 179.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB55",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 179.0
+          "date": "May 17",
+          "adp": 193.0
         }
       ]
     },
@@ -3204,8 +3866,8 @@
       "name": "Geno Smith NYJ ()",
       "team": "",
       "pos": "QB",
-      "adp": 177.0,
-      "adp_ud": 177.0,
+      "adp": 176.0,
+      "adp_ud": 176.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3215,6 +3877,32 @@
         {
           "date": "May 16",
           "adp": 177.0
+        },
+        {
+          "date": "May 17",
+          "adp": 176.0
+        }
+      ]
+    },
+    {
+      "name": "Mike Washington Jr. LV ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 182.0,
+      "adp_ud": 182.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB57",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 179.0
+        },
+        {
+          "date": "May 17",
+          "adp": 182.0
         }
       ]
     },
@@ -3233,24 +3921,10 @@
         {
           "date": "May 16",
           "adp": 169.0
-        }
-      ]
-    },
-    {
-      "name": "Emanuel Wilson SEA ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 193.0,
-      "adp_ud": 193.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB59",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 193.0
+          "date": "May 17",
+          "adp": 169.0
         }
       ]
     },
@@ -3269,6 +3943,32 @@
         {
           "date": "May 16",
           "adp": 158.0
+        },
+        {
+          "date": "May 17",
+          "adp": 158.0
+        }
+      ]
+    },
+    {
+      "name": "Emanuel Wilson SEA ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 191.0,
+      "adp_ud": 191.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB59",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 193.0
+        },
+        {
+          "date": "May 17",
+          "adp": 191.0
         }
       ]
     },
@@ -3287,6 +3987,10 @@
         {
           "date": "May 16",
           "adp": 165.0
+        },
+        {
+          "date": "May 17",
+          "adp": 165.0
         }
       ]
     },
@@ -3294,8 +3998,8 @@
       "name": "Jerry Jeudy CLE ()",
       "team": "",
       "pos": "WR",
-      "adp": 176.0,
-      "adp_ud": 176.0,
+      "adp": 178.0,
+      "adp_ud": 178.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3305,6 +4009,10 @@
         {
           "date": "May 16",
           "adp": 176.0
+        },
+        {
+          "date": "May 17",
+          "adp": 178.0
         }
       ]
     },
@@ -3312,8 +4020,8 @@
       "name": "Nick Singleton TEN ()",
       "team": "",
       "pos": "RB",
-      "adp": 173.0,
-      "adp_ud": 173.0,
+      "adp": 172.0,
+      "adp_ud": 172.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3323,6 +4031,10 @@
         {
           "date": "May 16",
           "adp": 173.0
+        },
+        {
+          "date": "May 17",
+          "adp": 172.0
         }
       ]
     },
@@ -3340,6 +4052,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 168.0
+        },
+        {
+          "date": "May 17",
           "adp": 168.0
         }
       ]
@@ -3359,63 +4075,27 @@
         {
           "date": "May 16",
           "adp": 161.0
+        },
+        {
+          "date": "May 17",
+          "adp": 161.0
         }
       ]
     },
     {
-      "name": "Aaron Rodgers",
+      "name": "Aaron Rodgers PIT ()",
       "team": "",
       "pos": "QB",
       "adp": 188.0,
       "adp_ud": 188.0,
       "adp_sleeper": null,
-      "adp_espn": 387.0,
+      "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB30",
       "pos_rank_sleeper": null,
       "history": [
         {
-          "date": "May 5",
-          "adp": 198.0
-        },
-        {
-          "date": "May 6",
-          "adp": 199.0
-        },
-        {
-          "date": "May 7",
-          "adp": 200.0
-        },
-        {
-          "date": "May 8",
-          "adp": 200.0
-        },
-        {
-          "date": "May 9",
-          "adp": 197.0
-        },
-        {
-          "date": "May 10",
-          "adp": 197.0
-        },
-        {
-          "date": "May 11",
-          "adp": 191.0
-        },
-        {
-          "date": "May 12",
-          "adp": 191.0
-        },
-        {
-          "date": "May 13",
-          "adp": 189.0
-        },
-        {
-          "date": "May 14",
-          "adp": 188.0
-        },
-        {
-          "date": "May 16",
+          "date": "May 17",
           "adp": 188.0
         }
       ]
@@ -3435,6 +4115,10 @@
         {
           "date": "May 16",
           "adp": 174.0
+        },
+        {
+          "date": "May 17",
+          "adp": 174.0
         }
       ]
     },
@@ -3442,8 +4126,8 @@
       "name": "Tank Bigsby PHI ()",
       "team": "",
       "pos": "RB",
-      "adp": 178.0,
-      "adp_ud": 178.0,
+      "adp": 177.0,
+      "adp_ud": 177.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3453,60 +4137,10 @@
         {
           "date": "May 16",
           "adp": 178.0
-        }
-      ]
-    },
-    {
-      "name": "James Conner ARI ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 223.0,
-      "adp_ud": 223.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB66",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 223.0
-        }
-      ]
-    },
-    {
-      "name": "Eli Stowers PHI ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 192.0,
-      "adp_ud": 192.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE28",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 192.0
-        }
-      ]
-    },
-    {
-      "name": "Gunnar Helm TEN ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 182.0,
-      "adp_ud": 182.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE25",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 182.0
+          "date": "May 17",
+          "adp": 177.0
         }
       ]
     },
@@ -3525,6 +4159,76 @@
         {
           "date": "May 16",
           "adp": 190.0
+        },
+        {
+          "date": "May 17",
+          "adp": 190.0
+        }
+      ]
+    },
+    {
+      "name": "James Conner ARI ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 225.0,
+      "adp_ud": 225.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB66",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 223.0
+        },
+        {
+          "date": "May 17",
+          "adp": 225.0
+        }
+      ]
+    },
+    {
+      "name": "Eli Stowers PHI ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 192.0,
+      "adp_ud": 192.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE28",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 192.0
+        },
+        {
+          "date": "May 17",
+          "adp": 192.0
+        }
+      ]
+    },
+    {
+      "name": "Gunnar Helm TEN ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 179.0,
+      "adp_ud": 179.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE25",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 182.0
+        },
+        {
+          "date": "May 17",
+          "adp": 179.0
         }
       ]
     },
@@ -3542,6 +4246,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 186.0
+        },
+        {
+          "date": "May 17",
           "adp": 186.0
         }
       ]
@@ -3561,6 +4269,10 @@
         {
           "date": "May 16",
           "adp": 189.0
+        },
+        {
+          "date": "May 17",
+          "adp": 189.0
         }
       ]
     },
@@ -3568,17 +4280,21 @@
       "name": "Tre' Harris LAC ()",
       "team": "",
       "pos": "WR",
-      "adp": 184.0,
-      "adp_ud": 184.0,
+      "adp": 185.0,
+      "adp_ud": 185.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR73",
+      "pos_rank_ud": "WR74",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 184.0
+        },
+        {
+          "date": "May 17",
+          "adp": 185.0
         }
       ]
     },
@@ -3586,17 +4302,21 @@
       "name": "Kayshon Boutte NE ()",
       "team": "",
       "pos": "WR",
-      "adp": 196.0,
-      "adp_ud": 196.0,
+      "adp": 198.0,
+      "adp_ud": 198.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR78",
+      "pos_rank_ud": "WR80",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 196.0
+        },
+        {
+          "date": "May 17",
+          "adp": 198.0
         }
       ]
     },
@@ -3614,6 +4334,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 216.0
+        },
+        {
+          "date": "May 17",
           "adp": 216.0
         }
       ]
@@ -3633,6 +4357,32 @@
         {
           "date": "May 16",
           "adp": 194.0
+        },
+        {
+          "date": "May 17",
+          "adp": 194.0
+        }
+      ]
+    },
+    {
+      "name": "Tua Tagovailoa ATL ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 208.0,
+      "adp_ud": 208.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB31",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 207.0
+        },
+        {
+          "date": "May 17",
+          "adp": 208.0
         }
       ]
     },
@@ -3651,24 +4401,10 @@
         {
           "date": "May 16",
           "adp": 202.0
-        }
-      ]
-    },
-    {
-      "name": "Tua Tagovailoa ATL ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 207.0,
-      "adp_ud": 207.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB31",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 207.0
+          "date": "May 17",
+          "adp": 202.0
         }
       ]
     },
@@ -3676,8 +4412,8 @@
       "name": "Troy Franklin DEN ()",
       "team": "",
       "pos": "WR",
-      "adp": 211.0,
-      "adp_ud": 211.0,
+      "adp": 212.0,
+      "adp_ud": 212.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3687,6 +4423,32 @@
         {
           "date": "May 16",
           "adp": 211.0
+        },
+        {
+          "date": "May 17",
+          "adp": 212.0
+        }
+      ]
+    },
+    {
+      "name": "Chris Bell MIA ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 187.0,
+      "adp_ud": 187.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR75",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 187.0
+        },
+        {
+          "date": "May 17",
+          "adp": 187.0
         }
       ]
     },
@@ -3694,17 +4456,21 @@
       "name": "Ryan Flournoy DAL ()",
       "team": "",
       "pos": "WR",
-      "adp": 185.0,
-      "adp_ud": 185.0,
+      "adp": 184.0,
+      "adp_ud": 184.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR74",
+      "pos_rank_ud": "WR73",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 185.0
+        },
+        {
+          "date": "May 17",
+          "adp": 184.0
         }
       ]
     },
@@ -3722,6 +4488,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 183.0
+        },
+        {
+          "date": "May 17",
           "adp": 183.0
         }
       ]
@@ -3741,6 +4511,10 @@
         {
           "date": "May 16",
           "adp": 226.0
+        },
+        {
+          "date": "May 17",
+          "adp": 226.0
         }
       ]
     },
@@ -3748,8 +4522,8 @@
       "name": "Braelon Allen NYJ ()",
       "team": "",
       "pos": "RB",
-      "adp": 198.0,
-      "adp_ud": 198.0,
+      "adp": 200.0,
+      "adp_ud": 200.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3759,24 +4533,10 @@
         {
           "date": "May 16",
           "adp": 198.0
-        }
-      ]
-    },
-    {
-      "name": "Chris Bell MIA ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 187.0,
-      "adp_ud": 187.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR75",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 187.0
+          "date": "May 17",
+          "adp": 200.0
         }
       ]
     },
@@ -3795,6 +4555,32 @@
         {
           "date": "May 16",
           "adp": 210.0
+        },
+        {
+          "date": "May 17",
+          "adp": 210.0
+        }
+      ]
+    },
+    {
+      "name": "Tank Dell HOU ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 196.0,
+      "adp_ud": 196.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR78",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 195.0
+        },
+        {
+          "date": "May 17",
+          "adp": 196.0
         }
       ]
     },
@@ -3813,42 +4599,10 @@
         {
           "date": "May 16",
           "adp": 201.0
-        }
-      ]
-    },
-    {
-      "name": "Tank Dell HOU ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 195.0,
-      "adp_ud": 195.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR77",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 195.0
-        }
-      ]
-    },
-    {
-      "name": "Zachariah Branch ATL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 197.0,
-      "adp_ud": 197.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR79",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 197.0
+          "date": "May 17",
+          "adp": 201.0
         }
       ]
     },
@@ -3866,6 +4620,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 164.0
+        },
+        {
+          "date": "May 17",
           "adp": 164.0
         }
       ]
@@ -3885,24 +4643,32 @@
         {
           "date": "May 16",
           "adp": 203.0
+        },
+        {
+          "date": "May 17",
+          "adp": 203.0
         }
       ]
     },
     {
-      "name": "Dontayvion Wicks PHI ()",
+      "name": "Zachariah Branch ATL ()",
       "team": "",
       "pos": "WR",
-      "adp": 206.0,
-      "adp_ud": 206.0,
+      "adp": 197.0,
+      "adp_ud": 197.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR83",
+      "pos_rank_ud": "WR79",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 206.0
+          "adp": 197.0
+        },
+        {
+          "date": "May 17",
+          "adp": 197.0
         }
       ]
     },
@@ -3910,8 +4676,8 @@
       "name": "Shedeur Sanders CLE ()",
       "team": "",
       "pos": "QB",
-      "adp": 228.0,
-      "adp_ud": 228.0,
+      "adp": 231.0,
+      "adp_ud": 231.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3921,24 +4687,10 @@
         {
           "date": "May 16",
           "adp": 228.0
-        }
-      ]
-    },
-    {
-      "name": "Darnell Mooney NYG ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 200.0,
-      "adp_ud": 200.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR81",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 200.0
+          "date": "May 17",
+          "adp": 231.0
         }
       ]
     },
@@ -3957,24 +4709,76 @@
         {
           "date": "May 16",
           "adp": 218.0
+        },
+        {
+          "date": "May 17",
+          "adp": 218.0
         }
       ]
     },
     {
-      "name": "Michael Penix Jr. ATL ()",
+      "name": "Dontayvion Wicks PHI ()",
       "team": "",
-      "pos": "QB",
-      "adp": 225.0,
-      "adp_ud": 225.0,
+      "pos": "WR",
+      "adp": 206.0,
+      "adp_ud": 206.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "QB33",
+      "pos_rank_ud": "WR83",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 225.0
+          "adp": 206.0
+        },
+        {
+          "date": "May 17",
+          "adp": 206.0
+        }
+      ]
+    },
+    {
+      "name": "Darnell Mooney NYG ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 199.0,
+      "adp_ud": 199.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR81",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 200.0
+        },
+        {
+          "date": "May 17",
+          "adp": 199.0
+        }
+      ]
+    },
+    {
+      "name": "Adonai Mitchell NYJ ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 215.0,
+      "adp_ud": 215.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR89",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 214.0
+        },
+        {
+          "date": "May 17",
+          "adp": 215.0
         }
       ]
     },
@@ -3993,6 +4797,32 @@
         {
           "date": "May 16",
           "adp": 222.0
+        },
+        {
+          "date": "May 17",
+          "adp": 222.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Penix Jr. ATL ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 223.0,
+      "adp_ud": 223.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB33",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 225.0
+        },
+        {
+          "date": "May 17",
+          "adp": 223.0
         }
       ]
     },
@@ -4010,6 +4840,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 217.0
+        },
+        {
+          "date": "May 17",
           "adp": 217.0
         }
       ]
@@ -4029,11 +4863,15 @@
         {
           "date": "May 16",
           "adp": 204.0
+        },
+        {
+          "date": "May 17",
+          "adp": 204.0
         }
       ]
     },
     {
-      "name": "Adonai Mitchell NYJ ()",
+      "name": "Malachi Fields NYG ()",
       "team": "",
       "pos": "WR",
       "adp": 214.0,
@@ -4046,6 +4884,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 215.0
+        },
+        {
+          "date": "May 17",
           "adp": 214.0
         }
       ]
@@ -4054,8 +4896,8 @@
       "name": "Kirk Cousins LV ()",
       "team": "",
       "pos": "QB",
-      "adp": 237.0,
-      "adp_ud": 237.0,
+      "adp": 238.0,
+      "adp_ud": 238.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4065,24 +4907,10 @@
         {
           "date": "May 16",
           "adp": 237.0
-        }
-      ]
-    },
-    {
-      "name": "Malachi Fields NYG ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 215.0,
-      "adp_ud": 215.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR89",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 215.0
+          "date": "May 17",
+          "adp": 238.0
         }
       ]
     },
@@ -4100,6 +4928,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 219.0
+        },
+        {
+          "date": "May 17",
           "adp": 219.0
         }
       ]
@@ -4119,6 +4951,10 @@
         {
           "date": "May 16",
           "adp": 205.0
+        },
+        {
+          "date": "May 17",
+          "adp": 205.0
         }
       ]
     },
@@ -4137,6 +4973,32 @@
         {
           "date": "May 16",
           "adp": 235.0
+        },
+        {
+          "date": "May 17",
+          "adp": 235.0
+        }
+      ]
+    },
+    {
+      "name": "Greg Dulcich MIA ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 211.0,
+      "adp_ud": 211.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE32",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 212.0
+        },
+        {
+          "date": "May 17",
+          "adp": 211.0
         }
       ]
     },
@@ -4155,24 +5017,10 @@
         {
           "date": "May 16",
           "adp": 234.0
-        }
-      ]
-    },
-    {
-      "name": "Greg Dulcich MIA ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 212.0,
-      "adp_ud": 212.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE32",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 212.0
+          "date": "May 17",
+          "adp": 234.0
         }
       ]
     },
@@ -4180,17 +5028,21 @@
       "name": "Jaydon Blue DAL ()",
       "team": "",
       "pos": "RB",
-      "adp": 227.0,
-      "adp_ud": 227.0,
+      "adp": 229.0,
+      "adp_ud": 229.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB67",
+      "pos_rank_ud": "RB68",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 227.0
+        },
+        {
+          "date": "May 17",
+          "adp": 229.0
         }
       ]
     },
@@ -4198,8 +5050,8 @@
       "name": "Mike Gesicki CIN ()",
       "team": "",
       "pos": "TE",
-      "adp": 209.0,
-      "adp_ud": 209.0,
+      "adp": 207.0,
+      "adp_ud": 207.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4209,6 +5061,10 @@
         {
           "date": "May 16",
           "adp": 209.0
+        },
+        {
+          "date": "May 17",
+          "adp": 207.0
         }
       ]
     },
@@ -4227,24 +5083,10 @@
         {
           "date": "May 16",
           "adp": 224.0
-        }
-      ]
-    },
-    {
-      "name": "Chimere Dike TEN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 241.0,
-      "adp_ud": 241.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR101",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 241.0
+          "date": "May 17",
+          "adp": 224.0
         }
       ]
     },
@@ -4252,17 +5094,21 @@
       "name": "Justice Hill BAL ()",
       "team": "",
       "pos": "RB",
-      "adp": 229.0,
-      "adp_ud": 229.0,
+      "adp": 228.0,
+      "adp_ud": 228.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB68",
+      "pos_rank_ud": "RB67",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 229.0
+        },
+        {
+          "date": "May 17",
+          "adp": 228.0
         }
       ]
     },
@@ -4281,6 +5127,54 @@
         {
           "date": "May 16",
           "adp": 220.0
+        },
+        {
+          "date": "May 17",
+          "adp": 220.0
+        }
+      ]
+    },
+    {
+      "name": "Theo Johnson NYG ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 243.0,
+      "adp_ud": 243.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE36",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 245.0
+        },
+        {
+          "date": "May 17",
+          "adp": 243.0
+        }
+      ]
+    },
+    {
+      "name": "Chimere Dike TEN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 246.0,
+      "adp_ud": 246.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR104",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 241.0
+        },
+        {
+          "date": "May 17",
+          "adp": 246.0
         }
       ]
     },
@@ -4299,24 +5193,10 @@
         {
           "date": "May 16",
           "adp": 232.0
-        }
-      ]
-    },
-    {
-      "name": "Theo Johnson NYG ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 245.0,
-      "adp_ud": 245.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE36",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 245.0
+          "date": "May 17",
+          "adp": 232.0
         }
       ]
     },
@@ -4324,35 +5204,21 @@
       "name": "Ted Hurst TB ()",
       "team": "",
       "pos": "WR",
-      "adp": 199.0,
-      "adp_ud": 199.0,
+      "adp": 195.0,
+      "adp_ud": 195.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR80",
+      "pos_rank_ud": "WR77",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 199.0
-        }
-      ]
-    },
-    {
-      "name": "Mason Taylor NYJ ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 269.0,
-      "adp_ud": 269.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE44",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 269.0
+          "date": "May 17",
+          "adp": 195.0
         }
       ]
     },
@@ -4371,6 +5237,32 @@
         {
           "date": "May 16",
           "adp": 251.0
+        },
+        {
+          "date": "May 17",
+          "adp": 251.0
+        }
+      ]
+    },
+    {
+      "name": "Mason Taylor NYJ ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 258.0,
+      "adp_ud": 258.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE41",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 269.0
+        },
+        {
+          "date": "May 17",
+          "adp": 258.0
         }
       ]
     },
@@ -4389,6 +5281,10 @@
         {
           "date": "May 16",
           "adp": 233.0
+        },
+        {
+          "date": "May 17",
+          "adp": 233.0
         }
       ]
     },
@@ -4396,8 +5292,8 @@
       "name": "Elijah Sarratt BAL ()",
       "team": "",
       "pos": "WR",
-      "adp": 208.0,
-      "adp_ud": 208.0,
+      "adp": 209.0,
+      "adp_ud": 209.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4407,6 +5303,10 @@
         {
           "date": "May 16",
           "adp": 208.0
+        },
+        {
+          "date": "May 17",
+          "adp": 209.0
         }
       ]
     },
@@ -4414,12 +5314,12 @@
       "name": "Joe Mixon",
       "team": "",
       "pos": "RB",
-      "adp": 276.0,
-      "adp_ud": 276.0,
+      "adp": 278.0,
+      "adp_ud": 278.0,
       "adp_sleeper": 204.6,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB82",
+      "pos_rank_ud": "RB83",
       "pos_rank_sleeper": "RB1",
       "history": [
         {
@@ -4465,60 +5365,10 @@
         {
           "date": "May 16",
           "adp": 276.0
-        }
-      ]
-    },
-    {
-      "name": "Najee Harris LAC ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 253.0,
-      "adp_ud": 253.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB74",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 253.0
-        }
-      ]
-    },
-    {
-      "name": "Devaughn Vele NO ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 250.0,
-      "adp_ud": 250.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR105",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 250.0
-        }
-      ]
-    },
-    {
-      "name": "Hollywood Brown PHI ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 284.0,
-      "adp_ud": 284.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR116",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 284.0
+          "date": "May 17",
+          "adp": 278.0
         }
       ]
     },
@@ -4537,6 +5387,98 @@
         {
           "date": "May 16",
           "adp": 213.0
+        },
+        {
+          "date": "May 17",
+          "adp": 213.0
+        }
+      ]
+    },
+    {
+      "name": "Najee Harris LAC ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 257.0,
+      "adp_ud": 257.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB75",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 253.0
+        },
+        {
+          "date": "May 17",
+          "adp": 257.0
+        }
+      ]
+    },
+    {
+      "name": "Ja'Kobi Lane BAL ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 230.0,
+      "adp_ud": 230.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR95",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 231.0
+        },
+        {
+          "date": "May 17",
+          "adp": 230.0
+        }
+      ]
+    },
+    {
+      "name": "Devaughn Vele NO ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 250.0,
+      "adp_ud": 250.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR105",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 250.0
+        },
+        {
+          "date": "May 17",
+          "adp": 250.0
+        }
+      ]
+    },
+    {
+      "name": "Hollywood Brown PHI ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 287.0,
+      "adp_ud": 287.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR118",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 284.0
+        },
+        {
+          "date": "May 17",
+          "adp": 287.0
         }
       ]
     },
@@ -4554,6 +5496,10 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 275.0
+        },
+        {
+          "date": "May 17",
           "adp": 275.0
         }
       ]
@@ -4573,6 +5519,10 @@
         {
           "date": "May 16",
           "adp": 221.0
+        },
+        {
+          "date": "May 17",
+          "adp": 221.0
         }
       ]
     },
@@ -4580,8 +5530,8 @@
       "name": "Rashod Bateman BAL ()",
       "team": "",
       "pos": "WR",
-      "adp": 230.0,
-      "adp_ud": 230.0,
+      "adp": 227.0,
+      "adp_ud": 227.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4591,6 +5541,10 @@
         {
           "date": "May 16",
           "adp": 230.0
+        },
+        {
+          "date": "May 17",
+          "adp": 227.0
         }
       ]
     },
@@ -4598,8 +5552,8 @@
       "name": "Trey Benson ARI ()",
       "team": "",
       "pos": "RB",
-      "adp": 330.0,
-      "adp_ud": 330.0,
+      "adp": 341.0,
+      "adp_ud": 341.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4609,6 +5563,10 @@
         {
           "date": "May 16",
           "adp": 330.0
+        },
+        {
+          "date": "May 17",
+          "adp": 341.0
         }
       ]
     },
@@ -4616,8 +5574,8 @@
       "name": "Justin Fields KC ()",
       "team": "",
       "pos": "QB",
-      "adp": 261.0,
-      "adp_ud": 261.0,
+      "adp": 265.0,
+      "adp_ud": 265.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4627,6 +5585,10 @@
         {
           "date": "May 16",
           "adp": 261.0
+        },
+        {
+          "date": "May 17",
+          "adp": 265.0
         }
       ]
     },
@@ -4634,17 +5596,65 @@
       "name": "Brenen Thompson LAC ()",
       "team": "",
       "pos": "WR",
-      "adp": 238.0,
-      "adp_ud": 238.0,
+      "adp": 240.0,
+      "adp_ud": 240.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR99",
+      "pos_rank_ud": "WR100",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 238.0
+        },
+        {
+          "date": "May 17",
+          "adp": 240.0
+        }
+      ]
+    },
+    {
+      "name": "Samaje Perine CIN ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 255.0,
+      "adp_ud": 255.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB74",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 254.0
+        },
+        {
+          "date": "May 17",
+          "adp": 255.0
+        }
+      ]
+    },
+    {
+      "name": "Adam Randall BAL ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 245.0,
+      "adp_ud": 245.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB70",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 246.0
+        },
+        {
+          "date": "May 17",
+          "adp": 245.0
         }
       ]
     },
@@ -4663,78 +5673,10 @@
         {
           "date": "May 16",
           "adp": 248.0
-        }
-      ]
-    },
-    {
-      "name": "Samaje Perine CIN ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 254.0,
-      "adp_ud": 254.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB75",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 254.0
-        }
-      ]
-    },
-    {
-      "name": "Eli Heidenreich PIT ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 259.0,
-      "adp_ud": 259.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB77",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 259.0
-        }
-      ]
-    },
-    {
-      "name": "Adam Randall BAL ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 246.0,
-      "adp_ud": 246.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB71",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 246.0
-        }
-      ]
-    },
-    {
-      "name": "Ja'Kobi Lane BAL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 231.0,
-      "adp_ud": 231.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR95",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 231.0
+          "date": "May 17",
+          "adp": 248.0
         }
       ]
     },
@@ -4753,24 +5695,32 @@
         {
           "date": "May 16",
           "adp": 273.0
+        },
+        {
+          "date": "May 17",
+          "adp": 273.0
         }
       ]
     },
     {
-      "name": "MarShawn Lloyd GB ()",
+      "name": "Eli Heidenreich PIT ()",
       "team": "",
       "pos": "RB",
-      "adp": 244.0,
-      "adp_ud": 244.0,
+      "adp": 266.0,
+      "adp_ud": 266.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB70",
+      "pos_rank_ud": "RB78",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 244.0
+          "adp": 259.0
+        },
+        {
+          "date": "May 17",
+          "adp": 266.0
         }
       ]
     },
@@ -4778,17 +5728,21 @@
       "name": "Jalen Tolbert MIA ()",
       "team": "",
       "pos": "WR",
-      "adp": 268.0,
-      "adp_ud": 268.0,
+      "adp": 264.0,
+      "adp_ud": 264.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR109",
+      "pos_rank_ud": "WR107",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 268.0
+        },
+        {
+          "date": "May 17",
+          "adp": 264.0
         }
       ]
     },
@@ -4796,17 +5750,21 @@
       "name": "Keenan Allen LAC ()",
       "team": "",
       "pos": "WR",
-      "adp": 271.0,
-      "adp_ud": 271.0,
+      "adp": 268.0,
+      "adp_ud": 268.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR110",
+      "pos_rank_ud": "WR108",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 271.0
+        },
+        {
+          "date": "May 17",
+          "adp": 268.0
         }
       ]
     },
@@ -4825,6 +5783,10 @@
         {
           "date": "May 16",
           "adp": 270.0
+        },
+        {
+          "date": "May 17",
+          "adp": 270.0
         }
       ]
     },
@@ -4832,17 +5794,21 @@
       "name": "Bryce Lance NO ()",
       "team": "",
       "pos": "WR",
-      "adp": 266.0,
-      "adp_ud": 266.0,
+      "adp": 269.0,
+      "adp_ud": 269.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR108",
+      "pos_rank_ud": "WR109",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 266.0
+        },
+        {
+          "date": "May 17",
+          "adp": 269.0
         }
       ]
     },
@@ -4850,35 +5816,43 @@
       "name": "Dawson Knox BUF ()",
       "team": "",
       "pos": "TE",
-      "adp": 265.0,
-      "adp_ud": 265.0,
+      "adp": 262.0,
+      "adp_ud": 262.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE43",
+      "pos_rank_ud": "TE44",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 265.0
+        },
+        {
+          "date": "May 17",
+          "adp": 262.0
         }
       ]
     },
     {
-      "name": "Zavion Thomas CHI ()",
+      "name": "Mack Hollins NE ()",
       "team": "",
       "pos": "WR",
-      "adp": 247.0,
-      "adp_ud": 247.0,
+      "adp": 299.0,
+      "adp_ud": 299.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR104",
+      "pos_rank_ud": "WR122",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 247.0
+          "adp": 322.0
+        },
+        {
+          "date": "May 17",
+          "adp": 299.0
         }
       ]
     },
@@ -4897,42 +5871,32 @@
         {
           "date": "May 16",
           "adp": 267.0
+        },
+        {
+          "date": "May 17",
+          "adp": 267.0
         }
       ]
     },
     {
-      "name": "Mack Hollins NE ()",
+      "name": "Zavion Thomas CHI ()",
       "team": "",
       "pos": "WR",
-      "adp": 322.0,
-      "adp_ud": 322.0,
+      "adp": 244.0,
+      "adp_ud": 244.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR134",
+      "pos_rank_ud": "WR103",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 322.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylin Noel HOU ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 239.0,
-      "adp_ud": 239.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR100",
-      "pos_rank_sleeper": null,
-      "history": [
+          "adp": 247.0
+        },
         {
-          "date": "May 16",
-          "adp": 239.0
+          "date": "May 17",
+          "adp": 244.0
         }
       ]
     },
@@ -4940,8 +5904,8 @@
       "name": "Michael Mayer LV ()",
       "team": "",
       "pos": "TE",
-      "adp": 255.0,
-      "adp_ud": 255.0,
+      "adp": 254.0,
+      "adp_ud": 254.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4951,60 +5915,32 @@
         {
           "date": "May 16",
           "adp": 255.0
-        }
-      ]
-    },
-    {
-      "name": "Eli Raridon NE ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 263.0,
-      "adp_ud": 263.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE41",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 263.0
+          "date": "May 17",
+          "adp": 254.0
         }
       ]
     },
     {
-      "name": "DJ Giddens IND ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 249.0,
-      "adp_ud": 249.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB72",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 249.0
-        }
-      ]
-    },
-    {
-      "name": "DeMario Douglas NE ()",
+      "name": "Jaylin Noel HOU ()",
       "team": "",
       "pos": "WR",
-      "adp": 297.0,
-      "adp_ud": 297.0,
+      "adp": 237.0,
+      "adp_ud": 237.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR122",
+      "pos_rank_ud": "WR99",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 297.0
+          "adp": 239.0
+        },
+        {
+          "date": "May 17",
+          "adp": 237.0
         }
       ]
     },
@@ -5012,8 +5948,8 @@
       "name": "Carson Beck ARI ()",
       "team": "",
       "pos": "QB",
-      "adp": 240.0,
-      "adp_ud": 240.0,
+      "adp": 239.0,
+      "adp_ud": 239.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5023,6 +5959,54 @@
         {
           "date": "May 16",
           "adp": 240.0
+        },
+        {
+          "date": "May 17",
+          "adp": 239.0
+        }
+      ]
+    },
+    {
+      "name": "Eli Raridon NE ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 259.0,
+      "adp_ud": 259.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE42",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 263.0
+        },
+        {
+          "date": "May 17",
+          "adp": 259.0
+        }
+      ]
+    },
+    {
+      "name": "DJ Giddens IND ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 247.0,
+      "adp_ud": 247.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB71",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 249.0
+        },
+        {
+          "date": "May 17",
+          "adp": 247.0
         }
       ]
     },
@@ -5041,24 +6025,10 @@
         {
           "date": "May 16",
           "adp": 256.0
-        }
-      ]
-    },
-    {
-      "name": "Malik Davis DAL ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 258.0,
-      "adp_ud": 258.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB76",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 258.0
+          "date": "May 17",
+          "adp": 256.0
         }
       ]
     },
@@ -5066,17 +6036,21 @@
       "name": "Kaleb Johnson PIT ()",
       "team": "",
       "pos": "RB",
-      "adp": 327.0,
-      "adp_ud": 327.0,
+      "adp": 324.0,
+      "adp_ud": 324.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB96",
+      "pos_rank_ud": "RB93",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 327.0
+        },
+        {
+          "date": "May 17",
+          "adp": 324.0
         }
       ]
     },
@@ -5084,17 +6058,43 @@
       "name": "Elic Ayomanor TEN ()",
       "team": "",
       "pos": "WR",
-      "adp": 304.0,
-      "adp_ud": 304.0,
+      "adp": 288.0,
+      "adp_ud": 288.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR125",
+      "pos_rank_ud": "WR119",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 304.0
+        },
+        {
+          "date": "May 17",
+          "adp": 288.0
+        }
+      ]
+    },
+    {
+      "name": "DeMario Douglas NE ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 318.0,
+      "adp_ud": 318.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR130",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 297.0
+        },
+        {
+          "date": "May 17",
+          "adp": 318.0
         }
       ]
     },
@@ -5113,24 +6113,32 @@
         {
           "date": "May 16",
           "adp": 236.0
+        },
+        {
+          "date": "May 17",
+          "adp": 236.0
         }
       ]
     },
     {
-      "name": "Marvin Mims Jr. DEN ()",
+      "name": "Malik Davis DAL ()",
       "team": "",
-      "pos": "WR",
-      "adp": 302.0,
-      "adp_ud": 302.0,
+      "pos": "RB",
+      "adp": 263.0,
+      "adp_ud": 263.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR123",
+      "pos_rank_ud": "RB77",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 302.0
+          "adp": 258.0
+        },
+        {
+          "date": "May 17",
+          "adp": 263.0
         }
       ]
     },
@@ -5138,17 +6146,43 @@
       "name": "Tyquan Thornton KC ()",
       "team": "",
       "pos": "WR",
-      "adp": 243.0,
-      "adp_ud": 243.0,
+      "adp": 241.0,
+      "adp_ud": 241.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR103",
+      "pos_rank_ud": "WR101",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 243.0
+        },
+        {
+          "date": "May 17",
+          "adp": 241.0
+        }
+      ]
+    },
+    {
+      "name": "Seth McGowan IND ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 303.0,
+      "adp_ud": 303.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB86",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 328.0
+        },
+        {
+          "date": "May 17",
+          "adp": 303.0
         }
       ]
     },
@@ -5156,8 +6190,8 @@
       "name": "Max Klare LAR ()",
       "team": "",
       "pos": "TE",
-      "adp": 278.0,
-      "adp_ud": 278.0,
+      "adp": 279.0,
+      "adp_ud": 279.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5167,6 +6201,32 @@
         {
           "date": "May 16",
           "adp": 278.0
+        },
+        {
+          "date": "May 17",
+          "adp": 279.0
+        }
+      ]
+    },
+    {
+      "name": "George Holani SEA ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 277.0,
+      "adp_ud": 277.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB82",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 281.0
+        },
+        {
+          "date": "May 17",
+          "adp": 277.0
         }
       ]
     },
@@ -5174,8 +6234,8 @@
       "name": "Darnell Washington PIT ()",
       "team": "",
       "pos": "TE",
-      "adp": 252.0,
-      "adp_ud": 252.0,
+      "adp": 253.0,
+      "adp_ud": 253.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5185,24 +6245,10 @@
         {
           "date": "May 16",
           "adp": 252.0
-        }
-      ]
-    },
-    {
-      "name": "George Holani SEA ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 281.0,
-      "adp_ud": 281.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB83",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 281.0
+          "date": "May 17",
+          "adp": 253.0
         }
       ]
     },
@@ -5210,8 +6256,8 @@
       "name": "Darius Slayton NYG ()",
       "team": "",
       "pos": "WR",
-      "adp": 257.0,
-      "adp_ud": 257.0,
+      "adp": 252.0,
+      "adp_ud": 252.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5221,6 +6267,10 @@
         {
           "date": "May 16",
           "adp": 257.0
+        },
+        {
+          "date": "May 17",
+          "adp": 252.0
         }
       ]
     },
@@ -5228,43 +6278,21 @@
       "name": "Devin Singletary NYG ()",
       "team": "",
       "pos": "RB",
-      "adp": 363.0,
-      "adp_ud": 363.0,
+      "adp": 366.0,
+      "adp_ud": 366.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB103",
+      "pos_rank_ud": "RB102",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 363.0
-        }
-      ]
-    },
-    {
-      "name": "Kareem Hunt",
-      "team": "",
-      "pos": "RB",
-      "adp": 365.0,
-      "adp_ud": 365.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB105",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 13",
-          "adp": 387.0
         },
         {
-          "date": "May 14",
-          "adp": 401.0
-        },
-        {
-          "date": "May 16",
-          "adp": 365.0
+          "date": "May 17",
+          "adp": 366.0
         }
       ]
     },
@@ -5272,53 +6300,43 @@
       "name": "Kyle Williams NE ()",
       "team": "",
       "pos": "WR",
-      "adp": 260.0,
-      "adp_ud": 260.0,
+      "adp": 272.0,
+      "adp_ud": 272.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR107",
+      "pos_rank_ud": "WR111",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 260.0
+        },
+        {
+          "date": "May 17",
+          "adp": 272.0
         }
       ]
     },
     {
-      "name": "Seth McGowan IND ()",
+      "name": "MarShawn Lloyd GB ()",
       "team": "",
       "pos": "RB",
-      "adp": 328.0,
-      "adp_ud": 328.0,
+      "adp": 249.0,
+      "adp_ud": 249.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB97",
+      "pos_rank_ud": "RB72",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 328.0
-        }
-      ]
-    },
-    {
-      "name": "Zach Ertz",
-      "team": "",
-      "pos": "TE",
-      "adp": 367.0,
-      "adp_ud": 367.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE61",
-      "pos_rank_sleeper": null,
-      "history": [
+          "adp": 244.0
+        },
         {
-          "date": "May 16",
-          "adp": 367.0
+          "date": "May 17",
+          "adp": 249.0
         }
       ]
     },
@@ -5326,35 +6344,21 @@
       "name": "Chris Brooks GB ()",
       "team": "",
       "pos": "RB",
-      "adp": 262.0,
-      "adp_ud": 262.0,
+      "adp": 261.0,
+      "adp_ud": 261.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB78",
+      "pos_rank_ud": "RB76",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 262.0
-        }
-      ]
-    },
-    {
-      "name": "Austin Ekeler",
-      "team": "",
-      "pos": "RB",
-      "adp": 393.0,
-      "adp_ud": 393.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB109",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 393.0
+          "date": "May 17",
+          "adp": 261.0
         }
       ]
     },
@@ -5373,24 +6377,84 @@
         {
           "date": "May 16",
           "adp": 242.0
+        },
+        {
+          "date": "May 17",
+          "adp": 242.0
         }
       ]
     },
     {
-      "name": "Devin Neal NO ()",
+      "name": "Kendrick Bourne ARI ()",
       "team": "",
-      "pos": "RB",
-      "adp": 315.0,
-      "adp_ud": 315.0,
+      "pos": "WR",
+      "adp": 281.0,
+      "adp_ud": 281.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB93",
+      "pos_rank_ud": "WR113",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 315.0
+          "adp": 280.0
+        },
+        {
+          "date": "May 17",
+          "adp": 281.0
+        }
+      ]
+    },
+    {
+      "name": "Kareem Hunt",
+      "team": "",
+      "pos": "RB",
+      "adp": 395.0,
+      "adp_ud": 395.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB109",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 13",
+          "adp": 387.0
+        },
+        {
+          "date": "May 14",
+          "adp": 401.0
+        },
+        {
+          "date": "May 16",
+          "adp": 365.0
+        },
+        {
+          "date": "May 17",
+          "adp": 395.0
+        }
+      ]
+    },
+    {
+      "name": "Zach Ertz",
+      "team": "",
+      "pos": "TE",
+      "adp": 402.0,
+      "adp_ud": 402.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE71",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 367.0
+        },
+        {
+          "date": "May 17",
+          "adp": 402.0
         }
       ]
     },
@@ -5398,17 +6462,43 @@
       "name": "Elijah Arroyo SEA ()",
       "team": "",
       "pos": "TE",
-      "adp": 274.0,
-      "adp_ud": 274.0,
+      "adp": 280.0,
+      "adp_ud": 280.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE45",
+      "pos_rank_ud": "TE47",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 274.0
+        },
+        {
+          "date": "May 17",
+          "adp": 280.0
+        }
+      ]
+    },
+    {
+      "name": "Devin Neal NO ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 322.0,
+      "adp_ud": 322.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB92",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 315.0
+        },
+        {
+          "date": "May 17",
+          "adp": 322.0
         }
       ]
     },
@@ -5416,17 +6506,21 @@
       "name": "Brashard Smith KC ()",
       "team": "",
       "pos": "RB",
-      "adp": 309.0,
-      "adp_ud": 309.0,
+      "adp": 305.0,
+      "adp_ud": 305.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB91",
+      "pos_rank_ud": "RB87",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 309.0
+        },
+        {
+          "date": "May 17",
+          "adp": 305.0
         }
       ]
     },
@@ -5445,627 +6539,15 @@
         {
           "date": "May 16",
           "adp": 283.0
+        },
+        {
+          "date": "May 17",
+          "adp": 283.0
         }
       ]
     },
     {
       "name": "Jahan Dotson ATL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 285.0,
-      "adp_ud": 285.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR117",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 285.0
-        }
-      ]
-    },
-    {
-      "name": "Kendrick Bourne ARI ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 280.0,
-      "adp_ud": 280.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR113",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 280.0
-        }
-      ]
-    },
-    {
-      "name": "Tyler Higbee LAR ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 348.0,
-      "adp_ud": 348.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE56",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 348.0
-        }
-      ]
-    },
-    {
-      "name": "Nick Westbrook-Ikhine IND ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 335.0,
-      "adp_ud": 335.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR139",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 335.0
-        }
-      ]
-    },
-    {
-      "name": "Justin Joly DEN ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 264.0,
-      "adp_ud": 264.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE42",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 264.0
-        }
-      ]
-    },
-    {
-      "name": "Deion Burks IND ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 308.0,
-      "adp_ud": 308.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR126",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 308.0
-        }
-      ]
-    },
-    {
-      "name": "Kevin Coleman Jr. MIA ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 287.0,
-      "adp_ud": 287.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR119",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 287.0
-        }
-      ]
-    },
-    {
-      "name": "Luke McCaffrey WAS ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 295.0,
-      "adp_ud": 295.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR121",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 295.0
-        }
-      ]
-    },
-    {
-      "name": "Malik Benson LV ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 339.0,
-      "adp_ud": 339.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR141",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 339.0
-        }
-      ]
-    },
-    {
-      "name": "Michael Trigg DAL ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 331.0,
-      "adp_ud": 331.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE51",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 331.0
-        }
-      ]
-    },
-    {
-      "name": "Devontez Walker BAL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 288.0,
-      "adp_ud": 288.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR120",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 288.0
-        }
-      ]
-    },
-    {
-      "name": "Kalif Raymond CHI ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 333.0,
-      "adp_ud": 333.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR137",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 333.0
-        }
-      ]
-    },
-    {
-      "name": "CJ Daniels LAR ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 325.0,
-      "adp_ud": 325.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR136",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 325.0
-        }
-      ]
-    },
-    {
-      "name": "Tahj Brooks CIN ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 290.0,
-      "adp_ud": 290.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB85",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 290.0
-        }
-      ]
-    },
-    {
-      "name": "Anthony Richardson Sr. IND ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 305.0,
-      "adp_ud": 305.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB43",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 305.0
-        }
-      ]
-    },
-    {
-      "name": "Jahdae Walker CHI ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 336.0,
-      "adp_ud": 336.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR140",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 336.0
-        }
-      ]
-    },
-    {
-      "name": "Dont'e Thornton Jr. LV ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 353.0,
-      "adp_ud": 353.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR146",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 353.0
-        }
-      ]
-    },
-    {
-      "name": "Emari Demercado KC ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 292.0,
-      "adp_ud": 292.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB86",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 292.0
-        }
-      ]
-    },
-    {
-      "name": "Darren Waller",
-      "team": "",
-      "pos": "TE",
-      "adp": 366.0,
-      "adp_ud": 366.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE60",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 14",
-          "adp": 399.0
-        },
-        {
-          "date": "May 16",
-          "adp": 366.0
-        }
-      ]
-    },
-    {
-      "name": "Jerome Ford WAS ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 289.0,
-      "adp_ud": 289.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB84",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 289.0
-        }
-      ]
-    },
-    {
-      "name": "Greg Dortch DET ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 334.0,
-      "adp_ud": 334.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR138",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 334.0
-        }
-      ]
-    },
-    {
-      "name": "Calvin Austin III NYG ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 314.0,
-      "adp_ud": 314.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR130",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 314.0
-        }
-      ]
-    },
-    {
-      "name": "Trevor Etienne CAR ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 299.0,
-      "adp_ud": 299.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB89",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 299.0
-        }
-      ]
-    },
-    {
-      "name": "Mac Jones SF ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 318.0,
-      "adp_ud": 318.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB45",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 318.0
-        }
-      ]
-    },
-    {
-      "name": "Davis Mills HOU ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 385.0,
-      "adp_ud": 385.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB57",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 385.0
-        }
-      ]
-    },
-    {
-      "name": "Joshua Palmer BUF ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 379.0,
-      "adp_ud": 379.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR156",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 379.0
-        }
-      ]
-    },
-    {
-      "name": "Cole Kmet CHI ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 279.0,
-      "adp_ud": 279.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE47",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 279.0
-        }
-      ]
-    },
-    {
-      "name": "Isaiah Bond CLE ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 317.0,
-      "adp_ud": 317.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR132",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 317.0
-        }
-      ]
-    },
-    {
-      "name": "Treylon Burks WAS ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 272.0,
-      "adp_ud": 272.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR111",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 272.0
-        }
-      ]
-    },
-    {
-      "name": "Tommy Tremble CAR ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 351.0,
-      "adp_ud": 351.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE58",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 351.0
-        }
-      ]
-    },
-    {
-      "name": "Tez Johnson TB ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 277.0,
-      "adp_ud": 277.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR112",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 277.0
-        }
-      ]
-    },
-    {
-      "name": "Will Howard PIT ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 352.0,
-      "adp_ud": 352.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB48",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 352.0
-        }
-      ]
-    },
-    {
-      "name": "Tutu Atwell MIA ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 345.0,
-      "adp_ud": 345.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR143",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 345.0
-        }
-      ]
-    },
-    {
-      "name": "Isaac Guerendo SF ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 337.0,
-      "adp_ud": 337.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB99",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 337.0
-        }
-      ]
-    },
-    {
-      "name": "KaVontae Turpin DAL ()",
       "team": "",
       "pos": "WR",
       "adp": 282.0,
@@ -6078,30 +6560,214 @@
       "history": [
         {
           "date": "May 16",
+          "adp": 285.0
+        },
+        {
+          "date": "May 17",
           "adp": 282.0
         }
       ]
     },
     {
-      "name": "Olamide Zaccheaus ATL ()",
+      "name": "Tyler Higbee LAR ()",
       "team": "",
-      "pos": "WR",
-      "adp": 312.0,
-      "adp_ud": 312.0,
+      "pos": "TE",
+      "adp": 357.0,
+      "adp_ud": 357.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR128",
+      "pos_rank_ud": "TE61",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 312.0
+          "adp": 348.0
+        },
+        {
+          "date": "May 17",
+          "adp": 357.0
         }
       ]
     },
     {
-      "name": "Jimmy Horn Jr. CAR ()",
+      "name": "Justin Joly DEN ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 260.0,
+      "adp_ud": 260.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE43",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 264.0
+        },
+        {
+          "date": "May 17",
+          "adp": 260.0
+        }
+      ]
+    },
+    {
+      "name": "Nick Westbrook-Ikhine IND ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 330.0,
+      "adp_ud": 330.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR137",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 335.0
+        },
+        {
+          "date": "May 17",
+          "adp": 330.0
+        }
+      ]
+    },
+    {
+      "name": "Marvin Mims Jr. DEN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 300.0,
+      "adp_ud": 300.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR123",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 302.0
+        },
+        {
+          "date": "May 17",
+          "adp": 300.0
+        }
+      ]
+    },
+    {
+      "name": "Dont'e Thornton Jr. LV ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 328.0,
+      "adp_ud": 328.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR135",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 353.0
+        },
+        {
+          "date": "May 17",
+          "adp": 328.0
+        }
+      ]
+    },
+    {
+      "name": "Jahdae Walker CHI ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 314.0,
+      "adp_ud": 314.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR127",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 336.0
+        },
+        {
+          "date": "May 17",
+          "adp": 314.0
+        }
+      ]
+    },
+    {
+      "name": "Luke McCaffrey WAS ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 292.0,
+      "adp_ud": 292.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR120",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 295.0
+        },
+        {
+          "date": "May 17",
+          "adp": 292.0
+        }
+      ]
+    },
+    {
+      "name": "Deion Burks IND ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 313.0,
+      "adp_ud": 313.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR126",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 308.0
+        },
+        {
+          "date": "May 17",
+          "adp": 313.0
+        }
+      ]
+    },
+    {
+      "name": "Kevin Coleman Jr. MIA ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 293.0,
+      "adp_ud": 293.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR121",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 287.0
+        },
+        {
+          "date": "May 17",
+          "adp": 293.0
+        }
+      ]
+    },
+    {
+      "name": "Devontez Walker BAL ()",
       "team": "",
       "pos": "WR",
       "adp": 286.0,
@@ -6109,47 +6775,583 @@
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR118",
+      "pos_rank_ud": "WR117",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
+          "adp": 288.0
+        },
+        {
+          "date": "May 17",
           "adp": 286.0
         }
       ]
     },
     {
-      "name": "Damien Martinez GB ()",
+      "name": "Tahj Brooks CIN ()",
       "team": "",
       "pos": "RB",
-      "adp": 390.0,
-      "adp_ud": 390.0,
+      "adp": 289.0,
+      "adp_ud": 289.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB108",
+      "pos_rank_ud": "RB84",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 390.0
+          "adp": 290.0
+        },
+        {
+          "date": "May 17",
+          "adp": 289.0
         }
       ]
     },
     {
-      "name": "Will Levis TEN ()",
+      "name": "Mason Rudolph PIT ()",
       "team": "",
       "pos": "QB",
+      "adp": 347.0,
+      "adp_ud": 347.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB50",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 347.0
+        }
+      ]
+    },
+    {
+      "name": "Malik Benson LV ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 349.0,
+      "adp_ud": 349.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR142",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 339.0
+        },
+        {
+          "date": "May 17",
+          "adp": 349.0
+        }
+      ]
+    },
+    {
+      "name": "Jerome Ford WAS ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 290.0,
+      "adp_ud": 290.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB85",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 289.0
+        },
+        {
+          "date": "May 17",
+          "adp": 290.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Trigg DAL ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 354.0,
+      "adp_ud": 354.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE59",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 331.0
+        },
+        {
+          "date": "May 17",
+          "adp": 354.0
+        }
+      ]
+    },
+    {
+      "name": "Greg Dortch DET ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 329.0,
+      "adp_ud": 329.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR136",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 334.0
+        },
+        {
+          "date": "May 17",
+          "adp": 329.0
+        }
+      ]
+    },
+    {
+      "name": "Kalif Raymond CHI ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 360.0,
+      "adp_ud": 360.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR146",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 333.0
+        },
+        {
+          "date": "May 17",
+          "adp": 360.0
+        }
+      ]
+    },
+    {
+      "name": "CJ Daniels LAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 353.0,
+      "adp_ud": 353.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR144",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 325.0
+        },
+        {
+          "date": "May 17",
+          "adp": 353.0
+        }
+      ]
+    },
+    {
+      "name": "Calvin Austin III NYG ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 321.0,
+      "adp_ud": 321.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR132",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 314.0
+        },
+        {
+          "date": "May 17",
+          "adp": 321.0
+        }
+      ]
+    },
+    {
+      "name": "Darren Waller",
+      "team": "",
+      "pos": "TE",
+      "adp": 393.0,
+      "adp_ud": 393.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE70",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 14",
+          "adp": 399.0
+        },
+        {
+          "date": "May 16",
+          "adp": 366.0
+        },
+        {
+          "date": "May 17",
+          "adp": 393.0
+        }
+      ]
+    },
+    {
+      "name": "Davis Mills HOU ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 383.0,
+      "adp_ud": 383.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB58",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 385.0
+        },
+        {
+          "date": "May 17",
+          "adp": 383.0
+        }
+      ]
+    },
+    {
+      "name": "Joshua Palmer BUF ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 374.0,
+      "adp_ud": 374.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR151",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 379.0
+        },
+        {
+          "date": "May 17",
+          "adp": 374.0
+        }
+      ]
+    },
+    {
+      "name": "Cole Kmet CHI ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 274.0,
+      "adp_ud": 274.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE45",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 279.0
+        },
+        {
+          "date": "May 17",
+          "adp": 274.0
+        }
+      ]
+    },
+    {
+      "name": "Mac Jones SF ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 326.0,
+      "adp_ud": 326.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB45",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 318.0
+        },
+        {
+          "date": "May 17",
+          "adp": 326.0
+        }
+      ]
+    },
+    {
+      "name": "Anthony Richardson Sr. IND ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 350.0,
+      "adp_ud": 350.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB51",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 305.0
+        },
+        {
+          "date": "May 17",
+          "adp": 350.0
+        }
+      ]
+    },
+    {
+      "name": "Will Howard PIT ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 344.0,
+      "adp_ud": 344.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB47",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 352.0
+        },
+        {
+          "date": "May 17",
+          "adp": 344.0
+        }
+      ]
+    },
+    {
+      "name": "Treylon Burks WAS ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 271.0,
+      "adp_ud": 271.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR110",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 272.0
+        },
+        {
+          "date": "May 17",
+          "adp": 271.0
+        }
+      ]
+    },
+    {
+      "name": "Tez Johnson TB ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 276.0,
+      "adp_ud": 276.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR112",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 277.0
+        },
+        {
+          "date": "May 17",
+          "adp": 276.0
+        }
+      ]
+    },
+    {
+      "name": "Tutu Atwell MIA ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 340.0,
+      "adp_ud": 340.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR140",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 345.0
+        },
+        {
+          "date": "May 17",
+          "adp": 340.0
+        }
+      ]
+    },
+    {
+      "name": "Emari Demercado KC ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 337.0,
+      "adp_ud": 337.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB95",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 292.0
+        },
+        {
+          "date": "May 17",
+          "adp": 337.0
+        }
+      ]
+    },
+    {
+      "name": "Isaiah Bond CLE ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 325.0,
+      "adp_ud": 325.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR134",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 317.0
+        },
+        {
+          "date": "May 17",
+          "adp": 325.0
+        }
+      ]
+    },
+    {
+      "name": "Tommy Tremble CAR ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 359.0,
+      "adp_ud": 359.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE63",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 351.0
+        },
+        {
+          "date": "May 17",
+          "adp": 359.0
+        }
+      ]
+    },
+    {
+      "name": "Erick All Jr. CIN ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 284.0,
+      "adp_ud": 284.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE48",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 340.0
+        },
+        {
+          "date": "May 17",
+          "adp": 284.0
+        }
+      ]
+    },
+    {
+      "name": "KaVontae Turpin DAL ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 285.0,
+      "adp_ud": 285.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR116",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 282.0
+        },
+        {
+          "date": "May 17",
+          "adp": 285.0
+        }
+      ]
+    },
+    {
+      "name": "Trevor Etienne CAR ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 338.0,
+      "adp_ud": 338.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB96",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 299.0
+        },
+        {
+          "date": "May 17",
+          "adp": 338.0
+        }
+      ]
+    },
+    {
+      "name": "Connor Heyward LV ()",
+      "team": "",
+      "pos": "TE",
       "adp": 291.0,
       "adp_ud": 291.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "QB39",
+      "pos_rank_ud": "TE49",
       "pos_rank_sleeper": null,
       "history": [
         {
-          "date": "May 16",
+          "date": "May 17",
           "adp": 291.0
         }
       ]
@@ -6158,8 +7360,8 @@
       "name": "Quinn Ewers MIA ()",
       "team": "",
       "pos": "QB",
-      "adp": 362.0,
-      "adp_ud": 362.0,
+      "adp": 365.0,
+      "adp_ud": 365.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6169,60 +7371,10 @@
         {
           "date": "May 16",
           "adp": 362.0
-        }
-      ]
-    },
-    {
-      "name": "Marcus Mariota WAS ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 359.0,
-      "adp_ud": 359.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB50",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 359.0
-        }
-      ]
-    },
-    {
-      "name": "Kyle Juszczyk SF ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 293.0,
-      "adp_ud": 293.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB87",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 293.0
-        }
-      ]
-    },
-    {
-      "name": "Carson Wentz MIN ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 294.0,
-      "adp_ud": 294.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB40",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 294.0
+          "date": "May 17",
+          "adp": 365.0
         }
       ]
     },
@@ -6230,17 +7382,43 @@
       "name": "Cedric Tillman CLE ()",
       "team": "",
       "pos": "WR",
-      "adp": 389.0,
-      "adp_ud": 389.0,
+      "adp": 388.0,
+      "adp_ud": 388.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR159",
+      "pos_rank_ud": "WR154",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 389.0
+        },
+        {
+          "date": "May 17",
+          "adp": 388.0
+        }
+      ]
+    },
+    {
+      "name": "Will Levis TEN ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 294.0,
+      "adp_ud": 294.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB39",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 291.0
+        },
+        {
+          "date": "May 17",
+          "adp": 294.0
         }
       ]
     },
@@ -6248,8 +7426,8 @@
       "name": "Jarquez Hunter LAR ()",
       "team": "",
       "pos": "RB",
-      "adp": 386.0,
-      "adp_ud": 386.0,
+      "adp": 385.0,
+      "adp_ud": 385.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6259,51 +7437,41 @@
         {
           "date": "May 16",
           "adp": 386.0
-        }
-      ]
-    },
-    {
-      "name": "Coleman Bennett CHI ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 296.0,
-      "adp_ud": 296.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB88",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 296.0
+          "date": "May 17",
+          "adp": 385.0
         }
       ]
     },
     {
-      "name": "Luke Musgrave GB ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 298.0,
-      "adp_ud": 298.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE48",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 298.0
-        }
-      ]
-    },
-    {
-      "name": "Cade Klubnik NYJ ()",
+      "name": "Carson Wentz MIN ()",
       "team": "",
       "pos": "QB",
-      "adp": 300.0,
-      "adp_ud": 300.0,
+      "adp": 295.0,
+      "adp_ud": 295.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB40",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 294.0
+        },
+        {
+          "date": "May 17",
+          "adp": 295.0
+        }
+      ]
+    },
+    {
+      "name": "Joe Milton III DAL ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 296.0,
+      "adp_ud": 296.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6311,35 +7479,17 @@
       "pos_rank_sleeper": null,
       "history": [
         {
-          "date": "May 16",
-          "adp": 300.0
+          "date": "May 17",
+          "adp": 296.0
         }
       ]
     },
     {
-      "name": "Taylen Green CLE ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 301.0,
-      "adp_ud": 301.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB42",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 301.0
-        }
-      ]
-    },
-    {
-      "name": "Jaylin Lane WAS ()",
+      "name": "Xavier Legette CAR ()",
       "team": "",
       "pos": "WR",
-      "adp": 303.0,
-      "adp_ud": 303.0,
+      "adp": 301.0,
+      "adp_ud": 301.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6348,12 +7498,162 @@
       "history": [
         {
           "date": "May 16",
-          "adp": 303.0
+          "adp": 313.0
+        },
+        {
+          "date": "May 17",
+          "adp": 301.0
         }
       ]
     },
     {
-      "name": "J'Mari Taylor JAC ()",
+      "name": "Mo Alie-Cox IND ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 297.0,
+      "adp_ud": 297.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE50",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 297.0
+        }
+      ]
+    },
+    {
+      "name": "Marcus Mariota WAS ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 364.0,
+      "adp_ud": 364.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB52",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 359.0
+        },
+        {
+          "date": "May 17",
+          "adp": 364.0
+        }
+      ]
+    },
+    {
+      "name": "Lucas Krull DEN ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 298.0,
+      "adp_ud": 298.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE51",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 298.0
+        }
+      ]
+    },
+    {
+      "name": "Xavier Hutchinson HOU ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 302.0,
+      "adp_ud": 302.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR125",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 378.0
+        },
+        {
+          "date": "May 17",
+          "adp": 302.0
+        }
+      ]
+    },
+    {
+      "name": "Cade Klubnik NYJ ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 304.0,
+      "adp_ud": 304.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB42",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 300.0
+        },
+        {
+          "date": "May 17",
+          "adp": 304.0
+        }
+      ]
+    },
+    {
+      "name": "Tyson Bagent CHI ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 382.0,
+      "adp_ud": 382.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB57",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 384.0
+        },
+        {
+          "date": "May 17",
+          "adp": 382.0
+        }
+      ]
+    },
+    {
+      "name": "Olamide Zaccheaus ATL ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 332.0,
+      "adp_ud": 332.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR138",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 312.0
+        },
+        {
+          "date": "May 17",
+          "adp": 332.0
+        }
+      ]
+    },
+    {
+      "name": "Kyle Juszczyk SF ()",
       "team": "",
       "pos": "RB",
       "adp": 306.0,
@@ -6361,12 +7661,140 @@
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB90",
+      "pos_rank_ud": "RB88",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
+          "adp": 293.0
+        },
+        {
+          "date": "May 17",
           "adp": 306.0
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Ruckert NYJ ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 307.0,
+      "adp_ud": 307.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE52",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 307.0
+        }
+      ]
+    },
+    {
+      "name": "Isaac Guerendo SF ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 362.0,
+      "adp_ud": 362.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB101",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 337.0
+        },
+        {
+          "date": "May 17",
+          "adp": 362.0
+        }
+      ]
+    },
+    {
+      "name": "Coleman Bennett CHI ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 308.0,
+      "adp_ud": 308.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB89",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 296.0
+        },
+        {
+          "date": "May 17",
+          "adp": 308.0
+        }
+      ]
+    },
+    {
+      "name": "Trey Sermon",
+      "team": "",
+      "pos": "RB",
+      "adp": 309.0,
+      "adp_ud": 309.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB90",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 309.0
+        }
+      ]
+    },
+    {
+      "name": "Taylen Green CLE ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 310.0,
+      "adp_ud": 310.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB43",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 301.0
+        },
+        {
+          "date": "May 17",
+          "adp": 310.0
+        }
+      ]
+    },
+    {
+      "name": "Luke Musgrave GB ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 311.0,
+      "adp_ud": 311.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE53",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 298.0
+        },
+        {
+          "date": "May 17",
+          "adp": 311.0
         }
       ]
     },
@@ -6374,8 +7802,8 @@
       "name": "Drew Allar PIT ()",
       "team": "",
       "pos": "QB",
-      "adp": 307.0,
-      "adp_ud": 307.0,
+      "adp": 312.0,
+      "adp_ud": 312.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6385,33 +7813,41 @@
         {
           "date": "May 16",
           "adp": 307.0
+        },
+        {
+          "date": "May 17",
+          "adp": 312.0
         }
       ]
     },
     {
-      "name": "Tyson Bagent CHI ()",
+      "name": "Cyrus Allen KC ()",
       "team": "",
-      "pos": "QB",
-      "adp": 384.0,
-      "adp_ud": 384.0,
+      "pos": "WR",
+      "adp": 315.0,
+      "adp_ud": 315.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "QB56",
+      "pos_rank_ud": "WR128",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 384.0
+          "adp": 319.0
+        },
+        {
+          "date": "May 17",
+          "adp": 315.0
         }
       ]
     },
     {
-      "name": "Xavier Legette CAR ()",
+      "name": "Dyami Brown WAS ()",
       "team": "",
       "pos": "WR",
-      "adp": 313.0,
-      "adp_ud": 313.0,
+      "adp": 316.0,
+      "adp_ud": 316.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6420,25 +7856,11 @@
       "history": [
         {
           "date": "May 16",
-          "adp": 313.0
-        }
-      ]
-    },
-    {
-      "name": "Dyami Brown WAS ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 310.0,
-      "adp_ud": 310.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR127",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
           "adp": 310.0
+        },
+        {
+          "date": "May 17",
+          "adp": 316.0
         }
       ]
     },
@@ -6446,179 +7868,21 @@
       "name": "Sione Vaki DET ()",
       "team": "",
       "pos": "RB",
-      "adp": 311.0,
-      "adp_ud": 311.0,
+      "adp": 317.0,
+      "adp_ud": 317.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB92",
+      "pos_rank_ud": "RB91",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 311.0
-        }
-      ]
-    },
-    {
-      "name": "Joe Flacco CIN ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 329.0,
-      "adp_ud": 329.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB46",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 329.0
-        }
-      ]
-    },
-    {
-      "name": "John Metchie III CAR ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 316.0,
-      "adp_ud": 316.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR131",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 316.0
-        }
-      ]
-    },
-    {
-      "name": "Cyrus Allen KC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 319.0,
-      "adp_ud": 319.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR133",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 319.0
-        }
-      ]
-    },
-    {
-      "name": "Raheim Sanders CLE ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 320.0,
-      "adp_ud": 320.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB94",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 320.0
-        }
-      ]
-    },
-    {
-      "name": "Isaiah Davis NYJ ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 343.0,
-      "adp_ud": 343.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB101",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 343.0
-        }
-      ]
-    },
-    {
-      "name": "Gary Brightwell CIN ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 321.0,
-      "adp_ud": 321.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB95",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 321.0
-        }
-      ]
-    },
-    {
-      "name": "Noah Gray KC ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 323.0,
-      "adp_ud": 323.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE49",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 323.0
-        }
-      ]
-    },
-    {
-      "name": "Konata Mumpfield LAR ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 324.0,
-      "adp_ud": 324.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR135",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 324.0
-        }
-      ]
-    },
-    {
-      "name": "Daniel Bellinger TEN ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 326.0,
-      "adp_ud": 326.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE50",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 326.0
+          "date": "May 17",
+          "adp": 317.0
         }
       ]
     },
@@ -6626,8 +7890,8 @@
       "name": "Ty Simpson LAR ()",
       "team": "",
       "pos": "QB",
-      "adp": 358.0,
-      "adp_ud": 358.0,
+      "adp": 346.0,
+      "adp_ud": 346.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6637,6 +7901,274 @@
         {
           "date": "May 16",
           "adp": 358.0
+        },
+        {
+          "date": "May 17",
+          "adp": 346.0
+        }
+      ]
+    },
+    {
+      "name": "Jaylin Lane WAS ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 319.0,
+      "adp_ud": 319.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR131",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 303.0
+        },
+        {
+          "date": "May 17",
+          "adp": 319.0
+        }
+      ]
+    },
+    {
+      "name": "Joe Flacco CIN ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 336.0,
+      "adp_ud": 336.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB46",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 329.0
+        },
+        {
+          "date": "May 17",
+          "adp": 336.0
+        }
+      ]
+    },
+    {
+      "name": "Daniel Bellinger TEN ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 320.0,
+      "adp_ud": 320.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE54",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 326.0
+        },
+        {
+          "date": "May 17",
+          "adp": 320.0
+        }
+      ]
+    },
+    {
+      "name": "John Metchie III CAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 323.0,
+      "adp_ud": 323.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR133",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 316.0
+        },
+        {
+          "date": "May 17",
+          "adp": 323.0
+        }
+      ]
+    },
+    {
+      "name": "Tanner Koziol JAC ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 327.0,
+      "adp_ud": 327.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE55",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 349.0
+        },
+        {
+          "date": "May 17",
+          "adp": 327.0
+        }
+      ]
+    },
+    {
+      "name": "Isaiah Davis NYJ ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 351.0,
+      "adp_ud": 351.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB100",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 343.0
+        },
+        {
+          "date": "May 17",
+          "adp": 351.0
+        }
+      ]
+    },
+    {
+      "name": "Gary Brightwell CIN ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 331.0,
+      "adp_ud": 331.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB94",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 321.0
+        },
+        {
+          "date": "May 17",
+          "adp": 331.0
+        }
+      ]
+    },
+    {
+      "name": "Noah Gray KC ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 334.0,
+      "adp_ud": 334.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE57",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 323.0
+        },
+        {
+          "date": "May 17",
+          "adp": 334.0
+        }
+      ]
+    },
+    {
+      "name": "Will Kacmarek MIA ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 333.0,
+      "adp_ud": 333.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE56",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 342.0
+        },
+        {
+          "date": "May 17",
+          "adp": 333.0
+        }
+      ]
+    },
+    {
+      "name": "KeAndre Lambert-Smith LAC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 335.0,
+      "adp_ud": 335.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR139",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 344.0
+        },
+        {
+          "date": "May 17",
+          "adp": 335.0
+        }
+      ]
+    },
+    {
+      "name": "J'Mari Taylor JAC ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 339.0,
+      "adp_ud": 339.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB97",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 306.0
+        },
+        {
+          "date": "May 17",
+          "adp": 339.0
+        }
+      ]
+    },
+    {
+      "name": "Colbie Young CIN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 342.0,
+      "adp_ud": 342.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR141",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 350.0
+        },
+        {
+          "date": "May 17",
+          "adp": 342.0
         }
       ]
     },
@@ -6644,17 +8176,21 @@
       "name": "Matt Hibner BAL ()",
       "team": "",
       "pos": "TE",
-      "adp": 332.0,
-      "adp_ud": 332.0,
+      "adp": 343.0,
+      "adp_ud": 343.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE52",
+      "pos_rank_ud": "TE58",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 332.0
+        },
+        {
+          "date": "May 17",
+          "adp": 343.0
         }
       ]
     },
@@ -6662,35 +8198,219 @@
       "name": "Jalen Milroe SEA ()",
       "team": "",
       "pos": "QB",
-      "adp": 338.0,
-      "adp_ud": 338.0,
+      "adp": 345.0,
+      "adp_ud": 345.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "QB47",
+      "pos_rank_ud": "QB48",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 338.0
+        },
+        {
+          "date": "May 17",
+          "adp": 345.0
         }
       ]
     },
     {
-      "name": "Erick All Jr. CIN ()",
+      "name": "Raheim Sanders CLE ()",
       "team": "",
-      "pos": "TE",
-      "adp": 340.0,
-      "adp_ud": 340.0,
+      "pos": "RB",
+      "adp": 348.0,
+      "adp_ud": 348.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE53",
+      "pos_rank_ud": "RB99",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 340.0
+          "adp": 320.0
+        },
+        {
+          "date": "May 17",
+          "adp": 348.0
+        }
+      ]
+    },
+    {
+      "name": "Konata Mumpfield LAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 352.0,
+      "adp_ud": 352.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR143",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 324.0
+        },
+        {
+          "date": "May 17",
+          "adp": 352.0
+        }
+      ]
+    },
+    {
+      "name": "Sam Roush CHI ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 355.0,
+      "adp_ud": 355.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE60",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 380.0
+        },
+        {
+          "date": "May 17",
+          "adp": 355.0
+        }
+      ]
+    },
+    {
+      "name": "Jalen Royals KC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 356.0,
+      "adp_ud": 356.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR145",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 346.0
+        },
+        {
+          "date": "May 17",
+          "adp": 356.0
+        }
+      ]
+    },
+    {
+      "name": "Mitchell Evans CAR ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 358.0,
+      "adp_ud": 358.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE62",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 381.0
+        },
+        {
+          "date": "May 17",
+          "adp": 358.0
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Horn Jr. CAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 361.0,
+      "adp_ud": 361.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR147",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 286.0
+        },
+        {
+          "date": "May 17",
+          "adp": 361.0
+        }
+      ]
+    },
+    {
+      "name": "Jordan Whittington LAR ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 363.0,
+      "adp_ud": 363.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR148",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 356.0
+        },
+        {
+          "date": "May 17",
+          "adp": 363.0
+        }
+      ]
+    },
+    {
+      "name": "Jameis Winston NYG ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 381.0,
+      "adp_ud": 381.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB56",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 361.0
+        },
+        {
+          "date": "May 17",
+          "adp": 381.0
+        }
+      ]
+    },
+    {
+      "name": "K.J. Osborn TEN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 367.0,
+      "adp_ud": 367.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR149",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 372.0
+        },
+        {
+          "date": "May 17",
+          "adp": 367.0
         }
       ]
     },
@@ -6698,12 +8418,12 @@
       "name": "Nick Chubb",
       "team": "",
       "pos": "RB",
-      "adp": 341.0,
-      "adp_ud": 341.0,
+      "adp": 368.0,
+      "adp_ud": 368.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "RB100",
+      "pos_rank_ud": "RB103",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -6717,240 +8437,10 @@
         {
           "date": "May 16",
           "adp": 341.0
-        }
-      ]
-    },
-    {
-      "name": "Will Kacmarek MIA ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 342.0,
-      "adp_ud": 342.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE54",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
-          "adp": 342.0
-        }
-      ]
-    },
-    {
-      "name": "KeAndre Lambert-Smith LAC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 344.0,
-      "adp_ud": 344.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR142",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 344.0
-        }
-      ]
-    },
-    {
-      "name": "Jameis Winston NYG ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 361.0,
-      "adp_ud": 361.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB52",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 361.0
-        }
-      ]
-    },
-    {
-      "name": "Jalen Royals KC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 346.0,
-      "adp_ud": 346.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR144",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 346.0
-        }
-      ]
-    },
-    {
-      "name": "Austin Hooper ATL ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 347.0,
-      "adp_ud": 347.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE55",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 347.0
-        }
-      ]
-    },
-    {
-      "name": "Tanner Koziol JAC ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 349.0,
-      "adp_ud": 349.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE57",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 349.0
-        }
-      ]
-    },
-    {
-      "name": "Colbie Young CIN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 350.0,
-      "adp_ud": 350.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR145",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 350.0
-        }
-      ]
-    },
-    {
-      "name": "Tai Felton MIN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 354.0,
-      "adp_ud": 354.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR147",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 354.0
-        }
-      ]
-    },
-    {
-      "name": "Nate Boerkircher JAC ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 355.0,
-      "adp_ud": 355.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE59",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 355.0
-        }
-      ]
-    },
-    {
-      "name": "Jordan Whittington LAR ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 356.0,
-      "adp_ud": 356.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR148",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 356.0
-        }
-      ]
-    },
-    {
-      "name": "Jam Miller NE ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 357.0,
-      "adp_ud": 357.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB102",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 357.0
-        }
-      ]
-    },
-    {
-      "name": "Tyrod Taylor GB ()",
-      "team": "",
-      "pos": "QB",
-      "adp": 360.0,
-      "adp_ud": 360.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "QB51",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 360.0
-        }
-      ]
-    },
-    {
-      "name": "Zavier Scott MIN ()",
-      "team": "",
-      "pos": "RB",
-      "adp": 364.0,
-      "adp_ud": 364.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "RB104",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 364.0
+          "date": "May 17",
+          "adp": 368.0
         }
       ]
     },
@@ -6958,8 +8448,8 @@
       "name": "Logan Woodside",
       "team": "",
       "pos": "QB",
-      "adp": 368.0,
-      "adp_ud": 368.0,
+      "adp": 369.0,
+      "adp_ud": 369.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6973,114 +8463,10 @@
         {
           "date": "May 16",
           "adp": 368.0
-        }
-      ]
-    },
-    {
-      "name": "Casey Washington ATL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 369.0,
-      "adp_ud": 369.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR149",
-      "pos_rank_sleeper": null,
-      "history": [
+        },
         {
-          "date": "May 16",
+          "date": "May 17",
           "adp": 369.0
-        }
-      ]
-    },
-    {
-      "name": "Xavier Guillory BAL ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 371.0,
-      "adp_ud": 371.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR150",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 371.0
-        }
-      ]
-    },
-    {
-      "name": "K.J. Osborn TEN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 372.0,
-      "adp_ud": 372.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR151",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 372.0
-        }
-      ]
-    },
-    {
-      "name": "Mitch Tinsley CIN ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 373.0,
-      "adp_ud": 373.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR152",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 373.0
-        }
-      ]
-    },
-    {
-      "name": "Trey Palmer NO ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 374.0,
-      "adp_ud": 374.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR153",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 374.0
-        }
-      ]
-    },
-    {
-      "name": "Jeff Caldwell KC ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 375.0,
-      "adp_ud": 375.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR154",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 375.0
         }
       ]
     },
@@ -7088,62 +8474,8 @@
       "name": "Jack Endries CIN ()",
       "team": "",
       "pos": "TE",
-      "adp": 376.0,
-      "adp_ud": 376.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE62",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 376.0
-        }
-      ]
-    },
-    {
-      "name": "Elijah Higgins ARI ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 377.0,
-      "adp_ud": 377.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "TE63",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 377.0
-        }
-      ]
-    },
-    {
-      "name": "Xavier Hutchinson HOU ()",
-      "team": "",
-      "pos": "WR",
-      "adp": 378.0,
-      "adp_ud": 378.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
-      "adp_yahoo": null,
-      "pos_rank_ud": "WR155",
-      "pos_rank_sleeper": null,
-      "history": [
-        {
-          "date": "May 16",
-          "adp": 378.0
-        }
-      ]
-    },
-    {
-      "name": "Sam Roush CHI ()",
-      "team": "",
-      "pos": "TE",
-      "adp": 380.0,
-      "adp_ud": 380.0,
+      "adp": 370.0,
+      "adp_ud": 370.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7152,16 +8484,20 @@
       "history": [
         {
           "date": "May 16",
-          "adp": 380.0
+          "adp": 376.0
+        },
+        {
+          "date": "May 17",
+          "adp": 370.0
         }
       ]
     },
     {
-      "name": "Mitchell Evans CAR ()",
+      "name": "Elijah Higgins ARI ()",
       "team": "",
       "pos": "TE",
-      "adp": 381.0,
-      "adp_ud": 381.0,
+      "adp": 371.0,
+      "adp_ud": 371.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7170,34 +8506,158 @@
       "history": [
         {
           "date": "May 16",
-          "adp": 381.0
+          "adp": 377.0
+        },
+        {
+          "date": "May 17",
+          "adp": 371.0
         }
       ]
     },
     {
-      "name": "Marquez Valdes-Scantling DAL ()",
+      "name": "Rasheen Ali BAL ()",
       "team": "",
-      "pos": "WR",
-      "adp": 382.0,
-      "adp_ud": 382.0,
+      "pos": "RB",
+      "adp": 372.0,
+      "adp_ud": 372.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR157",
+      "pos_rank_ud": "RB104",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 372.0
+        }
+      ]
+    },
+    {
+      "name": "Isaiah Williams NYJ ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 373.0,
+      "adp_ud": 373.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR150",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 373.0
+        }
+      ]
+    },
+    {
+      "name": "Austin Hooper ATL ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 375.0,
+      "adp_ud": 375.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE66",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 382.0
+          "adp": 347.0
+        },
+        {
+          "date": "May 17",
+          "adp": 375.0
         }
       ]
     },
     {
-      "name": "Diego Pavia BAL ()",
+      "name": "Cade Stover HOU ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 376.0,
+      "adp_ud": 376.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE67",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 376.0
+        }
+      ]
+    },
+    {
+      "name": "Tai Felton MIN ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 377.0,
+      "adp_ud": 377.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR152",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 354.0
+        },
+        {
+          "date": "May 17",
+          "adp": 377.0
+        }
+      ]
+    },
+    {
+      "name": "Marlin Klein HOU ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 378.0,
+      "adp_ud": 378.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE68",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 378.0
+        }
+      ]
+    },
+    {
+      "name": "Nate Boerkircher JAC ()",
+      "team": "",
+      "pos": "TE",
+      "adp": 379.0,
+      "adp_ud": 379.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "TE69",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 355.0
+        },
+        {
+          "date": "May 17",
+          "adp": 379.0
+        }
+      ]
+    },
+    {
+      "name": "Tyrod Taylor GB ()",
       "team": "",
       "pos": "QB",
-      "adp": 383.0,
-      "adp_ud": 383.0,
+      "adp": 380.0,
+      "adp_ud": 380.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7206,7 +8666,33 @@
       "history": [
         {
           "date": "May 16",
-          "adp": 383.0
+          "adp": 360.0
+        },
+        {
+          "date": "May 17",
+          "adp": 380.0
+        }
+      ]
+    },
+    {
+      "name": "Zavier Scott MIN ()",
+      "team": "",
+      "pos": "RB",
+      "adp": 384.0,
+      "adp_ud": 384.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "RB105",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 364.0
+        },
+        {
+          "date": "May 17",
+          "adp": 384.0
         }
       ]
     },
@@ -7214,8 +8700,8 @@
       "name": "Phil Mafah DAL ()",
       "team": "",
       "pos": "RB",
-      "adp": 387.0,
-      "adp_ud": 387.0,
+      "adp": 386.0,
+      "adp_ud": 386.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7225,6 +8711,10 @@
         {
           "date": "May 16",
           "adp": 387.0
+        },
+        {
+          "date": "May 17",
+          "adp": 386.0
         }
       ]
     },
@@ -7232,17 +8722,39 @@
       "name": "Darius Cooper PHI ()",
       "team": "",
       "pos": "WR",
-      "adp": 388.0,
-      "adp_ud": 388.0,
+      "adp": 387.0,
+      "adp_ud": 387.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR158",
+      "pos_rank_ud": "WR153",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
           "adp": 388.0
+        },
+        {
+          "date": "May 17",
+          "adp": 387.0
+        }
+      ]
+    },
+    {
+      "name": "Kaden Wetjen PIT ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 389.0,
+      "adp_ud": 389.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR155",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 389.0
         }
       ]
     },
@@ -7250,12 +8762,12 @@
       "name": "Odell Beckham Jr.",
       "team": "",
       "pos": "WR",
-      "adp": 391.0,
-      "adp_ud": 391.0,
+      "adp": 390.0,
+      "adp_ud": 390.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "WR160",
+      "pos_rank_ud": "WR156",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -7265,24 +8777,170 @@
         {
           "date": "May 16",
           "adp": 391.0
+        },
+        {
+          "date": "May 17",
+          "adp": 390.0
         }
       ]
     },
     {
-      "name": "Caleb Lohner DEN ()",
+      "name": "Mitch Tinsley CIN ()",
       "team": "",
-      "pos": "TE",
+      "pos": "WR",
+      "adp": 391.0,
+      "adp_ud": 391.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR157",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 373.0
+        },
+        {
+          "date": "May 17",
+          "adp": 391.0
+        }
+      ]
+    },
+    {
+      "name": "Robert Henry Jr. WAS ()",
+      "team": "",
+      "pos": "RB",
       "adp": 392.0,
       "adp_ud": 392.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
-      "pos_rank_ud": "TE66",
+      "pos_rank_ud": "RB108",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 392.0
+        }
+      ]
+    },
+    {
+      "name": "Xavier Guillory BAL ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 394.0,
+      "adp_ud": 394.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR158",
       "pos_rank_sleeper": null,
       "history": [
         {
           "date": "May 16",
-          "adp": 392.0
+          "adp": 371.0
+        },
+        {
+          "date": "May 17",
+          "adp": 394.0
+        }
+      ]
+    },
+    {
+      "name": "CJ Williams JAC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 396.0,
+      "adp_ud": 396.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR159",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 396.0
+        }
+      ]
+    },
+    {
+      "name": "Jeff Caldwell KC ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 397.0,
+      "adp_ud": 397.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR160",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 375.0
+        },
+        {
+          "date": "May 17",
+          "adp": 397.0
+        }
+      ]
+    },
+    {
+      "name": "Casey Washington ATL ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 399.0,
+      "adp_ud": 399.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR161",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 16",
+          "adp": 369.0
+        },
+        {
+          "date": "May 17",
+          "adp": 399.0
+        }
+      ]
+    },
+    {
+      "name": "Brenden Rice GB ()",
+      "team": "",
+      "pos": "WR",
+      "adp": 400.0,
+      "adp_ud": 400.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "WR162",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 400.0
+        }
+      ]
+    },
+    {
+      "name": "Riley Leonard IND ()",
+      "team": "",
+      "pos": "QB",
+      "adp": 401.0,
+      "adp_ud": 401.0,
+      "adp_sleeper": null,
+      "adp_espn": null,
+      "adp_yahoo": null,
+      "pos_rank_ud": "QB59",
+      "pos_rank_sleeper": null,
+      "history": [
+        {
+          "date": "May 17",
+          "adp": 401.0
         }
       ]
     }
