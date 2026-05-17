@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17 15:15",
+  "updated": "2026-05-17 15:18",
   "source": "FantasyPros (Underdog + ESPN) + Sleeper API",
   "players": [
     {
@@ -170,11 +170,11 @@
       "pos": "RB",
       "adp": 11.0,
       "adp_ud": 11.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
+      "adp_sleeper": 9.7,
+      "adp_espn": 15.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB5",
-      "pos_rank_sleeper": null,
+      "pos_rank_sleeper": "RB5",
       "history": [
         {
           "date": "May 17",
@@ -210,7 +210,7 @@
       "adp_espn": 17.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB6",
-      "pos_rank_sleeper": "RB6",
+      "pos_rank_sleeper": "RB7",
       "history": [
         {
           "date": "May 17",
@@ -228,7 +228,7 @@
       "adp_espn": 10.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB7",
-      "pos_rank_sleeper": "RB7",
+      "pos_rank_sleeper": "RB8",
       "history": [
         {
           "date": "May 17",
@@ -246,7 +246,7 @@
       "adp_espn": 19.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB8",
-      "pos_rank_sleeper": "RB9",
+      "pos_rank_sleeper": "RB10",
       "history": [
         {
           "date": "May 17",
@@ -282,7 +282,7 @@
       "adp_espn": 22.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB12",
-      "pos_rank_sleeper": "RB11",
+      "pos_rank_sleeper": "RB12",
       "history": [
         {
           "date": "May 17",
@@ -300,7 +300,7 @@
       "adp_espn": 18.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB10",
-      "pos_rank_sleeper": "RB8",
+      "pos_rank_sleeper": "RB9",
       "history": [
         {
           "date": "May 17",
@@ -318,7 +318,7 @@
       "adp_espn": 30.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB9",
-      "pos_rank_sleeper": "RB5",
+      "pos_rank_sleeper": "RB6",
       "history": [
         {
           "date": "May 17",
@@ -390,7 +390,7 @@
       "adp_espn": 20.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB11",
-      "pos_rank_sleeper": "RB14",
+      "pos_rank_sleeper": "RB15",
       "history": [
         {
           "date": "May 17",
@@ -426,7 +426,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB13",
-      "pos_rank_sleeper": "RB10",
+      "pos_rank_sleeper": "RB11",
       "history": [
         {
           "date": "May 17",
@@ -498,7 +498,7 @@
       "adp_espn": 21.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB14",
-      "pos_rank_sleeper": "RB12",
+      "pos_rank_sleeper": "RB13",
       "history": [
         {
           "date": "May 17",
@@ -552,7 +552,7 @@
       "adp_espn": 69.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB17",
-      "pos_rank_sleeper": "RB16",
+      "pos_rank_sleeper": "RB17",
       "history": [
         {
           "date": "May 17",
@@ -570,7 +570,7 @@
       "adp_espn": 23.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB15",
-      "pos_rank_sleeper": "RB15",
+      "pos_rank_sleeper": "RB16",
       "history": [
         {
           "date": "May 17",
@@ -588,7 +588,7 @@
       "adp_espn": 70.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB16",
-      "pos_rank_sleeper": "RB17",
+      "pos_rank_sleeper": "RB18",
       "history": [
         {
           "date": "May 17",
@@ -642,7 +642,7 @@
       "adp_espn": 31.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB18",
-      "pos_rank_sleeper": "RB18",
+      "pos_rank_sleeper": "RB19",
       "history": [
         {
           "date": "May 17",
@@ -750,7 +750,7 @@
       "adp_espn": 73.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB19",
-      "pos_rank_sleeper": "RB13",
+      "pos_rank_sleeper": "RB14",
       "history": [
         {
           "date": "May 17",
@@ -804,7 +804,7 @@
       "adp_espn": 71.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB21",
-      "pos_rank_sleeper": "RB21",
+      "pos_rank_sleeper": "RB22",
       "history": [
         {
           "date": "May 17",
@@ -876,7 +876,7 @@
       "adp_espn": 97.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB22",
-      "pos_rank_sleeper": "RB24",
+      "pos_rank_sleeper": "RB25",
       "history": [
         {
           "date": "May 17",
@@ -894,7 +894,7 @@
       "adp_espn": 91.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB20",
-      "pos_rank_sleeper": "RB19",
+      "pos_rank_sleeper": "RB20",
       "history": [
         {
           "date": "May 17",
@@ -912,7 +912,7 @@
       "adp_espn": 72.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB24",
-      "pos_rank_sleeper": "RB23",
+      "pos_rank_sleeper": "RB24",
       "history": [
         {
           "date": "May 17",
@@ -1056,7 +1056,7 @@
       "adp_espn": 95.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB23",
-      "pos_rank_sleeper": "RB22",
+      "pos_rank_sleeper": "RB23",
       "history": [
         {
           "date": "May 17",
@@ -1092,7 +1092,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB25",
-      "pos_rank_sleeper": "RB39",
+      "pos_rank_sleeper": "RB40",
       "history": [
         {
           "date": "May 17",
@@ -1200,7 +1200,7 @@
       "adp_espn": 96.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB27",
-      "pos_rank_sleeper": "RB30",
+      "pos_rank_sleeper": "RB31",
       "history": [
         {
           "date": "May 17",
@@ -1344,7 +1344,7 @@
       "adp_espn": 149.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB31",
-      "pos_rank_sleeper": "RB20",
+      "pos_rank_sleeper": "RB21",
       "history": [
         {
           "date": "May 17",
@@ -1362,7 +1362,7 @@
       "adp_espn": 137.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB28",
-      "pos_rank_sleeper": "RB26",
+      "pos_rank_sleeper": "RB27",
       "history": [
         {
           "date": "May 17",
@@ -1380,7 +1380,7 @@
       "adp_espn": 112.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR36",
-      "pos_rank_sleeper": "WR41",
+      "pos_rank_sleeper": "WR42",
       "history": [
         {
           "date": "May 17",
@@ -1434,7 +1434,7 @@
       "adp_espn": 136.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB30",
-      "pos_rank_sleeper": "RB25",
+      "pos_rank_sleeper": "RB26",
       "history": [
         {
           "date": "May 17",
@@ -1524,7 +1524,7 @@
       "adp_espn": 134.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB29",
-      "pos_rank_sleeper": "RB28",
+      "pos_rank_sleeper": "RB29",
       "history": [
         {
           "date": "May 17",
@@ -1614,7 +1614,7 @@
       "adp_espn": 138.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB33",
-      "pos_rank_sleeper": "RB29",
+      "pos_rank_sleeper": "RB30",
       "history": [
         {
           "date": "May 17",
@@ -1628,11 +1628,11 @@
       "pos": "QB",
       "adp": 93.0,
       "adp_ud": 93.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
+      "adp_sleeper": 100.1,
+      "adp_espn": 132.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB12",
-      "pos_rank_sleeper": null,
+      "pos_rank_sleeper": "QB12",
       "history": [
         {
           "date": "May 17",
@@ -1650,7 +1650,7 @@
       "adp_espn": 123.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB15",
-      "pos_rank_sleeper": "QB13",
+      "pos_rank_sleeper": "QB14",
       "history": [
         {
           "date": "May 17",
@@ -1668,7 +1668,7 @@
       "adp_espn": 150.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB32",
-      "pos_rank_sleeper": "RB27",
+      "pos_rank_sleeper": "RB28",
       "history": [
         {
           "date": "May 17",
@@ -1682,11 +1682,11 @@
       "pos": "WR",
       "adp": 88.0,
       "adp_ud": 88.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
+      "adp_sleeper": 103.2,
+      "adp_espn": 156.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR42",
-      "pos_rank_sleeper": null,
+      "pos_rank_sleeper": "WR41",
       "history": [
         {
           "date": "May 17",
@@ -1704,7 +1704,7 @@
       "adp_espn": 121.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB13",
-      "pos_rank_sleeper": "QB12",
+      "pos_rank_sleeper": "QB13",
       "history": [
         {
           "date": "May 17",
@@ -1722,7 +1722,7 @@
       "adp_espn": 120.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB14",
-      "pos_rank_sleeper": "QB14",
+      "pos_rank_sleeper": "QB15",
       "history": [
         {
           "date": "May 17",
@@ -1758,7 +1758,7 @@
       "adp_espn": 187.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB16",
-      "pos_rank_sleeper": "QB16",
+      "pos_rank_sleeper": "QB17",
       "history": [
         {
           "date": "May 17",
@@ -1776,7 +1776,7 @@
       "adp_espn": 157.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR40",
-      "pos_rank_sleeper": "WR42",
+      "pos_rank_sleeper": "WR43",
       "history": [
         {
           "date": "May 17",
@@ -1794,7 +1794,7 @@
       "adp_espn": 171.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR39",
-      "pos_rank_sleeper": "WR48",
+      "pos_rank_sleeper": "WR49",
       "history": [
         {
           "date": "May 17",
@@ -1812,7 +1812,7 @@
       "adp_espn": 148.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB35",
-      "pos_rank_sleeper": "RB32",
+      "pos_rank_sleeper": "RB33",
       "history": [
         {
           "date": "May 17",
@@ -1830,7 +1830,7 @@
       "adp_espn": 167.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB34",
-      "pos_rank_sleeper": "RB31",
+      "pos_rank_sleeper": "RB32",
       "history": [
         {
           "date": "May 17",
@@ -1884,7 +1884,7 @@
       "adp_espn": 176.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR43",
-      "pos_rank_sleeper": "WR45",
+      "pos_rank_sleeper": "WR46",
       "history": [
         {
           "date": "May 17",
@@ -1902,7 +1902,7 @@
       "adp_espn": 126.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR52",
-      "pos_rank_sleeper": "WR43",
+      "pos_rank_sleeper": "WR44",
       "history": [
         {
           "date": "May 17",
@@ -1920,7 +1920,7 @@
       "adp_espn": 101.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR48",
-      "pos_rank_sleeper": "WR44",
+      "pos_rank_sleeper": "WR45",
       "history": [
         {
           "date": "May 17",
@@ -1938,7 +1938,7 @@
       "adp_espn": 183.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB19",
-      "pos_rank_sleeper": "QB19",
+      "pos_rank_sleeper": "QB20",
       "history": [
         {
           "date": "May 17",
@@ -1956,7 +1956,7 @@
       "adp_espn": 182.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB17",
-      "pos_rank_sleeper": "QB20",
+      "pos_rank_sleeper": "QB21",
       "history": [
         {
           "date": "May 17",
@@ -1974,7 +1974,7 @@
       "adp_espn": 284.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB18",
-      "pos_rank_sleeper": "QB15",
+      "pos_rank_sleeper": "QB16",
       "history": [
         {
           "date": "May 17",
@@ -2010,7 +2010,7 @@
       "adp_espn": 204.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB20",
-      "pos_rank_sleeper": "QB18",
+      "pos_rank_sleeper": "QB19",
       "history": [
         {
           "date": "May 17",
@@ -2028,7 +2028,7 @@
       "adp_espn": 139.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB38",
-      "pos_rank_sleeper": "RB35",
+      "pos_rank_sleeper": "RB36",
       "history": [
         {
           "date": "May 17",
@@ -2046,7 +2046,7 @@
       "adp_espn": 174.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR45",
-      "pos_rank_sleeper": "WR55",
+      "pos_rank_sleeper": "WR56",
       "history": [
         {
           "date": "May 17",
@@ -2082,7 +2082,7 @@
       "adp_espn": 173.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR50",
-      "pos_rank_sleeper": "WR47",
+      "pos_rank_sleeper": "WR48",
       "history": [
         {
           "date": "May 17",
@@ -2100,7 +2100,7 @@
       "adp_espn": 170.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB40",
-      "pos_rank_sleeper": "RB43",
+      "pos_rank_sleeper": "RB44",
       "history": [
         {
           "date": "May 17",
@@ -2154,7 +2154,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR51",
-      "pos_rank_sleeper": "WR53",
+      "pos_rank_sleeper": "WR54",
       "history": [
         {
           "date": "May 17",
@@ -2190,7 +2190,7 @@
       "adp_espn": 147.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB41",
-      "pos_rank_sleeper": "RB49",
+      "pos_rank_sleeper": "RB50",
       "history": [
         {
           "date": "May 17",
@@ -2208,7 +2208,7 @@
       "adp_espn": 114.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR47",
-      "pos_rank_sleeper": "WR61",
+      "pos_rank_sleeper": "WR63",
       "history": [
         {
           "date": "May 17",
@@ -2244,7 +2244,7 @@
       "adp_espn": 193.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB36",
-      "pos_rank_sleeper": "RB54",
+      "pos_rank_sleeper": "RB55",
       "history": [
         {
           "date": "May 17",
@@ -2262,7 +2262,7 @@
       "adp_espn": 161.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB37",
-      "pos_rank_sleeper": "RB38",
+      "pos_rank_sleeper": "RB39",
       "history": [
         {
           "date": "May 17",
@@ -2280,7 +2280,7 @@
       "adp_espn": 135.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB39",
-      "pos_rank_sleeper": "RB34",
+      "pos_rank_sleeper": "RB35",
       "history": [
         {
           "date": "May 17",
@@ -2298,7 +2298,7 @@
       "adp_espn": 175.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR49",
-      "pos_rank_sleeper": "WR50",
+      "pos_rank_sleeper": "WR51",
       "history": [
         {
           "date": "May 17",
@@ -2316,7 +2316,7 @@
       "adp_espn": 206.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB21",
-      "pos_rank_sleeper": "QB17",
+      "pos_rank_sleeper": "QB18",
       "history": [
         {
           "date": "May 17",
@@ -2352,7 +2352,7 @@
       "adp_espn": 158.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR54",
-      "pos_rank_sleeper": "WR49",
+      "pos_rank_sleeper": "WR50",
       "history": [
         {
           "date": "May 17",
@@ -2370,7 +2370,7 @@
       "adp_espn": 179.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR53",
-      "pos_rank_sleeper": "WR52",
+      "pos_rank_sleeper": "WR53",
       "history": [
         {
           "date": "May 17",
@@ -2388,7 +2388,7 @@
       "adp_espn": 168.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB42",
-      "pos_rank_sleeper": "RB55",
+      "pos_rank_sleeper": "RB56",
       "history": [
         {
           "date": "May 17",
@@ -2424,7 +2424,7 @@
       "adp_espn": 321.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB22",
-      "pos_rank_sleeper": "QB22",
+      "pos_rank_sleeper": "QB23",
       "history": [
         {
           "date": "May 17",
@@ -2442,7 +2442,7 @@
       "adp_espn": 215.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB43",
-      "pos_rank_sleeper": "RB42",
+      "pos_rank_sleeper": "RB43",
       "history": [
         {
           "date": "May 17",
@@ -2460,7 +2460,7 @@
       "adp_espn": 181.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR55",
-      "pos_rank_sleeper": "WR54",
+      "pos_rank_sleeper": "WR55",
       "history": [
         {
           "date": "May 17",
@@ -2478,7 +2478,7 @@
       "adp_espn": 290.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB24",
-      "pos_rank_sleeper": "QB21",
+      "pos_rank_sleeper": "QB22",
       "history": [
         {
           "date": "May 17",
@@ -2532,7 +2532,7 @@
       "adp_espn": 231.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB49",
-      "pos_rank_sleeper": "RB36",
+      "pos_rank_sleeper": "RB37",
       "history": [
         {
           "date": "May 17",
@@ -2550,7 +2550,7 @@
       "adp_espn": 186.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB25",
-      "pos_rank_sleeper": "QB25",
+      "pos_rank_sleeper": "QB26",
       "history": [
         {
           "date": "May 17",
@@ -2568,7 +2568,7 @@
       "adp_espn": 169.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB46",
-      "pos_rank_sleeper": "RB41",
+      "pos_rank_sleeper": "RB42",
       "history": [
         {
           "date": "May 17",
@@ -2604,7 +2604,7 @@
       "adp_espn": 188.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB48",
-      "pos_rank_sleeper": "RB40",
+      "pos_rank_sleeper": "RB41",
       "history": [
         {
           "date": "May 17",
@@ -2622,7 +2622,7 @@
       "adp_espn": 322.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB26",
-      "pos_rank_sleeper": "QB24",
+      "pos_rank_sleeper": "QB25",
       "history": [
         {
           "date": "May 17",
@@ -2658,7 +2658,7 @@
       "adp_espn": 202.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR56",
-      "pos_rank_sleeper": "WR63",
+      "pos_rank_sleeper": "WR65",
       "history": [
         {
           "date": "May 17",
@@ -2676,7 +2676,7 @@
       "adp_espn": 226.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR61",
-      "pos_rank_sleeper": "WR51",
+      "pos_rank_sleeper": "WR52",
       "history": [
         {
           "date": "May 17",
@@ -2694,7 +2694,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR57",
-      "pos_rank_sleeper": "WR57",
+      "pos_rank_sleeper": "WR59",
       "history": [
         {
           "date": "May 17",
@@ -2712,7 +2712,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB44",
-      "pos_rank_sleeper": "RB46",
+      "pos_rank_sleeper": "RB47",
       "history": [
         {
           "date": "May 17",
@@ -2730,7 +2730,7 @@
       "adp_espn": 190.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB47",
-      "pos_rank_sleeper": "RB58",
+      "pos_rank_sleeper": "RB59",
       "history": [
         {
           "date": "May 17",
@@ -2748,7 +2748,7 @@
       "adp_espn": 196.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR60",
-      "pos_rank_sleeper": "WR66",
+      "pos_rank_sleeper": "WR68",
       "history": [
         {
           "date": "May 17",
@@ -2766,7 +2766,7 @@
       "adp_espn": 300.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR58",
-      "pos_rank_sleeper": "WR46",
+      "pos_rank_sleeper": "WR47",
       "history": [
         {
           "date": "May 5",
@@ -2864,7 +2864,7 @@
       "adp_espn": 217.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB50",
-      "pos_rank_sleeper": "RB48",
+      "pos_rank_sleeper": "RB49",
       "history": [
         {
           "date": "May 17",
@@ -2882,7 +2882,7 @@
       "adp_espn": 389.0,
       "adp_yahoo": null,
       "pos_rank_ud": "QB28",
-      "pos_rank_sleeper": "QB26",
+      "pos_rank_sleeper": "QB27",
       "history": [
         {
           "date": "May 17",
@@ -2900,7 +2900,7 @@
       "adp_espn": 349.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB45",
-      "pos_rank_sleeper": "RB57",
+      "pos_rank_sleeper": "RB58",
       "history": [
         {
           "date": "May 17",
@@ -2918,7 +2918,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR64",
-      "pos_rank_sleeper": "WR58",
+      "pos_rank_sleeper": "WR60",
       "history": [
         {
           "date": "May 17",
@@ -2936,7 +2936,7 @@
       "adp_espn": 189.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB55",
-      "pos_rank_sleeper": "RB47",
+      "pos_rank_sleeper": "RB48",
       "history": [
         {
           "date": "May 17",
@@ -2954,7 +2954,7 @@
       "adp_espn": 223.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR62",
-      "pos_rank_sleeper": "WR85",
+      "pos_rank_sleeper": "WR87",
       "history": [
         {
           "date": "May 17",
@@ -2972,7 +2972,7 @@
       "adp_espn": 329.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB52",
-      "pos_rank_sleeper": "RB50",
+      "pos_rank_sleeper": "RB51",
       "history": [
         {
           "date": "May 17",
@@ -2990,7 +2990,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB27",
-      "pos_rank_sleeper": "QB23",
+      "pos_rank_sleeper": "QB24",
       "history": [
         {
           "date": "May 17",
@@ -3008,7 +3008,7 @@
       "adp_espn": 128.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR59",
-      "pos_rank_sleeper": "WR60",
+      "pos_rank_sleeper": "WR62",
       "history": [
         {
           "date": "May 17",
@@ -3026,7 +3026,7 @@
       "adp_espn": 297.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR69",
-      "pos_rank_sleeper": "WR70",
+      "pos_rank_sleeper": "WR72",
       "history": [
         {
           "date": "May 17",
@@ -3058,11 +3058,11 @@
       "pos": "WR",
       "adp": 170.0,
       "adp_ud": 170.0,
-      "adp_sleeper": null,
-      "adp_espn": null,
+      "adp_sleeper": 164.3,
+      "adp_espn": 295.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR68",
-      "pos_rank_sleeper": null,
+      "pos_rank_sleeper": "WR58",
       "history": [
         {
           "date": "May 5",
@@ -3124,7 +3124,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB56",
-      "pos_rank_sleeper": "RB44",
+      "pos_rank_sleeper": "RB45",
       "history": [
         {
           "date": "May 17",
@@ -3142,7 +3142,7 @@
       "adp_espn": 294.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR76",
-      "pos_rank_sleeper": "WR56",
+      "pos_rank_sleeper": "WR57",
       "history": [
         {
           "date": "May 5",
@@ -3222,7 +3222,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB57",
-      "pos_rank_sleeper": "RB52",
+      "pos_rank_sleeper": "RB53",
       "history": [
         {
           "date": "May 17",
@@ -3258,7 +3258,7 @@
       "adp_espn": 210.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR63",
-      "pos_rank_sleeper": "WR78",
+      "pos_rank_sleeper": "WR80",
       "history": [
         {
           "date": "May 17",
@@ -3276,7 +3276,7 @@
       "adp_espn": 383.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB59",
-      "pos_rank_sleeper": "RB61",
+      "pos_rank_sleeper": "RB62",
       "history": [
         {
           "date": "May 17",
@@ -3294,7 +3294,7 @@
       "adp_espn": 216.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB51",
-      "pos_rank_sleeper": "RB33",
+      "pos_rank_sleeper": "RB34",
       "history": [
         {
           "date": "May 17",
@@ -3312,7 +3312,7 @@
       "adp_espn": 180.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR71",
-      "pos_rank_sleeper": "WR62",
+      "pos_rank_sleeper": "WR64",
       "history": [
         {
           "date": "May 17",
@@ -3348,7 +3348,7 @@
       "adp_espn": 310.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR67",
-      "pos_rank_sleeper": "WR74",
+      "pos_rank_sleeper": "WR76",
       "history": [
         {
           "date": "May 17",
@@ -3366,7 +3366,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR65",
-      "pos_rank_sleeper": "WR59",
+      "pos_rank_sleeper": "WR61",
       "history": [
         {
           "date": "May 17",
@@ -3402,7 +3402,7 @@
       "adp_espn": 177.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR70",
-      "pos_rank_sleeper": "WR72",
+      "pos_rank_sleeper": "WR74",
       "history": [
         {
           "date": "May 17",
@@ -3420,7 +3420,7 @@
       "adp_espn": 195.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB54",
-      "pos_rank_sleeper": "RB56",
+      "pos_rank_sleeper": "RB57",
       "history": [
         {
           "date": "May 17",
@@ -3456,7 +3456,7 @@
       "adp_espn": 232.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB66",
-      "pos_rank_sleeper": "RB37",
+      "pos_rank_sleeper": "RB38",
       "history": [
         {
           "date": "May 17",
@@ -3528,7 +3528,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB58",
-      "pos_rank_sleeper": "RB60",
+      "pos_rank_sleeper": "RB61",
       "history": [
         {
           "date": "May 17",
@@ -3546,7 +3546,7 @@
       "adp_espn": 307.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR74",
-      "pos_rank_sleeper": "WR71",
+      "pos_rank_sleeper": "WR73",
       "history": [
         {
           "date": "May 17",
@@ -3564,7 +3564,7 @@
       "adp_espn": 374.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR80",
-      "pos_rank_sleeper": "WR65",
+      "pos_rank_sleeper": "WR67",
       "history": [
         {
           "date": "May 17",
@@ -3582,7 +3582,7 @@
       "adp_espn": 233.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB64",
-      "pos_rank_sleeper": "RB53",
+      "pos_rank_sleeper": "RB54",
       "history": [
         {
           "date": "May 17",
@@ -3618,7 +3618,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB31",
-      "pos_rank_sleeper": "QB30",
+      "pos_rank_sleeper": "QB31",
       "history": [
         {
           "date": "May 17",
@@ -3654,7 +3654,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR86",
-      "pos_rank_sleeper": "WR67",
+      "pos_rank_sleeper": "WR69",
       "history": [
         {
           "date": "May 17",
@@ -3672,7 +3672,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR75",
-      "pos_rank_sleeper": "WR90",
+      "pos_rank_sleeper": "WR92",
       "history": [
         {
           "date": "May 17",
@@ -3690,7 +3690,7 @@
       "adp_espn": 313.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR73",
-      "pos_rank_sleeper": "WR86",
+      "pos_rank_sleeper": "WR88",
       "history": [
         {
           "date": "May 17",
@@ -3708,7 +3708,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR72",
-      "pos_rank_sleeper": "WR81",
+      "pos_rank_sleeper": "WR83",
       "history": [
         {
           "date": "May 17",
@@ -3744,7 +3744,7 @@
       "adp_espn": 194.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB60",
-      "pos_rank_sleeper": "RB51",
+      "pos_rank_sleeper": "RB52",
       "history": [
         {
           "date": "May 17",
@@ -3762,7 +3762,7 @@
       "adp_espn": 311.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR85",
-      "pos_rank_sleeper": "WR94",
+      "pos_rank_sleeper": "WR96",
       "history": [
         {
           "date": "May 17",
@@ -3780,7 +3780,7 @@
       "adp_espn": 281.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR78",
-      "pos_rank_sleeper": "WR77",
+      "pos_rank_sleeper": "WR79",
       "history": [
         {
           "date": "May 17",
@@ -3798,7 +3798,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB61",
-      "pos_rank_sleeper": "RB59",
+      "pos_rank_sleeper": "RB60",
       "history": [
         {
           "date": "May 17",
@@ -3834,7 +3834,7 @@
       "adp_espn": 214.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB62",
-      "pos_rank_sleeper": "RB63",
+      "pos_rank_sleeper": "RB64",
       "history": [
         {
           "date": "May 17",
@@ -3852,7 +3852,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR79",
-      "pos_rank_sleeper": "WR76",
+      "pos_rank_sleeper": "WR78",
       "history": [
         {
           "date": "May 17",
@@ -3870,7 +3870,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB34",
-      "pos_rank_sleeper": "QB28",
+      "pos_rank_sleeper": "QB29",
       "history": [
         {
           "date": "May 17",
@@ -3924,7 +3924,7 @@
       "adp_espn": 291.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR81",
-      "pos_rank_sleeper": "WR82",
+      "pos_rank_sleeper": "WR84",
       "history": [
         {
           "date": "May 17",
@@ -3942,7 +3942,7 @@
       "adp_espn": 331.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR89",
-      "pos_rank_sleeper": "WR64",
+      "pos_rank_sleeper": "WR66",
       "history": [
         {
           "date": "May 17",
@@ -3960,7 +3960,7 @@
       "adp_espn": 335.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR92",
-      "pos_rank_sleeper": "WR97",
+      "pos_rank_sleeper": "WR99",
       "history": [
         {
           "date": "May 17",
@@ -3978,7 +3978,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB33",
-      "pos_rank_sleeper": "QB29",
+      "pos_rank_sleeper": "QB30",
       "history": [
         {
           "date": "May 17",
@@ -3996,7 +3996,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB65",
-      "pos_rank_sleeper": "RB68",
+      "pos_rank_sleeper": "RB69",
       "history": [
         {
           "date": "May 17",
@@ -4032,7 +4032,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR88",
-      "pos_rank_sleeper": "WR98",
+      "pos_rank_sleeper": "WR100",
       "history": [
         {
           "date": "May 17",
@@ -4158,7 +4158,7 @@
       "adp_espn": 358.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB68",
-      "pos_rank_sleeper": "RB70",
+      "pos_rank_sleeper": "RB71",
       "history": [
         {
           "date": "May 17",
@@ -4194,7 +4194,7 @@
       "adp_espn": 338.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR93",
-      "pos_rank_sleeper": "WR68",
+      "pos_rank_sleeper": "WR70",
       "history": [
         {
           "date": "May 17",
@@ -4230,7 +4230,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR90",
-      "pos_rank_sleeper": "WR89",
+      "pos_rank_sleeper": "WR91",
       "history": [
         {
           "date": "May 17",
@@ -4266,7 +4266,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR104",
-      "pos_rank_sleeper": "WR69",
+      "pos_rank_sleeper": "WR71",
       "history": [
         {
           "date": "May 17",
@@ -4284,7 +4284,7 @@
       "adp_espn": 332.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR96",
-      "pos_rank_sleeper": "WR93",
+      "pos_rank_sleeper": "WR95",
       "history": [
         {
           "date": "May 17",
@@ -4302,7 +4302,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR77",
-      "pos_rank_sleeper": "WR84",
+      "pos_rank_sleeper": "WR86",
       "history": [
         {
           "date": "May 17",
@@ -4356,7 +4356,7 @@
       "adp_espn": 230.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR97",
-      "pos_rank_sleeper": "WR95",
+      "pos_rank_sleeper": "WR97",
       "history": [
         {
           "date": "May 17",
@@ -4374,7 +4374,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR84",
-      "pos_rank_sleeper": "WR88",
+      "pos_rank_sleeper": "WR90",
       "history": [
         {
           "date": "May 17",
@@ -4392,7 +4392,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB83",
-      "pos_rank_sleeper": "RB62",
+      "pos_rank_sleeper": "RB63",
       "history": [
         {
           "date": "May 5",
@@ -4454,7 +4454,7 @@
       "adp_espn": 362.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR87",
-      "pos_rank_sleeper": "WR87",
+      "pos_rank_sleeper": "WR89",
       "history": [
         {
           "date": "May 17",
@@ -4472,7 +4472,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB75",
-      "pos_rank_sleeper": "RB65",
+      "pos_rank_sleeper": "RB66",
       "history": [
         {
           "date": "May 17",
@@ -4490,7 +4490,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR95",
-      "pos_rank_sleeper": "WR73",
+      "pos_rank_sleeper": "WR75",
       "history": [
         {
           "date": "May 17",
@@ -4508,7 +4508,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR105",
-      "pos_rank_sleeper": "WR96",
+      "pos_rank_sleeper": "WR98",
       "history": [
         {
           "date": "May 17",
@@ -4544,7 +4544,7 @@
       "adp_espn": 347.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB81",
-      "pos_rank_sleeper": "RB66",
+      "pos_rank_sleeper": "RB67",
       "history": [
         {
           "date": "May 17",
@@ -4580,7 +4580,7 @@
       "adp_espn": 225.0,
       "adp_yahoo": null,
       "pos_rank_ud": "WR94",
-      "pos_rank_sleeper": "WR91",
+      "pos_rank_sleeper": "WR93",
       "history": [
         {
           "date": "May 17",
@@ -4598,7 +4598,7 @@
       "adp_espn": 354.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB98",
-      "pos_rank_sleeper": "RB45",
+      "pos_rank_sleeper": "RB46",
       "history": [
         {
           "date": "May 17",
@@ -4706,7 +4706,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB38",
-      "pos_rank_sleeper": "QB27",
+      "pos_rank_sleeper": "QB28",
       "history": [
         {
           "date": "May 17",
@@ -4760,7 +4760,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR108",
-      "pos_rank_sleeper": "WR92",
+      "pos_rank_sleeper": "WR94",
       "history": [
         {
           "date": "May 17",
@@ -4904,7 +4904,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR99",
-      "pos_rank_sleeper": "WR79",
+      "pos_rank_sleeper": "WR81",
       "history": [
         {
           "date": "May 17",
@@ -4994,7 +4994,7 @@
       "adp_espn": 355.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB93",
-      "pos_rank_sleeper": "RB67",
+      "pos_rank_sleeper": "RB68",
       "history": [
         {
           "date": "May 17",
@@ -5012,7 +5012,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR119",
-      "pos_rank_sleeper": "WR75",
+      "pos_rank_sleeper": "WR77",
       "history": [
         {
           "date": "May 17",
@@ -5210,7 +5210,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR111",
-      "pos_rank_sleeper": "WR83",
+      "pos_rank_sleeper": "WR85",
       "history": [
         {
           "date": "May 17",
@@ -5370,7 +5370,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB92",
-      "pos_rank_sleeper": "RB64",
+      "pos_rank_sleeper": "RB65",
       "history": [
         {
           "date": "May 17",
@@ -5388,7 +5388,7 @@
       "adp_espn": 350.0,
       "adp_yahoo": null,
       "pos_rank_ud": "RB87",
-      "pos_rank_sleeper": "RB69",
+      "pos_rank_sleeper": "RB70",
       "history": [
         {
           "date": "May 17",
@@ -5496,7 +5496,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR123",
-      "pos_rank_sleeper": "WR80",
+      "pos_rank_sleeper": "WR82",
       "history": [
         {
           "date": "May 17",
@@ -6152,7 +6152,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB106",
-      "pos_rank_sleeper": "RB71",
+      "pos_rank_sleeper": "RB72",
       "history": [
         {
           "date": "May 17",
@@ -6548,7 +6548,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB49",
-      "pos_rank_sleeper": "QB31",
+      "pos_rank_sleeper": "QB32",
       "history": [
         {
           "date": "May 17",
