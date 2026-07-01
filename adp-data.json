@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 14:33",
+  "updated": "2026-07-01 14:50",
   "source": "bestballteambuilder.com (Underdog) + FantasyFootballCalculator (half-PPR consensus)",
   "players": [
     {
@@ -8,7 +8,7 @@
       "pos": "RB",
       "adp": 1.2,
       "adp_ud": 1.2,
-      "adp_consensus": 5.12,
+      "adp_consensus": 5.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -16,10 +16,6 @@
       "pos_rank_consensus": "RB3",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 2.0
-        },
         {
           "date": "Jun 1",
           "adp": 2.0
@@ -134,6 +130,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 1.2
+        },
+        {
+          "date": "Jul 1",
           "adp": 1.2
         }
       ]
@@ -144,7 +144,7 @@
       "pos": "RB",
       "adp": 1.9,
       "adp_ud": 1.9,
-      "adp_consensus": 4.35,
+      "adp_consensus": 4.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -152,10 +152,6 @@
       "pos_rank_consensus": "RB2",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 1.0
-        },
         {
           "date": "Jun 1",
           "adp": 1.0
@@ -270,6 +266,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 1.9
+        },
+        {
+          "date": "Jul 1",
           "adp": 1.9
         }
       ]
@@ -280,7 +280,7 @@
       "pos": "WR",
       "adp": 3.1,
       "adp_ud": 3.1,
-      "adp_consensus": 5.44,
+      "adp_consensus": 5.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -288,10 +288,6 @@
       "pos_rank_consensus": "WR1",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 3.0
-        },
         {
           "date": "Jun 1",
           "adp": 3.0
@@ -406,6 +402,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 3.1
+        },
+        {
+          "date": "Jul 1",
           "adp": 3.1
         }
       ]
@@ -416,18 +416,14 @@
       "pos": "WR",
       "adp": 4.0,
       "adp_ud": 4.0,
-      "adp_consensus": 8.35,
+      "adp_consensus": 8.28,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR2",
-      "pos_rank_consensus": "WR4",
+      "pos_rank_consensus": "WR3",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 4.0
-        },
         {
           "date": "Jun 1",
           "adp": 4.0
@@ -543,6 +539,10 @@
         {
           "date": "Jun 30",
           "adp": 4.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 4.0
         }
       ]
     },
@@ -552,18 +552,14 @@
       "pos": "WR",
       "adp": 5.3,
       "adp_ud": 5.3,
-      "adp_consensus": 8.24,
+      "adp_consensus": 8.28,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR3",
-      "pos_rank_consensus": "WR3",
+      "pos_rank_consensus": "WR4",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 5.0
-        },
         {
           "date": "Jun 1",
           "adp": 5.0
@@ -679,6 +675,10 @@
         {
           "date": "Jun 30",
           "adp": 5.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 5.3
         }
       ]
     },
@@ -688,7 +688,7 @@
       "pos": "RB",
       "adp": 6.9,
       "adp_ud": 6.9,
-      "adp_consensus": 19.88,
+      "adp_consensus": 19.78,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -696,10 +696,6 @@
       "pos_rank_consensus": "RB6",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 6.0
-        },
         {
           "date": "Jun 1",
           "adp": 6.0
@@ -815,6 +811,10 @@
         {
           "date": "Jun 30",
           "adp": 6.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 6.9
         }
       ]
     },
@@ -832,10 +832,6 @@
       "pos_rank_consensus": "RB12",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 7.0
-        },
         {
           "date": "Jun 1",
           "adp": 7.0
@@ -951,6 +947,10 @@
         {
           "date": "Jun 30",
           "adp": 7.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 7.1
         }
       ]
     },
@@ -960,18 +960,14 @@
       "pos": "WR",
       "adp": 7.6,
       "adp_ud": 7.6,
-      "adp_consensus": 13.41,
+      "adp_consensus": 13.28,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR4",
-      "pos_rank_consensus": "WR8",
+      "pos_rank_consensus": "WR7",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 8.0
-        },
         {
           "date": "Jun 1",
           "adp": 8.0
@@ -1087,6 +1083,10 @@
         {
           "date": "Jun 30",
           "adp": 7.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 7.6
         }
       ]
     },
@@ -1096,18 +1096,14 @@
       "pos": "WR",
       "adp": 9.6,
       "adp_ud": 9.6,
-      "adp_consensus": 21.06,
+      "adp_consensus": 21.28,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR5",
-      "pos_rank_consensus": "WR11",
+      "pos_rank_consensus": "WR12",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 9.0
-        },
         {
           "date": "Jun 1",
           "adp": 9.0
@@ -1223,6 +1219,10 @@
         {
           "date": "Jun 30",
           "adp": 9.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 9.6
         }
       ]
     },
@@ -1232,7 +1232,7 @@
       "pos": "WR",
       "adp": 9.8,
       "adp_ud": 9.8,
-      "adp_consensus": 18.88,
+      "adp_consensus": 18.89,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1240,10 +1240,6 @@
       "pos_rank_consensus": "WR10",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 10.0
-        },
         {
           "date": "Jun 1",
           "adp": 10.0
@@ -1359,6 +1355,10 @@
         {
           "date": "Jun 30",
           "adp": 9.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 9.8
         }
       ]
     },
@@ -1368,7 +1368,7 @@
       "pos": "RB",
       "adp": 11.0,
       "adp_ud": 11.0,
-      "adp_consensus": 17.59,
+      "adp_consensus": 18.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1376,10 +1376,6 @@
       "pos_rank_consensus": "RB5",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 12.0
-        },
         {
           "date": "Jun 1",
           "adp": 12.0
@@ -1495,6 +1491,10 @@
         {
           "date": "Jun 30",
           "adp": 11.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 11.0
         }
       ]
     },
@@ -1504,7 +1504,7 @@
       "pos": "RB",
       "adp": 11.9,
       "adp_ud": 11.9,
-      "adp_consensus": 24.59,
+      "adp_consensus": 24.72,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1527,6 +1527,10 @@
         {
           "date": "Jun 30",
           "adp": 11.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 11.9
         }
       ]
     },
@@ -1536,7 +1540,7 @@
       "pos": "RB",
       "adp": 13.4,
       "adp_ud": 13.4,
-      "adp_consensus": 42.35,
+      "adp_consensus": 41.83,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1544,10 +1548,6 @@
       "pos_rank_consensus": "RB20",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 13.0
-        },
         {
           "date": "Jun 1",
           "adp": 13.0
@@ -1663,6 +1663,10 @@
         {
           "date": "Jun 30",
           "adp": 13.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 13.4
         }
       ]
     },
@@ -1672,7 +1676,7 @@
       "pos": "RB",
       "adp": 14.8,
       "adp_ud": 14.8,
-      "adp_consensus": 23.59,
+      "adp_consensus": 23.61,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1680,10 +1684,6 @@
       "pos_rank_consensus": "RB9",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 15.0
-        },
         {
           "date": "Jun 1",
           "adp": 15.0
@@ -1799,6 +1799,10 @@
         {
           "date": "Jun 30",
           "adp": 14.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 14.8
         }
       ]
     },
@@ -1808,7 +1812,7 @@
       "pos": "RB",
       "adp": 16.0,
       "adp_ud": 16.0,
-      "adp_consensus": 41.35,
+      "adp_consensus": 41.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1816,10 +1820,6 @@
       "pos_rank_consensus": "RB18",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 16.0
-        },
         {
           "date": "Jun 1",
           "adp": 16.0
@@ -1935,6 +1935,10 @@
         {
           "date": "Jun 30",
           "adp": 16.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 16.0
         }
       ]
     },
@@ -1944,7 +1948,7 @@
       "pos": "RB",
       "adp": 16.3,
       "adp_ud": 16.3,
-      "adp_consensus": 21.06,
+      "adp_consensus": 21.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -1952,10 +1956,6 @@
       "pos_rank_consensus": "RB7",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 14.0
-        },
         {
           "date": "Jun 1",
           "adp": 14.0
@@ -2071,6 +2071,10 @@
         {
           "date": "Jun 30",
           "adp": 16.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 16.3
         }
       ]
     },
@@ -2080,7 +2084,7 @@
       "pos": "RB",
       "adp": 17.0,
       "adp_ud": 17.0,
-      "adp_consensus": 38.06,
+      "adp_consensus": 37.47,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2088,10 +2092,6 @@
       "pos_rank_consensus": "RB16",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 18.0
-        },
         {
           "date": "Jun 1",
           "adp": 18.0
@@ -2206,6 +2206,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 17.0
+        },
+        {
+          "date": "Jul 1",
           "adp": 17.0
         }
       ]
@@ -2216,7 +2220,7 @@
       "pos": "RB",
       "adp": 17.7,
       "adp_ud": 17.7,
-      "adp_consensus": 60.41,
+      "adp_consensus": 59.39,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2224,10 +2228,6 @@
       "pos_rank_consensus": "RB25",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 17.0
-        },
         {
           "date": "Jun 1",
           "adp": 17.0
@@ -2343,6 +2343,10 @@
         {
           "date": "Jun 30",
           "adp": 17.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 17.7
         }
       ]
     },
@@ -2352,7 +2356,7 @@
       "pos": "WR",
       "adp": 18.9,
       "adp_ud": 18.9,
-      "adp_consensus": 24.94,
+      "adp_consensus": 25.5,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2360,10 +2364,6 @@
       "pos_rank_consensus": "WR15",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 19.0
-        },
         {
           "date": "Jun 1",
           "adp": 19.0
@@ -2479,6 +2479,10 @@
         {
           "date": "Jun 30",
           "adp": 18.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 18.9
         }
       ]
     },
@@ -2488,7 +2492,7 @@
       "pos": "WR",
       "adp": 19.3,
       "adp_ud": 19.3,
-      "adp_consensus": 42.53,
+      "adp_consensus": 42.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2496,10 +2500,6 @@
       "pos_rank_consensus": "WR27",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 25.0
-        },
         {
           "date": "Jun 1",
           "adp": 25.0
@@ -2615,6 +2615,10 @@
         {
           "date": "Jun 30",
           "adp": 19.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 19.3
         }
       ]
     },
@@ -2624,7 +2628,7 @@
       "pos": "TE",
       "adp": 20.5,
       "adp_ud": 20.5,
-      "adp_consensus": 15.12,
+      "adp_consensus": 14.72,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2632,10 +2636,6 @@
       "pos_rank_consensus": "TE2",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 20.0
-        },
         {
           "date": "Jun 1",
           "adp": 20.0
@@ -2751,6 +2751,10 @@
         {
           "date": "Jun 30",
           "adp": 20.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 20.5
         }
       ]
     },
@@ -2760,7 +2764,7 @@
       "pos": "WR",
       "adp": 22.2,
       "adp_ud": 22.2,
-      "adp_consensus": 37.88,
+      "adp_consensus": 37.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -2768,10 +2772,6 @@
       "pos_rank_consensus": "WR22",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 23.0
-        },
         {
           "date": "Jun 1",
           "adp": 23.0
@@ -2887,6 +2887,10 @@
         {
           "date": "Jun 30",
           "adp": 22.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 22.2
         }
       ]
     },
@@ -2896,18 +2900,14 @@
       "pos": "WR",
       "adp": 23.6,
       "adp_ud": 23.6,
-      "adp_consensus": 38.25,
+      "adp_consensus": 37.82,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR10",
-      "pos_rank_consensus": "WR24",
+      "pos_rank_consensus": "WR23",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 22.0
-        },
         {
           "date": "Jun 1",
           "adp": 22.0
@@ -3023,6 +3023,10 @@
         {
           "date": "Jun 30",
           "adp": 23.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 23.6
         }
       ]
     },
@@ -3032,7 +3036,7 @@
       "pos": "RB",
       "adp": 24.1,
       "adp_ud": 24.1,
-      "adp_consensus": 2.94,
+      "adp_consensus": 3.12,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3040,10 +3044,6 @@
       "pos_rank_consensus": "RB1",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 21.0
-        },
         {
           "date": "Jun 1",
           "adp": 21.0
@@ -3159,6 +3159,10 @@
         {
           "date": "Jun 30",
           "adp": 24.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 24.1
         }
       ]
     },
@@ -3168,7 +3172,7 @@
       "pos": "WR",
       "adp": 26.8,
       "adp_ud": 26.8,
-      "adp_consensus": 51.59,
+      "adp_consensus": 51.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3176,10 +3180,6 @@
       "pos_rank_consensus": "WR36",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 32.0
-        },
         {
           "date": "Jun 1",
           "adp": 32.0
@@ -3295,6 +3295,10 @@
         {
           "date": "Jun 30",
           "adp": 26.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 26.8
         }
       ]
     },
@@ -3304,7 +3308,7 @@
       "pos": "TE",
       "adp": 27.3,
       "adp_ud": 27.3,
-      "adp_consensus": 17.47,
+      "adp_consensus": 17.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3312,10 +3316,6 @@
       "pos_rank_consensus": "TE3",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 26.0
-        },
         {
           "date": "Jun 1",
           "adp": 26.0
@@ -3431,6 +3431,10 @@
         {
           "date": "Jun 30",
           "adp": 27.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 27.3
         }
       ]
     },
@@ -3440,7 +3444,7 @@
       "pos": "RB",
       "adp": 27.5,
       "adp_ud": 27.5,
-      "adp_consensus": 44.35,
+      "adp_consensus": 44.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3448,10 +3452,6 @@
       "pos_rank_consensus": "RB21",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 27.0
-        },
         {
           "date": "Jun 1",
           "adp": 27.0
@@ -3567,6 +3567,10 @@
         {
           "date": "Jun 30",
           "adp": 27.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 27.5
         }
       ]
     },
@@ -3576,7 +3580,7 @@
       "pos": "WR",
       "adp": 27.9,
       "adp_ud": 27.9,
-      "adp_consensus": 52.88,
+      "adp_consensus": 52.33,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3584,10 +3588,6 @@
       "pos_rank_consensus": "WR37",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 29.0
-        },
         {
           "date": "Jun 1",
           "adp": 30.0
@@ -3703,6 +3703,10 @@
         {
           "date": "Jun 30",
           "adp": 27.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 27.9
         }
       ]
     },
@@ -3712,7 +3716,7 @@
       "pos": "WR",
       "adp": 29.0,
       "adp_ud": 29.0,
-      "adp_consensus": 47.82,
+      "adp_consensus": 48.44,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3720,10 +3724,6 @@
       "pos_rank_consensus": "WR32",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 30.0
-        },
         {
           "date": "Jun 1",
           "adp": 29.0
@@ -3839,6 +3839,10 @@
         {
           "date": "Jun 30",
           "adp": 29.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 29.0
         }
       ]
     },
@@ -3856,10 +3860,6 @@
       "pos_rank_consensus": "RB29",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 28.0
-        },
         {
           "date": "Jun 1",
           "adp": 28.0
@@ -3975,6 +3975,10 @@
         {
           "date": "Jun 30",
           "adp": 30.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 30.4
         }
       ]
     },
@@ -3984,7 +3988,7 @@
       "pos": "WR",
       "adp": 31.5,
       "adp_ud": 31.5,
-      "adp_consensus": 58.18,
+      "adp_consensus": 57.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -3992,10 +3996,6 @@
       "pos_rank_consensus": "WR40",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 36.0
-        },
         {
           "date": "Jun 1",
           "adp": 36.0
@@ -4111,6 +4111,10 @@
         {
           "date": "Jun 30",
           "adp": 31.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 31.5
         }
       ]
     },
@@ -4128,10 +4132,6 @@
       "pos_rank_consensus": "RB23",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 33.0
-        },
         {
           "date": "Jun 1",
           "adp": 33.0
@@ -4247,6 +4247,10 @@
         {
           "date": "Jun 30",
           "adp": 31.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 31.8
         }
       ]
     },
@@ -4264,10 +4268,6 @@
       "pos_rank_consensus": "WR45",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 34.0
-        },
         {
           "date": "Jun 1",
           "adp": 34.0
@@ -4383,6 +4383,10 @@
         {
           "date": "Jun 30",
           "adp": 33.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 33.6
         }
       ]
     },
@@ -4400,10 +4404,6 @@
       "pos_rank_consensus": "WR17",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 24.0
-        },
         {
           "date": "Jun 1",
           "adp": 24.0
@@ -4519,6 +4519,10 @@
         {
           "date": "Jun 30",
           "adp": 34.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 34.0
         }
       ]
     },
@@ -4528,7 +4532,7 @@
       "pos": "QB",
       "adp": 34.9,
       "adp_ud": 34.9,
-      "adp_consensus": 2.29,
+      "adp_consensus": 2.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4536,10 +4540,6 @@
       "pos_rank_consensus": "QB1",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 31.0
-        },
         {
           "date": "Jun 1",
           "adp": 31.0
@@ -4655,6 +4655,10 @@
         {
           "date": "Jun 30",
           "adp": 34.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 34.9
         }
       ]
     },
@@ -4664,7 +4668,7 @@
       "pos": "RB",
       "adp": 35.8,
       "adp_ud": 35.8,
-      "adp_consensus": 65.17,
+      "adp_consensus": 64.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -4672,10 +4676,6 @@
       "pos_rank_consensus": "RB28",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 35.0
-        },
         {
           "date": "Jun 1",
           "adp": 35.0
@@ -4791,6 +4791,10 @@
         {
           "date": "Jun 30",
           "adp": 35.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 35.8
         }
       ]
     },
@@ -4808,10 +4812,6 @@
       "pos_rank_consensus": "WR38",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 41.0
-        },
         {
           "date": "Jun 1",
           "adp": 41.0
@@ -4927,6 +4927,10 @@
         {
           "date": "Jun 30",
           "adp": 36.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 36.3
         }
       ]
     },
@@ -4941,13 +4945,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR18",
-      "pos_rank_consensus": "WR23",
+      "pos_rank_consensus": "WR24",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 38.0
-        },
         {
           "date": "Jun 1",
           "adp": 38.0
@@ -5063,6 +5063,10 @@
         {
           "date": "Jun 30",
           "adp": 38.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 38.6
         }
       ]
     },
@@ -5072,18 +5076,14 @@
       "pos": "WR",
       "adp": 38.6,
       "adp_ud": 38.6,
-      "adp_consensus": 43.18,
+      "adp_consensus": 43.83,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR19",
-      "pos_rank_consensus": "WR28",
+      "pos_rank_consensus": "WR29",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 40.0
-        },
         {
           "date": "Jun 1",
           "adp": 40.0
@@ -5199,6 +5199,10 @@
         {
           "date": "Jun 30",
           "adp": 38.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 38.6
         }
       ]
     },
@@ -5208,7 +5212,7 @@
       "pos": "WR",
       "adp": 39.2,
       "adp_ud": 39.2,
-      "adp_consensus": 48.41,
+      "adp_consensus": 48.89,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5216,10 +5220,6 @@
       "pos_rank_consensus": "WR33",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 39.0
-        },
         {
           "date": "Jun 1",
           "adp": 39.0
@@ -5335,6 +5335,10 @@
         {
           "date": "Jun 30",
           "adp": 39.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 39.2
         }
       ]
     },
@@ -5344,18 +5348,14 @@
       "pos": "RB",
       "adp": 40.6,
       "adp_ud": 40.6,
-      "adp_consensus": 73.07,
+      "adp_consensus": 71.29,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB18",
-      "pos_rank_consensus": "RB32",
+      "pos_rank_consensus": "RB31",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 37.0
-        },
         {
           "date": "Jun 1",
           "adp": 37.0
@@ -5471,6 +5471,10 @@
         {
           "date": "Jun 30",
           "adp": 40.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 40.6
         }
       ]
     },
@@ -5503,6 +5507,10 @@
         {
           "date": "Jun 30",
           "adp": 42.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 42.4
         }
       ]
     },
@@ -5512,18 +5520,14 @@
       "pos": "RB",
       "adp": 43.8,
       "adp_ud": 43.8,
-      "adp_consensus": 63.47,
+      "adp_consensus": 62.72,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB19",
-      "pos_rank_consensus": "RB27",
+      "pos_rank_consensus": "RB26",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 43.0
-        },
         {
           "date": "Jun 1",
           "adp": 43.0
@@ -5639,6 +5643,10 @@
         {
           "date": "Jun 30",
           "adp": 43.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 43.8
         }
       ]
     },
@@ -5648,7 +5656,7 @@
       "pos": "WR",
       "adp": 44.3,
       "adp_ud": 44.3,
-      "adp_consensus": 106.46,
+      "adp_consensus": 107.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5656,10 +5664,6 @@
       "pos_rank_consensus": "WR60",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 44.0
-        },
         {
           "date": "Jun 1",
           "adp": 44.0
@@ -5775,6 +5779,10 @@
         {
           "date": "Jun 30",
           "adp": 44.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 44.3
         }
       ]
     },
@@ -5784,18 +5792,14 @@
       "pos": "WR",
       "adp": 44.6,
       "adp_ud": 44.6,
-      "adp_consensus": 86.19,
+      "adp_consensus": 85.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR23",
-      "pos_rank_consensus": "WR55",
+      "pos_rank_consensus": "WR53",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 47.0
-        },
         {
           "date": "Jun 1",
           "adp": 47.0
@@ -5911,6 +5915,10 @@
         {
           "date": "Jun 30",
           "adp": 44.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 44.6
         }
       ]
     },
@@ -5920,7 +5928,7 @@
       "pos": "TE",
       "adp": 46.1,
       "adp_ud": 46.1,
-      "adp_consensus": 27.31,
+      "adp_consensus": 27.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -5928,10 +5936,6 @@
       "pos_rank_consensus": "TE5",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 45.0
-        },
         {
           "date": "Jun 1",
           "adp": 45.0
@@ -6047,6 +6051,10 @@
         {
           "date": "Jun 30",
           "adp": 46.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 46.1
         }
       ]
     },
@@ -6056,7 +6064,7 @@
       "pos": "WR",
       "adp": 47.0,
       "adp_ud": 47.0,
-      "adp_consensus": 76.12,
+      "adp_consensus": 74.82,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6064,10 +6072,6 @@
       "pos_rank_consensus": "WR49",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 51.0
-        },
         {
           "date": "Jun 1",
           "adp": 51.0
@@ -6183,6 +6187,10 @@
         {
           "date": "Jun 30",
           "adp": 47.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 47.0
         }
       ]
     },
@@ -6192,7 +6200,7 @@
       "pos": "WR",
       "adp": 48.9,
       "adp_ud": 48.9,
-      "adp_consensus": 75.44,
+      "adp_consensus": 73.67,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6200,10 +6208,6 @@
       "pos_rank_consensus": "WR48",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 46.0
-        },
         {
           "date": "Jun 1",
           "adp": 46.0
@@ -6319,6 +6323,10 @@
         {
           "date": "Jun 30",
           "adp": 48.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 48.9
         }
       ]
     },
@@ -6328,7 +6336,7 @@
       "pos": "RB",
       "adp": 49.0,
       "adp_ud": 49.0,
-      "adp_consensus": 94.0,
+      "adp_consensus": 90.69,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -6336,10 +6344,6 @@
       "pos_rank_consensus": "RB36",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 49.0
-        },
         {
           "date": "Jun 1",
           "adp": 49.0
@@ -6455,6 +6459,10 @@
         {
           "date": "Jun 30",
           "adp": 49.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 49.0
         }
       ]
     },
@@ -6464,18 +6472,14 @@
       "pos": "WR",
       "adp": 50.4,
       "adp_ud": 50.4,
-      "adp_consensus": 83.47,
+      "adp_consensus": 89.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR26",
-      "pos_rank_consensus": "WR52",
+      "pos_rank_consensus": "WR55",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 52.0
-        },
         {
           "date": "Jun 1",
           "adp": 52.0
@@ -6591,6 +6595,10 @@
         {
           "date": "Jun 30",
           "adp": 50.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 50.4
         }
       ]
     },
@@ -6600,18 +6608,14 @@
       "pos": "RB",
       "adp": 51.5,
       "adp_ud": 51.5,
-      "adp_consensus": 63.06,
+      "adp_consensus": 63.24,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB21",
-      "pos_rank_consensus": "RB26",
+      "pos_rank_consensus": "RB27",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 48.0
-        },
         {
           "date": "Jun 1",
           "adp": 48.0
@@ -6727,6 +6731,10 @@
         {
           "date": "Jun 30",
           "adp": 51.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 51.5
         }
       ]
     },
@@ -6736,18 +6744,14 @@
       "pos": "RB",
       "adp": 51.6,
       "adp_ud": 51.6,
-      "adp_consensus": 83.33,
+      "adp_consensus": 84.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB22",
-      "pos_rank_consensus": "RB35",
+      "pos_rank_consensus": "RB34",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 53.0
-        },
         {
           "date": "Jun 1",
           "adp": 53.0
@@ -6863,6 +6867,10 @@
         {
           "date": "Jun 30",
           "adp": 51.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 51.6
         }
       ]
     },
@@ -6877,13 +6885,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB23",
-      "pos_rank_consensus": "RB31",
+      "pos_rank_consensus": "RB32",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 50.0
-        },
         {
           "date": "Jun 1",
           "adp": 50.0
@@ -6999,6 +7003,10 @@
         {
           "date": "Jun 30",
           "adp": 54.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 54.1
         }
       ]
     },
@@ -7017,10 +7025,6 @@
       "pos_rank_sleeper": null,
       "history": [
         {
-          "date": "May 31",
-          "adp": 55.0
-        },
-        {
           "date": "Jun 1",
           "adp": 55.0
         },
@@ -7135,6 +7139,10 @@
         {
           "date": "Jun 30",
           "adp": 54.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 54.6
         }
       ]
     },
@@ -7144,12 +7152,12 @@
       "pos": "WR",
       "adp": 55.4,
       "adp_ud": 55.4,
-      "adp_consensus": 83.38,
+      "adp_consensus": 84.22,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR27",
-      "pos_rank_consensus": "WR51",
+      "pos_rank_consensus": "WR52",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -7167,6 +7175,10 @@
         {
           "date": "Jun 30",
           "adp": 55.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 55.4
         }
       ]
     },
@@ -7176,7 +7188,7 @@
       "pos": "QB",
       "adp": 55.8,
       "adp_ud": 55.8,
-      "adp_consensus": 15.22,
+      "adp_consensus": 14.63,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7184,10 +7196,6 @@
       "pos_rank_consensus": "QB4",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 56.0
-        },
         {
           "date": "Jun 1",
           "adp": 56.0
@@ -7302,6 +7310,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 55.8
+        },
+        {
+          "date": "Jul 1",
           "adp": 55.8
         }
       ]
@@ -7312,18 +7324,14 @@
       "pos": "RB",
       "adp": 56.0,
       "adp_ud": 56.0,
-      "adp_consensus": 82.47,
+      "adp_consensus": 81.56,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB25",
-      "pos_rank_consensus": "RB34",
+      "pos_rank_consensus": "RB33",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 61.0
-        },
         {
           "date": "Jun 1",
           "adp": 61.0
@@ -7439,6 +7447,10 @@
         {
           "date": "Jun 30",
           "adp": 56.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 56.0
         }
       ]
     },
@@ -7448,18 +7460,14 @@
       "pos": "WR",
       "adp": 56.6,
       "adp_ud": 56.6,
-      "adp_consensus": 85.73,
+      "adp_consensus": 83.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR28",
-      "pos_rank_consensus": "WR53",
+      "pos_rank_consensus": "WR51",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 59.0
-        },
         {
           "date": "Jun 1",
           "adp": 59.0
@@ -7575,6 +7583,10 @@
         {
           "date": "Jun 30",
           "adp": 56.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 56.6
         }
       ]
     },
@@ -7584,7 +7596,7 @@
       "pos": "WR",
       "adp": 59.3,
       "adp_ud": 59.3,
-      "adp_consensus": 71.82,
+      "adp_consensus": 71.44,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7592,10 +7604,6 @@
       "pos_rank_consensus": "WR47",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 57.0
-        },
         {
           "date": "Jun 1",
           "adp": 57.0
@@ -7711,6 +7719,10 @@
         {
           "date": "Jun 30",
           "adp": 59.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 59.3
         }
       ]
     },
@@ -7720,7 +7732,7 @@
       "pos": "WR",
       "adp": 59.7,
       "adp_ud": 59.7,
-      "adp_consensus": 6.39,
+      "adp_consensus": 6.46,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7728,10 +7740,6 @@
       "pos_rank_consensus": "WR2",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 60.0
-        },
         {
           "date": "Jun 1",
           "adp": 60.0
@@ -7847,6 +7855,10 @@
         {
           "date": "Jun 30",
           "adp": 59.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 59.7
         }
       ]
     },
@@ -7856,7 +7868,7 @@
       "pos": "WR",
       "adp": 61.0,
       "adp_ud": 61.0,
-      "adp_consensus": 66.82,
+      "adp_consensus": 66.67,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7879,6 +7891,10 @@
         {
           "date": "Jun 30",
           "adp": 61.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 61.0
         }
       ]
     },
@@ -7888,7 +7904,7 @@
       "pos": "RB",
       "adp": 61.7,
       "adp_ud": 61.7,
-      "adp_consensus": 9.0,
+      "adp_consensus": 9.17,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -7896,10 +7912,6 @@
       "pos_rank_consensus": "RB4",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 58.0
-        },
         {
           "date": "Jun 1",
           "adp": 58.0
@@ -8015,6 +8027,10 @@
         {
           "date": "Jun 30",
           "adp": 61.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 61.7
         }
       ]
     },
@@ -8024,7 +8040,7 @@
       "pos": "WR",
       "adp": 63.6,
       "adp_ud": 63.6,
-      "adp_consensus": 9.61,
+      "adp_consensus": 9.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8032,10 +8048,6 @@
       "pos_rank_consensus": "WR5",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 62.0
-        },
         {
           "date": "Jun 1",
           "adp": 62.0
@@ -8151,6 +8163,10 @@
         {
           "date": "Jun 30",
           "adp": 63.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 63.6
         }
       ]
     },
@@ -8160,18 +8176,14 @@
       "pos": "TE",
       "adp": 64.7,
       "adp_ud": 64.7,
-      "adp_consensus": 39.94,
+      "adp_consensus": 41.17,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE4",
-      "pos_rank_consensus": "TE6",
+      "pos_rank_consensus": "TE7",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 65.0
-        },
         {
           "date": "Jun 1",
           "adp": 65.0
@@ -8287,6 +8299,10 @@
         {
           "date": "Jun 30",
           "adp": 64.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 64.7
         }
       ]
     },
@@ -8296,7 +8312,7 @@
       "pos": "QB",
       "adp": 66.0,
       "adp_ud": 66.0,
-      "adp_consensus": 20.0,
+      "adp_consensus": 21.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8304,10 +8320,6 @@
       "pos_rank_consensus": "QB6",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 63.0
-        },
         {
           "date": "Jun 1",
           "adp": 63.0
@@ -8423,6 +8435,10 @@
         {
           "date": "Jun 30",
           "adp": 66.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 66.0
         }
       ]
     },
@@ -8432,7 +8448,7 @@
       "pos": "QB",
       "adp": 66.9,
       "adp_ud": 66.9,
-      "adp_consensus": 16.4,
+      "adp_consensus": 20.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8440,10 +8456,6 @@
       "pos_rank_consensus": "QB5",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 66.0
-        },
         {
           "date": "Jun 1",
           "adp": 66.0
@@ -8559,6 +8571,10 @@
         {
           "date": "Jun 30",
           "adp": 66.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 66.9
         }
       ]
     },
@@ -8568,7 +8584,7 @@
       "pos": "WR",
       "adp": 67.8,
       "adp_ud": 67.8,
-      "adp_consensus": 78.44,
+      "adp_consensus": 78.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8591,6 +8607,10 @@
         {
           "date": "Jun 30",
           "adp": 67.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 67.8
         }
       ]
     },
@@ -8600,7 +8620,7 @@
       "pos": "QB",
       "adp": 68.1,
       "adp_ud": 68.1,
-      "adp_consensus": 9.75,
+      "adp_consensus": 9.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8608,10 +8628,6 @@
       "pos_rank_consensus": "QB2",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 71.0
-        },
         {
           "date": "Jun 1",
           "adp": 71.0
@@ -8727,6 +8743,10 @@
         {
           "date": "Jun 30",
           "adp": 68.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 68.1
         }
       ]
     },
@@ -8736,18 +8756,14 @@
       "pos": "WR",
       "adp": 68.4,
       "adp_ud": 68.4,
-      "adp_consensus": 100.13,
+      "adp_consensus": 102.61,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR34",
-      "pos_rank_consensus": "WR57",
+      "pos_rank_consensus": "WR59",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 73.0
-        },
         {
           "date": "Jun 1",
           "adp": 72.0
@@ -8863,6 +8879,10 @@
         {
           "date": "Jun 30",
           "adp": 68.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 68.4
         }
       ]
     },
@@ -8872,7 +8892,7 @@
       "pos": "QB",
       "adp": 71.0,
       "adp_ud": 71.0,
-      "adp_consensus": 22.47,
+      "adp_consensus": 25.26,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -8880,10 +8900,6 @@
       "pos_rank_consensus": "QB7",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 70.0
-        },
         {
           "date": "Jun 1",
           "adp": 69.0
@@ -8999,6 +9015,10 @@
         {
           "date": "Jun 30",
           "adp": 71.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 71.0
         }
       ]
     },
@@ -9008,7 +9028,7 @@
       "pos": "QB",
       "adp": 71.9,
       "adp_ud": 71.9,
-      "adp_consensus": 29.13,
+      "adp_consensus": 32.78,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9016,10 +9036,6 @@
       "pos_rank_consensus": "QB9",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 69.0
-        },
         {
           "date": "Jun 1",
           "adp": 70.0
@@ -9135,6 +9151,10 @@
         {
           "date": "Jun 30",
           "adp": 71.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 71.9
         }
       ]
     },
@@ -9144,7 +9164,7 @@
       "pos": "WR",
       "adp": 72.7,
       "adp_ud": 72.7,
-      "adp_consensus": 10.52,
+      "adp_consensus": 10.4,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9152,10 +9172,6 @@
       "pos_rank_consensus": "WR6",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 74.0
-        },
         {
           "date": "Jun 1",
           "adp": 74.0
@@ -9271,6 +9287,10 @@
         {
           "date": "Jun 30",
           "adp": 72.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 72.7
         }
       ]
     },
@@ -9280,7 +9300,7 @@
       "pos": "RB",
       "adp": 73.6,
       "adp_ud": 73.6,
-      "adp_consensus": 99.54,
+      "adp_consensus": 104.5,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9288,10 +9308,6 @@
       "pos_rank_consensus": "RB37",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 68.0
-        },
         {
           "date": "Jun 1",
           "adp": 68.0
@@ -9407,6 +9423,10 @@
         {
           "date": "Jun 30",
           "adp": 73.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 73.6
         }
       ]
     },
@@ -9416,7 +9436,7 @@
       "pos": "RB",
       "adp": 74.3,
       "adp_ud": 74.3,
-      "adp_consensus": 109.71,
+      "adp_consensus": 110.12,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9424,10 +9444,6 @@
       "pos_rank_consensus": "RB39",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 78.0
-        },
         {
           "date": "Jun 1",
           "adp": 77.0
@@ -9543,6 +9559,10 @@
         {
           "date": "Jun 30",
           "adp": 74.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 74.3
         }
       ]
     },
@@ -9552,7 +9572,7 @@
       "pos": "RB",
       "adp": 75.7,
       "adp_ud": 75.7,
-      "adp_consensus": 125.0,
+      "adp_consensus": 125.4,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9560,10 +9580,6 @@
       "pos_rank_consensus": "RB46",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 75.0
-        },
         {
           "date": "Jun 1",
           "adp": 75.0
@@ -9679,6 +9695,10 @@
         {
           "date": "Jun 30",
           "adp": 75.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 75.7
         }
       ]
     },
@@ -9688,7 +9708,7 @@
       "pos": "RB",
       "adp": 76.1,
       "adp_ud": 76.1,
-      "adp_consensus": 115.53,
+      "adp_consensus": 112.69,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -9696,10 +9716,6 @@
       "pos_rank_consensus": "RB42",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 77.0
-        },
         {
           "date": "Jun 1",
           "adp": 78.0
@@ -9815,6 +9831,10 @@
         {
           "date": "Jun 30",
           "adp": 76.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 76.1
         }
       ]
     },
@@ -9824,18 +9844,14 @@
       "pos": "WR",
       "adp": 76.1,
       "adp_ud": 76.1,
-      "adp_consensus": 106.13,
+      "adp_consensus": 102.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR36",
-      "pos_rank_consensus": "WR59",
+      "pos_rank_consensus": "WR58",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 76.0
-        },
         {
           "date": "Jun 1",
           "adp": 76.0
@@ -9951,6 +9967,10 @@
         {
           "date": "Jun 30",
           "adp": 76.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 76.1
         }
       ]
     },
@@ -9965,13 +9985,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR37",
-      "pos_rank_consensus": "WR63",
+      "pos_rank_consensus": "WR64",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 92.0
-        },
         {
           "date": "Jun 1",
           "adp": 92.0
@@ -10087,6 +10103,10 @@
         {
           "date": "Jun 30",
           "adp": 77.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 77.9
         }
       ]
     },
@@ -10096,7 +10116,7 @@
       "pos": "WR",
       "adp": 79.2,
       "adp_ud": 79.2,
-      "adp_consensus": 85.73,
+      "adp_consensus": 86.11,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -10104,10 +10124,6 @@
       "pos_rank_consensus": "WR54",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 72.0
-        },
         {
           "date": "Jun 1",
           "adp": 73.0
@@ -10223,6 +10239,10 @@
         {
           "date": "Jun 30",
           "adp": 79.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 79.2
         }
       ]
     },
@@ -10232,18 +10252,14 @@
       "pos": "QB",
       "adp": 80.6,
       "adp_ud": 80.6,
-      "adp_consensus": 41.88,
+      "adp_consensus": 40.71,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB8",
-      "pos_rank_consensus": "QB15",
+      "pos_rank_consensus": "QB12",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 79.0
-        },
         {
           "date": "Jun 1",
           "adp": 79.0
@@ -10359,6 +10375,10 @@
         {
           "date": "Jun 30",
           "adp": 80.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 80.6
         }
       ]
     },
@@ -10368,18 +10388,14 @@
       "pos": "WR",
       "adp": 81.8,
       "adp_ud": 81.8,
-      "adp_consensus": 117.29,
+      "adp_consensus": 114.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR39",
-      "pos_rank_consensus": "WR64",
+      "pos_rank_consensus": "WR63",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 80.0
-        },
         {
           "date": "Jun 1",
           "adp": 80.0
@@ -10494,6 +10510,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 81.8
+        },
+        {
+          "date": "Jul 1",
           "adp": 81.8
         }
       ]
@@ -10504,7 +10524,7 @@
       "pos": "QB",
       "adp": 81.9,
       "adp_ud": 81.9,
-      "adp_consensus": 28.12,
+      "adp_consensus": 30.44,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -10512,10 +10532,6 @@
       "pos_rank_consensus": "QB8",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 83.0
-        },
         {
           "date": "Jun 1",
           "adp": 83.0
@@ -10631,6 +10647,10 @@
         {
           "date": "Jun 30",
           "adp": 81.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 81.9
         }
       ]
     },
@@ -10640,7 +10660,7 @@
       "pos": "TE",
       "adp": 82.7,
       "adp_ud": 82.7,
-      "adp_consensus": 66.25,
+      "adp_consensus": 67.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -10648,10 +10668,6 @@
       "pos_rank_consensus": "TE12",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 81.0
-        },
         {
           "date": "Jun 1",
           "adp": 81.0
@@ -10767,6 +10783,10 @@
         {
           "date": "Jun 30",
           "adp": 82.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 82.7
         }
       ]
     },
@@ -10781,13 +10801,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR40",
-      "pos_rank_consensus": "WR73",
+      "pos_rank_consensus": "WR71",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 82.0
-        },
         {
           "date": "Jun 1",
           "adp": 82.0
@@ -10903,6 +10919,10 @@
         {
           "date": "Jun 30",
           "adp": 84.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 84.1
         }
       ]
     },
@@ -10912,18 +10932,14 @@
       "pos": "QB",
       "adp": 85.6,
       "adp_ud": 85.6,
-      "adp_consensus": 36.75,
+      "adp_consensus": 41.11,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB10",
-      "pos_rank_consensus": "QB10",
+      "pos_rank_consensus": "QB14",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 86.0
-        },
         {
           "date": "Jun 1",
           "adp": 86.0
@@ -11039,6 +11055,10 @@
         {
           "date": "Jun 30",
           "adp": 85.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 85.6
         }
       ]
     },
@@ -11048,7 +11068,7 @@
       "pos": "RB",
       "adp": 86.6,
       "adp_ud": 86.6,
-      "adp_consensus": 114.14,
+      "adp_consensus": 112.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -11056,10 +11076,6 @@
       "pos_rank_consensus": "RB41",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 84.0
-        },
         {
           "date": "Jun 1",
           "adp": 84.0
@@ -11175,6 +11191,10 @@
         {
           "date": "Jun 30",
           "adp": 86.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 86.6
         }
       ]
     },
@@ -11184,18 +11204,14 @@
       "pos": "WR",
       "adp": 87.6,
       "adp_ud": 87.6,
-      "adp_consensus": 103.53,
+      "adp_consensus": 102.25,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR41",
-      "pos_rank_consensus": "WR58",
+      "pos_rank_consensus": "WR57",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 85.0
-        },
         {
           "date": "Jun 1",
           "adp": 85.0
@@ -11311,6 +11327,10 @@
         {
           "date": "Jun 30",
           "adp": 87.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 87.6
         }
       ]
     },
@@ -11325,13 +11345,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB32",
-      "pos_rank_consensus": "RB50",
+      "pos_rank_consensus": "RB48",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 87.0
-        },
         {
           "date": "Jun 1",
           "adp": 87.0
@@ -11447,6 +11463,10 @@
         {
           "date": "Jun 30",
           "adp": 88.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 88.2
         }
       ]
     },
@@ -11479,6 +11499,10 @@
         {
           "date": "Jun 30",
           "adp": 88.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 88.5
         }
       ]
     },
@@ -11488,7 +11512,7 @@
       "pos": "QB",
       "adp": 90.6,
       "adp_ud": 90.6,
-      "adp_consensus": 37.06,
+      "adp_consensus": 38.83,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -11511,6 +11535,10 @@
         {
           "date": "Jun 30",
           "adp": 90.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 90.6
         }
       ]
     },
@@ -11528,10 +11556,6 @@
       "pos_rank_consensus": "WR61",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 99.0
-        },
         {
           "date": "Jun 1",
           "adp": 98.0
@@ -11647,6 +11671,10 @@
         {
           "date": "Jun 30",
           "adp": 91.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 91.2
         }
       ]
     },
@@ -11664,10 +11692,6 @@
       "pos_rank_consensus": "RB38",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 91.0
-        },
         {
           "date": "Jun 1",
           "adp": 91.0
@@ -11783,6 +11807,10 @@
         {
           "date": "Jun 30",
           "adp": 92.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 92.6
         }
       ]
     },
@@ -11792,18 +11820,14 @@
       "pos": "RB",
       "adp": 92.9,
       "adp_ud": 92.9,
-      "adp_consensus": 124.29,
+      "adp_consensus": 128.33,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB34",
-      "pos_rank_consensus": "RB45",
+      "pos_rank_consensus": "RB49",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 94.0
-        },
         {
           "date": "Jun 1",
           "adp": 94.0
@@ -11919,6 +11943,10 @@
         {
           "date": "Jun 30",
           "adp": 92.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 92.9
         }
       ]
     },
@@ -11933,13 +11961,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR44",
-      "pos_rank_consensus": "WR68",
+      "pos_rank_consensus": "WR67",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 101.0
-        },
         {
           "date": "Jun 1",
           "adp": 101.0
@@ -12055,6 +12079,10 @@
         {
           "date": "Jun 30",
           "adp": 94.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 94.6
         }
       ]
     },
@@ -12064,7 +12092,7 @@
       "pos": "WR",
       "adp": 95.9,
       "adp_ud": 95.9,
-      "adp_consensus": 96.71,
+      "adp_consensus": 101.62,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -12072,10 +12100,6 @@
       "pos_rank_consensus": "WR56",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 89.0
-        },
         {
           "date": "Jun 1",
           "adp": 90.0
@@ -12191,6 +12215,10 @@
         {
           "date": "Jun 30",
           "adp": 95.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 95.9
         }
       ]
     },
@@ -12200,7 +12228,7 @@
       "pos": "QB",
       "adp": 96.3,
       "adp_ud": 96.3,
-      "adp_consensus": 46.69,
+      "adp_consensus": 45.82,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -12208,10 +12236,6 @@
       "pos_rank_consensus": "QB16",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 98.0
-        },
         {
           "date": "Jun 1",
           "adp": 97.0
@@ -12327,6 +12351,10 @@
         {
           "date": "Jun 30",
           "adp": 96.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 96.3
         }
       ]
     },
@@ -12336,7 +12364,7 @@
       "pos": "TE",
       "adp": 97.0,
       "adp_ud": 97.0,
-      "adp_consensus": 71.4,
+      "adp_consensus": 71.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -12344,10 +12372,6 @@
       "pos_rank_consensus": "TE14",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 96.0
-        },
         {
           "date": "Jun 1",
           "adp": 96.0
@@ -12463,6 +12487,10 @@
         {
           "date": "Jun 30",
           "adp": 97.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 97.0
         }
       ]
     },
@@ -12472,7 +12500,7 @@
       "pos": "QB",
       "adp": 99.1,
       "adp_ud": 99.1,
-      "adp_consensus": 37.31,
+      "adp_consensus": 40.79,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -12480,10 +12508,6 @@
       "pos_rank_consensus": "QB13",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 93.0
-        },
         {
           "date": "Jun 1",
           "adp": 93.0
@@ -12599,6 +12623,10 @@
         {
           "date": "Jun 30",
           "adp": 99.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 99.1
         }
       ]
     },
@@ -12616,10 +12644,6 @@
       "pos_rank_consensus": "RB47",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 103.0
-        },
         {
           "date": "Jun 1",
           "adp": 103.0
@@ -12735,6 +12759,10 @@
         {
           "date": "Jun 30",
           "adp": 99.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 99.9
         }
       ]
     },
@@ -12744,18 +12772,14 @@
       "pos": "WR",
       "adp": 100.5,
       "adp_ud": 100.5,
-      "adp_consensus": 114.64,
+      "adp_consensus": 117.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR46",
-      "pos_rank_consensus": "WR62",
+      "pos_rank_consensus": "WR65",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 100.0
-        },
         {
           "date": "Jun 1",
           "adp": 100.0
@@ -12871,6 +12895,10 @@
         {
           "date": "Jun 30",
           "adp": 100.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 100.5
         }
       ]
     },
@@ -12888,10 +12916,6 @@
       "pos_rank_consensus": "WR74",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 97.0
-        },
         {
           "date": "Jun 1",
           "adp": 99.0
@@ -13007,6 +13031,10 @@
         {
           "date": "Jun 30",
           "adp": 102.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 102.5
         }
       ]
     },
@@ -13016,18 +13044,14 @@
       "pos": "WR",
       "adp": 102.8,
       "adp_ud": 102.8,
-      "adp_consensus": 123.86,
+      "adp_consensus": 127.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR48",
-      "pos_rank_consensus": "WR67",
+      "pos_rank_consensus": "WR68",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 106.0
-        },
         {
           "date": "Jun 1",
           "adp": 106.0
@@ -13143,6 +13167,10 @@
         {
           "date": "Jun 30",
           "adp": 102.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 102.8
         }
       ]
     },
@@ -13152,7 +13180,7 @@
       "pos": "TE",
       "adp": 104.0,
       "adp_ud": 104.0,
-      "adp_consensus": 57.75,
+      "adp_consensus": 58.56,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -13175,6 +13203,10 @@
         {
           "date": "Jun 30",
           "adp": 104.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 104.0
         }
       ]
     },
@@ -13184,18 +13216,14 @@
       "pos": "RB",
       "adp": 104.2,
       "adp_ud": 104.2,
-      "adp_consensus": 118.53,
+      "adp_consensus": 116.62,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB36",
-      "pos_rank_consensus": "RB44",
+      "pos_rank_consensus": "RB43",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 115.0
-        },
         {
           "date": "Jun 1",
           "adp": 113.0
@@ -13311,6 +13339,10 @@
         {
           "date": "Jun 30",
           "adp": 104.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 104.2
         }
       ]
     },
@@ -13320,7 +13352,7 @@
       "pos": "QB",
       "adp": 104.6,
       "adp_ud": 104.6,
-      "adp_consensus": 66.69,
+      "adp_consensus": 63.71,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -13328,10 +13360,6 @@
       "pos_rank_consensus": "QB19",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 105.0
-        },
         {
           "date": "Jun 1",
           "adp": 105.0
@@ -13447,6 +13475,10 @@
         {
           "date": "Jun 30",
           "adp": 104.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 104.6
         }
       ]
     },
@@ -13456,7 +13488,7 @@
       "pos": "TE",
       "adp": 105.4,
       "adp_ud": 105.4,
-      "adp_consensus": 59.38,
+      "adp_consensus": 60.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -13479,6 +13511,10 @@
         {
           "date": "Jun 30",
           "adp": 105.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 105.4
         }
       ]
     },
@@ -13488,12 +13524,12 @@
       "pos": "RB",
       "adp": 107.0,
       "adp_ud": 107.0,
-      "adp_consensus": 127.14,
+      "adp_consensus": 124.6,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB37",
-      "pos_rank_consensus": "RB48",
+      "pos_rank_consensus": "RB45",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -13519,6 +13555,10 @@
         {
           "date": "Jun 30",
           "adp": 107.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 107.0
         }
       ]
     },
@@ -13528,18 +13568,14 @@
       "pos": "QB",
       "adp": 107.4,
       "adp_ud": 107.4,
-      "adp_consensus": 37.12,
+      "adp_consensus": 36.71,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB15",
-      "pos_rank_consensus": "QB12",
+      "pos_rank_consensus": "QB10",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 102.0
-        },
         {
           "date": "Jun 1",
           "adp": 102.0
@@ -13655,6 +13691,10 @@
         {
           "date": "Jun 30",
           "adp": 107.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 107.4
         }
       ]
     },
@@ -13664,7 +13704,7 @@
       "pos": "QB",
       "adp": 108.4,
       "adp_ud": 108.4,
-      "adp_consensus": 54.69,
+      "adp_consensus": 54.06,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -13672,10 +13712,6 @@
       "pos_rank_consensus": "QB17",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 107.0
-        },
         {
           "date": "Jun 1",
           "adp": 107.0
@@ -13791,6 +13827,10 @@
         {
           "date": "Jun 30",
           "adp": 108.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 108.4
         }
       ]
     },
@@ -13800,7 +13840,7 @@
       "pos": "WR",
       "adp": 109.2,
       "adp_ud": 109.2,
-      "adp_consensus": 126.93,
+      "adp_consensus": 129.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -13808,10 +13848,6 @@
       "pos_rank_consensus": "WR69",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 110.0
-        },
         {
           "date": "Jun 1",
           "adp": 110.0
@@ -13927,6 +13963,10 @@
         {
           "date": "Jun 30",
           "adp": 109.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 109.2
         }
       ]
     },
@@ -13944,10 +13984,6 @@
       "pos_rank_consensus": "RB54",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 123.0
-        },
         {
           "date": "Jun 1",
           "adp": 123.0
@@ -14063,6 +14099,10 @@
         {
           "date": "Jun 30",
           "adp": 110.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 110.0
         }
       ]
     },
@@ -14072,7 +14112,7 @@
       "pos": "QB",
       "adp": 110.7,
       "adp_ud": 110.7,
-      "adp_consensus": 73.38,
+      "adp_consensus": 71.76,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -14080,10 +14120,6 @@
       "pos_rank_consensus": "QB23",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 108.0
-        },
         {
           "date": "Jun 1",
           "adp": 109.0
@@ -14199,6 +14235,10 @@
         {
           "date": "Jun 30",
           "adp": 110.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 110.7
         }
       ]
     },
@@ -14208,7 +14248,7 @@
       "pos": "QB",
       "adp": 111.7,
       "adp_ud": 111.7,
-      "adp_consensus": 57.62,
+      "adp_consensus": 56.88,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -14216,10 +14256,6 @@
       "pos_rank_consensus": "QB18",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 111.0
-        },
         {
           "date": "Jun 1",
           "adp": 111.0
@@ -14335,6 +14371,10 @@
         {
           "date": "Jun 30",
           "adp": 111.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 111.7
         }
       ]
     },
@@ -14344,7 +14384,7 @@
       "pos": "TE",
       "adp": 113.6,
       "adp_ud": 113.6,
-      "adp_consensus": 102.6,
+      "adp_consensus": 102.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -14352,10 +14392,6 @@
       "pos_rank_consensus": "TE15",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 120.0
-        },
         {
           "date": "Jun 1",
           "adp": 120.0
@@ -14471,6 +14507,10 @@
         {
           "date": "Jun 30",
           "adp": 113.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 113.6
         }
       ]
     },
@@ -14480,18 +14520,14 @@
       "pos": "WR",
       "adp": 115.2,
       "adp_ud": 115.2,
-      "adp_consensus": 117.36,
+      "adp_consensus": 114.2,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR50",
-      "pos_rank_consensus": "WR65",
+      "pos_rank_consensus": "WR62",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 118.0
-        },
         {
           "date": "Jun 1",
           "adp": 118.0
@@ -14607,6 +14643,10 @@
         {
           "date": "Jun 30",
           "adp": 115.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 115.2
         }
       ]
     },
@@ -14639,6 +14679,10 @@
         {
           "date": "Jun 30",
           "adp": 116.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 116.3
         }
       ]
     },
@@ -14653,13 +14697,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR51",
-      "pos_rank_consensus": "WR75",
+      "pos_rank_consensus": "WR76",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 114.0
-        },
         {
           "date": "Jun 1",
           "adp": 115.0
@@ -14775,6 +14815,10 @@
         {
           "date": "Jun 30",
           "adp": 117.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 117.3
         }
       ]
     },
@@ -14784,18 +14828,14 @@
       "pos": "WR",
       "adp": 117.8,
       "adp_ud": 117.8,
-      "adp_consensus": 13.2,
+      "adp_consensus": 13.76,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR52",
-      "pos_rank_consensus": "WR7",
+      "pos_rank_consensus": "WR8",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 117.0
-        },
         {
           "date": "Jun 1",
           "adp": 117.0
@@ -14911,6 +14951,10 @@
         {
           "date": "Jun 30",
           "adp": 117.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 117.8
         }
       ]
     },
@@ -14920,7 +14964,7 @@
       "pos": "QB",
       "adp": 118.8,
       "adp_ud": 118.8,
-      "adp_consensus": 72.31,
+      "adp_consensus": 70.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -14928,10 +14972,6 @@
       "pos_rank_consensus": "QB21",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 116.0
-        },
         {
           "date": "Jun 1",
           "adp": 116.0
@@ -15047,6 +15087,10 @@
         {
           "date": "Jun 30",
           "adp": 118.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 118.8
         }
       ]
     },
@@ -15056,18 +15100,14 @@
       "pos": "TE",
       "adp": 119.6,
       "adp_ud": 119.6,
-      "adp_consensus": 109.79,
+      "adp_consensus": 107.93,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE10",
-      "pos_rank_consensus": "TE19",
+      "pos_rank_consensus": "TE16",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 122.0
-        },
         {
           "date": "Jun 1",
           "adp": 122.0
@@ -15183,6 +15223,10 @@
         {
           "date": "Jun 30",
           "adp": 119.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 119.6
         }
       ]
     },
@@ -15192,7 +15236,7 @@
       "pos": "QB",
       "adp": 121.4,
       "adp_ud": 121.4,
-      "adp_consensus": 81.62,
+      "adp_consensus": 78.94,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -15200,10 +15244,6 @@
       "pos_rank_consensus": "QB25",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 113.0
-        },
         {
           "date": "Jun 1",
           "adp": 114.0
@@ -15319,6 +15359,10 @@
         {
           "date": "Jun 30",
           "adp": 121.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 121.4
         }
       ]
     },
@@ -15336,10 +15380,6 @@
       "pos_rank_consensus": "RB52",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 119.0
-        },
         {
           "date": "Jun 1",
           "adp": 119.0
@@ -15455,6 +15495,10 @@
         {
           "date": "Jun 30",
           "adp": 121.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 121.9
         }
       ]
     },
@@ -15464,18 +15508,14 @@
       "pos": "WR",
       "adp": 122.5,
       "adp_ud": 122.5,
-      "adp_consensus": 128.64,
+      "adp_consensus": 130.93,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR53",
-      "pos_rank_consensus": "WR71",
+      "pos_rank_consensus": "WR70",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 125.0
-        },
         {
           "date": "Jun 1",
           "adp": 125.0
@@ -15591,6 +15631,10 @@
         {
           "date": "Jun 30",
           "adp": 122.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 122.5
         }
       ]
     },
@@ -15608,10 +15652,6 @@
       "pos_rank_consensus": "RB58",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 124.0
-        },
         {
           "date": "Jun 1",
           "adp": 124.0
@@ -15727,6 +15767,10 @@
         {
           "date": "Jun 30",
           "adp": 124.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 124.1
         }
       ]
     },
@@ -15736,7 +15780,7 @@
       "pos": "TE",
       "adp": 125.2,
       "adp_ud": 125.2,
-      "adp_consensus": 124.86,
+      "adp_consensus": 122.27,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -15744,10 +15788,6 @@
       "pos_rank_consensus": "TE23",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 127.0
-        },
         {
           "date": "Jun 1",
           "adp": 127.0
@@ -15863,6 +15903,10 @@
         {
           "date": "Jun 30",
           "adp": 125.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 125.2
         }
       ]
     },
@@ -15872,18 +15916,14 @@
       "pos": "WR",
       "adp": 126.9,
       "adp_ud": 126.9,
-      "adp_consensus": 157.43,
+      "adp_consensus": 152.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR54",
-      "pos_rank_consensus": "WR79",
+      "pos_rank_consensus": "WR77",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 128.0
-        },
         {
           "date": "Jun 1",
           "adp": 128.0
@@ -15998,6 +16038,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 126.9
+        },
+        {
+          "date": "Jul 1",
           "adp": 126.9
         }
       ]
@@ -16017,10 +16061,6 @@
       "pos_rank_sleeper": null,
       "history": [
         {
-          "date": "May 31",
-          "adp": 126.0
-        },
-        {
           "date": "Jun 1",
           "adp": 126.0
         },
@@ -16134,6 +16174,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 127.8
+        },
+        {
+          "date": "Jul 1",
           "adp": 127.8
         }
       ]
@@ -16167,6 +16211,10 @@
         {
           "date": "Jun 30",
           "adp": 128.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 128.7
         }
       ]
     },
@@ -16176,18 +16224,14 @@
       "pos": "TE",
       "adp": 128.9,
       "adp_ud": 128.9,
-      "adp_consensus": 108.2,
+      "adp_consensus": 108.25,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE13",
-      "pos_rank_consensus": "TE16",
+      "pos_rank_consensus": "TE17",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 129.0
-        },
         {
           "date": "Jun 1",
           "adp": 129.0
@@ -16303,6 +16347,10 @@
         {
           "date": "Jun 30",
           "adp": 128.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 128.9
         }
       ]
     },
@@ -16317,13 +16365,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR55",
-      "pos_rank_consensus": "WR77",
+      "pos_rank_consensus": "WR79",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 134.0
-        },
         {
           "date": "Jun 1",
           "adp": 134.0
@@ -16439,6 +16483,10 @@
         {
           "date": "Jun 30",
           "adp": 130.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 130.0
         }
       ]
     },
@@ -16448,18 +16496,14 @@
       "pos": "TE",
       "adp": 131.2,
       "adp_ud": 131.2,
-      "adp_consensus": 108.54,
+      "adp_consensus": 114.27,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE14",
-      "pos_rank_consensus": "TE17",
+      "pos_rank_consensus": "TE21",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 132.0
-        },
         {
           "date": "Jun 1",
           "adp": 132.0
@@ -16575,6 +16619,10 @@
         {
           "date": "Jun 30",
           "adp": 131.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 131.2
         }
       ]
     },
@@ -16584,7 +16632,7 @@
       "pos": "QB",
       "adp": 131.3,
       "adp_ud": 131.3,
-      "adp_consensus": 70.96,
+      "adp_consensus": 69.23,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -16592,10 +16640,6 @@
       "pos_rank_consensus": "QB20",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 131.0
-        },
         {
           "date": "Jun 1",
           "adp": 131.0
@@ -16711,6 +16755,10 @@
         {
           "date": "Jun 30",
           "adp": 131.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 131.3
         }
       ]
     },
@@ -16743,6 +16791,10 @@
         {
           "date": "Jun 30",
           "adp": 132.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 132.9
         }
       ]
     },
@@ -16760,10 +16812,6 @@
       "pos_rank_consensus": "WR83",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 133.0
-        },
         {
           "date": "Jun 1",
           "adp": 133.0
@@ -16879,6 +16927,10 @@
         {
           "date": "Jun 30",
           "adp": 133.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 133.2
         }
       ]
     },
@@ -16888,7 +16940,7 @@
       "pos": "TE",
       "adp": 135.1,
       "adp_ud": 135.1,
-      "adp_consensus": 118.38,
+      "adp_consensus": 122.14,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -16896,10 +16948,6 @@
       "pos_rank_consensus": "TE22",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 135.0
-        },
         {
           "date": "Jun 1",
           "adp": 135.0
@@ -17015,6 +17063,10 @@
         {
           "date": "Jun 30",
           "adp": 135.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 135.1
         }
       ]
     },
@@ -17029,13 +17081,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB44",
-      "pos_rank_consensus": "RB59",
+      "pos_rank_consensus": "RB60",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 142.0
-        },
         {
           "date": "Jun 1",
           "adp": 141.0
@@ -17151,6 +17199,10 @@
         {
           "date": "Jun 30",
           "adp": 136.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 136.1
         }
       ]
     },
@@ -17168,10 +17220,6 @@
       "pos_rank_consensus": "WR84",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 138.0
-        },
         {
           "date": "Jun 1",
           "adp": 138.0
@@ -17287,6 +17335,10 @@
         {
           "date": "Jun 30",
           "adp": 138.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 138.2
         }
       ]
     },
@@ -17301,7 +17353,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR58",
-      "pos_rank_consensus": "WR76",
+      "pos_rank_consensus": "WR78",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -17319,6 +17371,10 @@
         {
           "date": "Jun 30",
           "adp": 138.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 138.4
         }
       ]
     },
@@ -17328,7 +17384,7 @@
       "pos": "QB",
       "adp": 139.6,
       "adp_ud": 139.6,
-      "adp_consensus": 74.94,
+      "adp_consensus": 74.12,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -17336,10 +17392,6 @@
       "pos_rank_consensus": "QB24",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 136.0
-        },
         {
           "date": "Jun 1",
           "adp": 136.0
@@ -17455,6 +17507,10 @@
         {
           "date": "Jun 30",
           "adp": 139.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 139.6
         }
       ]
     },
@@ -17464,7 +17520,7 @@
       "pos": "WR",
       "adp": 141.3,
       "adp_ud": 141.3,
-      "adp_consensus": 17.77,
+      "adp_consensus": 17.68,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -17487,6 +17543,10 @@
         {
           "date": "Jun 30",
           "adp": 141.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 141.3
         }
       ]
     },
@@ -17496,7 +17556,7 @@
       "pos": "QB",
       "adp": 142.3,
       "adp_ud": 142.3,
-      "adp_consensus": 96.12,
+      "adp_consensus": 93.89,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -17504,10 +17564,6 @@
       "pos_rank_consensus": "QB27",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 139.0
-        },
         {
           "date": "Jun 1",
           "adp": 139.0
@@ -17623,6 +17679,10 @@
         {
           "date": "Jun 30",
           "adp": 142.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 142.3
         }
       ]
     },
@@ -17632,7 +17692,7 @@
       "pos": "QB",
       "adp": 142.5,
       "adp_ud": 142.5,
-      "adp_consensus": 73.19,
+      "adp_consensus": 71.65,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -17640,10 +17700,6 @@
       "pos_rank_consensus": "QB22",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 141.0
-        },
         {
           "date": "Jun 1",
           "adp": 142.0
@@ -17759,6 +17815,10 @@
         {
           "date": "Jun 30",
           "adp": 142.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 142.5
         }
       ]
     },
@@ -17776,10 +17836,6 @@
       "pos_rank_consensus": "RB57",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 146.0
-        },
         {
           "date": "Jun 1",
           "adp": 145.0
@@ -17895,6 +17951,10 @@
         {
           "date": "Jun 30",
           "adp": 143.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 143.9
         }
       ]
     },
@@ -17912,10 +17972,6 @@
       "pos_rank_consensus": "WR81",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 150.0
-        },
         {
           "date": "Jun 1",
           "adp": 150.0
@@ -18031,6 +18087,10 @@
         {
           "date": "Jun 30",
           "adp": 144.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 144.5
         }
       ]
     },
@@ -18063,6 +18123,10 @@
         {
           "date": "Jun 30",
           "adp": 145.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 145.8
         }
       ]
     },
@@ -18072,18 +18136,14 @@
       "pos": "TE",
       "adp": 145.8,
       "adp_ud": 145.8,
-      "adp_consensus": 115.15,
+      "adp_consensus": 110.86,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE17",
-      "pos_rank_consensus": "TE21",
+      "pos_rank_consensus": "TE19",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 151.0
-        },
         {
           "date": "Jun 1",
           "adp": 151.0
@@ -18199,6 +18259,10 @@
         {
           "date": "Jun 30",
           "adp": 145.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 145.8
         }
       ]
     },
@@ -18208,7 +18272,7 @@
       "pos": "QB",
       "adp": 146.3,
       "adp_ud": 146.3,
-      "adp_consensus": 89.73,
+      "adp_consensus": 84.24,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -18216,10 +18280,6 @@
       "pos_rank_consensus": "QB26",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 144.0
-        },
         {
           "date": "Jun 1",
           "adp": 144.0
@@ -18335,6 +18395,10 @@
         {
           "date": "Jun 30",
           "adp": 146.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 146.3
         }
       ]
     },
@@ -18349,13 +18413,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR61",
-      "pos_rank_consensus": "WR89",
+      "pos_rank_consensus": "WR91",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 147.0
-        },
         {
           "date": "Jun 1",
           "adp": 147.0
@@ -18471,6 +18531,10 @@
         {
           "date": "Jun 30",
           "adp": 148.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 148.6
         }
       ]
     },
@@ -18485,13 +18549,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB46",
-      "pos_rank_consensus": "RB60",
+      "pos_rank_consensus": "RB62",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 148.0
-        },
         {
           "date": "Jun 1",
           "adp": 148.0
@@ -18607,6 +18667,10 @@
         {
           "date": "Jun 30",
           "adp": 148.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 148.8
         }
       ]
     },
@@ -18624,10 +18688,6 @@
       "pos_rank_consensus": "TE31",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 149.0
-        },
         {
           "date": "Jun 1",
           "adp": 149.0
@@ -18743,6 +18803,10 @@
         {
           "date": "Jun 30",
           "adp": 151.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 151.1
         }
       ]
     },
@@ -18752,18 +18816,14 @@
       "pos": "WR",
       "adp": 151.2,
       "adp_ud": 151.2,
-      "adp_consensus": 128.48,
+      "adp_consensus": 132.6,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR62",
-      "pos_rank_consensus": "WR70",
+      "pos_rank_consensus": "WR72",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 153.0
-        },
         {
           "date": "Jun 1",
           "adp": 153.0
@@ -18879,6 +18939,10 @@
         {
           "date": "Jun 30",
           "adp": 151.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 151.2
         }
       ]
     },
@@ -18888,7 +18952,7 @@
       "pos": "TE",
       "adp": 151.6,
       "adp_ud": 151.6,
-      "adp_consensus": 143.29,
+      "adp_consensus": 138.87,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -18896,10 +18960,6 @@
       "pos_rank_consensus": "TE26",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 155.0
-        },
         {
           "date": "Jun 1",
           "adp": 155.0
@@ -19015,6 +19075,10 @@
         {
           "date": "Jun 30",
           "adp": 151.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 151.6
         }
       ]
     },
@@ -19024,7 +19088,7 @@
       "pos": "RB",
       "adp": 153.4,
       "adp_ud": 153.4,
-      "adp_consensus": 21.38,
+      "adp_consensus": 22.03,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -19032,10 +19096,6 @@
       "pos_rank_consensus": "RB8",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 145.0
-        },
         {
           "date": "Jun 1",
           "adp": 146.0
@@ -19151,6 +19211,10 @@
         {
           "date": "Jun 30",
           "adp": 153.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 153.4
         }
       ]
     },
@@ -19160,18 +19224,14 @@
       "pos": "WR",
       "adp": 153.6,
       "adp_ud": 153.6,
-      "adp_consensus": 153.94,
+      "adp_consensus": 147.35,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR63",
-      "pos_rank_consensus": "WR78",
+      "pos_rank_consensus": "WR75",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 157.0
-        },
         {
           "date": "Jun 1",
           "adp": 157.0
@@ -19287,6 +19347,10 @@
         {
           "date": "Jun 30",
           "adp": 153.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 153.6
         }
       ]
     },
@@ -19296,18 +19360,14 @@
       "pos": "WR",
       "adp": 156.1,
       "adp_ud": 156.1,
-      "adp_consensus": 21.5,
+      "adp_consensus": 21.25,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR64",
-      "pos_rank_consensus": "WR12",
+      "pos_rank_consensus": "WR11",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 160.0
-        },
         {
           "date": "Jun 1",
           "adp": 160.0
@@ -19423,6 +19483,10 @@
         {
           "date": "Jun 30",
           "adp": 156.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 156.1
         }
       ]
     },
@@ -19432,18 +19496,14 @@
       "pos": "TE",
       "adp": 156.2,
       "adp_ud": 156.2,
-      "adp_consensus": 170.79,
+      "adp_consensus": 166.27,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE20",
-      "pos_rank_consensus": "TE30",
+      "pos_rank_consensus": "TE29",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 156.0
-        },
         {
           "date": "Jun 1",
           "adp": 156.0
@@ -19558,6 +19618,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 156.2
+        },
+        {
+          "date": "Jul 1",
           "adp": 156.2
         }
       ]
@@ -19568,7 +19632,7 @@
       "pos": "QB",
       "adp": 157.2,
       "adp_ud": 157.2,
-      "adp_consensus": 107.0,
+      "adp_consensus": 103.29,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -19576,10 +19640,6 @@
       "pos_rank_consensus": "QB28",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 154.0
-        },
         {
           "date": "Jun 1",
           "adp": 154.0
@@ -19695,6 +19755,10 @@
         {
           "date": "Jun 30",
           "adp": 157.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 157.2
         }
       ]
     },
@@ -19704,18 +19768,14 @@
       "pos": "RB",
       "adp": 158.2,
       "adp_ud": 158.2,
-      "adp_consensus": 127.21,
+      "adp_consensus": 130.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB48",
-      "pos_rank_consensus": "RB49",
+      "pos_rank_consensus": "RB50",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 163.0
-        },
         {
           "date": "Jun 1",
           "adp": 163.0
@@ -19831,6 +19891,10 @@
         {
           "date": "Jun 30",
           "adp": 158.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 158.2
         }
       ]
     },
@@ -19840,7 +19904,7 @@
       "pos": "TE",
       "adp": 159.4,
       "adp_ud": 159.4,
-      "adp_consensus": 13.44,
+      "adp_consensus": 13.93,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -19848,10 +19912,6 @@
       "pos_rank_consensus": "TE1",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 152.0
-        },
         {
           "date": "Jun 1",
           "adp": 152.0
@@ -19967,6 +20027,10 @@
         {
           "date": "Jun 30",
           "adp": 159.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 159.4
         }
       ]
     },
@@ -19976,18 +20040,14 @@
       "pos": "RB",
       "adp": 160.3,
       "adp_ud": 160.3,
-      "adp_consensus": 178.79,
+      "adp_consensus": 168.67,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB49",
-      "pos_rank_consensus": "RB63",
+      "pos_rank_consensus": "RB61",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 161.0
-        },
         {
           "date": "Jun 1",
           "adp": 161.0
@@ -20103,6 +20163,10 @@
         {
           "date": "Jun 30",
           "adp": 160.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 160.3
         }
       ]
     },
@@ -20117,13 +20181,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB50",
-      "pos_rank_consensus": "RB64",
+      "pos_rank_consensus": "RB65",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 158.0
-        },
         {
           "date": "Jun 1",
           "adp": 158.0
@@ -20239,6 +20299,10 @@
         {
           "date": "Jun 30",
           "adp": 160.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 160.6
         }
       ]
     },
@@ -20248,7 +20312,7 @@
       "pos": "WR",
       "adp": 161.0,
       "adp_ud": 161.0,
-      "adp_consensus": 164.83,
+      "adp_consensus": 157.68,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -20256,10 +20320,6 @@
       "pos_rank_consensus": "WR80",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 174.0
-        },
         {
           "date": "Jun 1",
           "adp": 174.0
@@ -20375,6 +20435,10 @@
         {
           "date": "Jun 30",
           "adp": 161.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 161.0
         }
       ]
     },
@@ -20407,6 +20471,10 @@
         {
           "date": "Jun 30",
           "adp": 163.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 163.5
         }
       ]
     },
@@ -20424,10 +20492,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 182.0
-        },
         {
           "date": "Jun 1",
           "adp": 182.0
@@ -20543,6 +20607,10 @@
         {
           "date": "Jun 30",
           "adp": 165.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 165.5
         }
       ]
     },
@@ -20560,10 +20628,6 @@
       "pos_rank_consensus": "TE25",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 162.0
-        },
         {
           "date": "Jun 1",
           "adp": 162.0
@@ -20679,6 +20743,10 @@
         {
           "date": "Jun 30",
           "adp": 165.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 165.6
         }
       ]
     },
@@ -20693,13 +20761,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB51",
-      "pos_rank_consensus": "RB61",
+      "pos_rank_consensus": "RB63",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 173.0
-        },
         {
           "date": "Jun 1",
           "adp": 173.0
@@ -20815,6 +20879,10 @@
         {
           "date": "Jun 30",
           "adp": 166.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 166.5
         }
       ]
     },
@@ -20829,7 +20897,7 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB52",
-      "pos_rank_consensus": "RB62",
+      "pos_rank_consensus": "RB64",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -20847,6 +20915,10 @@
         {
           "date": "Jun 30",
           "adp": 168.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 168.9
         }
       ]
     },
@@ -20856,7 +20928,7 @@
       "pos": "WR",
       "adp": 169.9,
       "adp_ud": 169.9,
-      "adp_consensus": 23.7,
+      "adp_consensus": 24.32,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -20864,10 +20936,6 @@
       "pos_rank_consensus": "WR13",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 159.0
-        },
         {
           "date": "Jun 1",
           "adp": 159.0
@@ -20983,6 +21051,10 @@
         {
           "date": "Jun 30",
           "adp": 169.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 169.9
         }
       ]
     },
@@ -21000,10 +21072,6 @@
       "pos_rank_consensus": "TE27",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 171.0
-        },
         {
           "date": "Jun 1",
           "adp": 171.0
@@ -21119,6 +21187,10 @@
         {
           "date": "Jun 30",
           "adp": 170.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 170.4
         }
       ]
     },
@@ -21133,13 +21205,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR69",
-      "pos_rank_consensus": "WR88",
+      "pos_rank_consensus": "WR89",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 170.0
-        },
         {
           "date": "Jun 1",
           "adp": 170.0
@@ -21255,6 +21323,10 @@
         {
           "date": "Jun 30",
           "adp": 171.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 171.1
         }
       ]
     },
@@ -21264,7 +21336,7 @@
       "pos": "WR",
       "adp": 171.5,
       "adp_ud": 171.5,
-      "adp_consensus": 29.74,
+      "adp_consensus": 29.54,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -21272,10 +21344,6 @@
       "pos_rank_consensus": "WR18",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 164.0
-        },
         {
           "date": "Jun 1",
           "adp": 164.0
@@ -21391,6 +21459,10 @@
         {
           "date": "Jun 30",
           "adp": 171.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 171.5
         }
       ]
     },
@@ -21400,7 +21472,7 @@
       "pos": "QB",
       "adp": 172.5,
       "adp_ud": 172.5,
-      "adp_consensus": 11.88,
+      "adp_consensus": 11.82,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -21408,10 +21480,6 @@
       "pos_rank_consensus": "QB3",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 167.0
-        },
         {
           "date": "Jun 1",
           "adp": 167.0
@@ -21527,6 +21595,10 @@
         {
           "date": "Jun 30",
           "adp": 172.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 172.5
         }
       ]
     },
@@ -21536,7 +21608,7 @@
       "pos": "RB",
       "adp": 173.5,
       "adp_ud": 173.5,
-      "adp_consensus": 187.38,
+      "adp_consensus": 188.07,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -21544,10 +21616,6 @@
       "pos_rank_consensus": "RB66",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 168.0
-        },
         {
           "date": "Jun 1",
           "adp": 168.0
@@ -21663,6 +21731,10 @@
         {
           "date": "Jun 30",
           "adp": 173.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 173.5
         }
       ]
     },
@@ -21680,10 +21752,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 172.0
-        },
         {
           "date": "Jun 1",
           "adp": 172.0
@@ -21799,6 +21867,10 @@
         {
           "date": "Jun 30",
           "adp": 174.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 174.8
         }
       ]
     },
@@ -21808,18 +21880,14 @@
       "pos": "QB",
       "adp": 176.0,
       "adp_ud": 176.0,
-      "adp_consensus": 130.12,
+      "adp_consensus": 126.78,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB28",
-      "pos_rank_consensus": "QB32",
+      "pos_rank_consensus": "QB31",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 169.0
-        },
         {
           "date": "Jun 1",
           "adp": 169.0
@@ -21935,6 +22003,10 @@
         {
           "date": "Jun 30",
           "adp": 176.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 176.0
         }
       ]
     },
@@ -21944,18 +22016,14 @@
       "pos": "WR",
       "adp": 176.5,
       "adp_ud": 176.5,
-      "adp_consensus": null,
+      "adp_consensus": 192.46,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR71",
-      "pos_rank_consensus": null,
+      "pos_rank_consensus": "WR88",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 215.0
-        },
         {
           "date": "Jun 1",
           "adp": 214.0
@@ -22071,6 +22139,10 @@
         {
           "date": "Jun 30",
           "adp": 176.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 176.5
         }
       ]
     },
@@ -22088,10 +22160,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 183.0
-        },
         {
           "date": "Jun 1",
           "adp": 181.0
@@ -22207,6 +22275,10 @@
         {
           "date": "Jun 30",
           "adp": 177.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 177.6
         }
       ]
     },
@@ -22216,7 +22288,7 @@
       "pos": "WR",
       "adp": 178.3,
       "adp_ud": 178.3,
-      "adp_consensus": 38.62,
+      "adp_consensus": 38.56,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -22224,10 +22296,6 @@
       "pos_rank_consensus": "WR25",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 193.0
-        },
         {
           "date": "Jun 1",
           "adp": 191.0
@@ -22343,6 +22411,10 @@
         {
           "date": "Jun 30",
           "adp": 178.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 178.3
         }
       ]
     },
@@ -22360,10 +22432,6 @@
       "pos_rank_consensus": "WR82",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 186.0
-        },
         {
           "date": "Jun 1",
           "adp": 186.0
@@ -22479,6 +22547,10 @@
         {
           "date": "Jun 30",
           "adp": 179.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 179.5
         }
       ]
     },
@@ -22496,10 +22568,6 @@
       "pos_rank_consensus": "TE24",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 177.0
-        },
         {
           "date": "Jun 1",
           "adp": 176.0
@@ -22615,6 +22683,10 @@
         {
           "date": "Jun 30",
           "adp": 179.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 179.8
         }
       ]
     },
@@ -22629,13 +22701,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB55",
-      "pos_rank_consensus": "RB67",
+      "pos_rank_consensus": "RB69",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 188.0
-        },
         {
           "date": "Jun 1",
           "adp": 188.0
@@ -22751,6 +22819,10 @@
         {
           "date": "Jun 30",
           "adp": 181.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 181.8
         }
       ]
     },
@@ -22760,7 +22832,7 @@
       "pos": "TE",
       "adp": 182.3,
       "adp_ud": 182.3,
-      "adp_consensus": 69.24,
+      "adp_consensus": 67.41,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -22768,10 +22840,6 @@
       "pos_rank_consensus": "TE13",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 209.0
-        },
         {
           "date": "Jun 1",
           "adp": 205.0
@@ -22887,6 +22955,10 @@
         {
           "date": "Jun 30",
           "adp": 182.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 182.3
         }
       ]
     },
@@ -22901,13 +22973,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR74",
-      "pos_rank_consensus": "WR87",
+      "pos_rank_consensus": "WR86",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 176.0
-        },
         {
           "date": "Jun 1",
           "adp": 178.0
@@ -23023,6 +23091,10 @@
         {
           "date": "Jun 30",
           "adp": 182.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 182.7
         }
       ]
     },
@@ -23032,7 +23104,7 @@
       "pos": "WR",
       "adp": 183.8,
       "adp_ud": 183.8,
-      "adp_consensus": 27.27,
+      "adp_consensus": 28.21,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -23040,10 +23112,6 @@
       "pos_rank_consensus": "WR16",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 178.0
-        },
         {
           "date": "Jun 1",
           "adp": 177.0
@@ -23159,6 +23227,10 @@
         {
           "date": "Jun 30",
           "adp": 183.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 183.8
         }
       ]
     },
@@ -23168,18 +23240,14 @@
       "pos": "WR",
       "adp": 187.1,
       "adp_ud": 187.1,
-      "adp_consensus": 182.23,
+      "adp_consensus": 187.57,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR76",
-      "pos_rank_consensus": "WR85",
+      "pos_rank_consensus": "WR87",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 185.0
-        },
         {
           "date": "Jun 1",
           "adp": 185.0
@@ -23295,6 +23363,10 @@
         {
           "date": "Jun 30",
           "adp": 187.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 187.1
         }
       ]
     },
@@ -23304,18 +23376,14 @@
       "pos": "QB",
       "adp": 187.2,
       "adp_ud": 187.2,
-      "adp_consensus": 121.19,
+      "adp_consensus": 129.53,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB29",
-      "pos_rank_consensus": "QB30",
+      "pos_rank_consensus": "QB32",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 179.0
-        },
         {
           "date": "Jun 1",
           "adp": 179.0
@@ -23431,6 +23499,10 @@
         {
           "date": "Jun 30",
           "adp": 187.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 187.2
         }
       ]
     },
@@ -23448,10 +23520,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 184.0
-        },
         {
           "date": "Jun 1",
           "adp": 184.0
@@ -23567,6 +23635,10 @@
         {
           "date": "Jun 30",
           "adp": 187.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 187.3
         }
       ]
     },
@@ -23584,10 +23656,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 199.0
-        },
         {
           "date": "Jun 1",
           "adp": 199.0
@@ -23703,6 +23771,10 @@
         {
           "date": "Jun 30",
           "adp": 188.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 188.8
         }
       ]
     },
@@ -23712,7 +23784,7 @@
       "pos": "RB",
       "adp": 191.0,
       "adp_ud": 191.0,
-      "adp_consensus": 31.65,
+      "adp_consensus": 31.61,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -23720,10 +23792,6 @@
       "pos_rank_consensus": "RB13",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 181.0
-        },
         {
           "date": "Jun 1",
           "adp": 183.0
@@ -23839,6 +23907,10 @@
         {
           "date": "Jun 30",
           "adp": 191.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 191.0
         }
       ]
     },
@@ -23853,13 +23925,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR78",
-      "pos_rank_consensus": "WR86",
+      "pos_rank_consensus": "WR85",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 197.0
-        },
         {
           "date": "Jun 1",
           "adp": 196.0
@@ -23975,6 +24043,10 @@
         {
           "date": "Jun 30",
           "adp": 191.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 191.8
         }
       ]
     },
@@ -23992,10 +24064,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 211.0
-        },
         {
           "date": "Jun 1",
           "adp": 210.0
@@ -24111,6 +24179,10 @@
         {
           "date": "Jun 30",
           "adp": 192.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 192.1
         }
       ]
     },
@@ -24128,10 +24200,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 187.0
-        },
         {
           "date": "Jun 1",
           "adp": 187.0
@@ -24247,6 +24315,10 @@
         {
           "date": "Jun 30",
           "adp": 193.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 193.4
         }
       ]
     },
@@ -24264,10 +24336,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 200.0
-        },
         {
           "date": "Jun 1",
           "adp": 200.0
@@ -24383,6 +24451,10 @@
         {
           "date": "Jun 30",
           "adp": 194.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 194.0
         }
       ]
     },
@@ -24400,10 +24472,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 201.0
-        },
         {
           "date": "Jun 1",
           "adp": 201.0
@@ -24519,6 +24587,10 @@
         {
           "date": "Jun 30",
           "adp": 195.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 195.7
         }
       ]
     },
@@ -24528,7 +24600,7 @@
       "pos": "RB",
       "adp": 197.5,
       "adp_ud": 197.5,
-      "adp_consensus": 26.66,
+      "adp_consensus": 26.49,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -24536,10 +24608,6 @@
       "pos_rank_consensus": "RB11",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 175.0
-        },
         {
           "date": "Jun 1",
           "adp": 175.0
@@ -24655,6 +24723,10 @@
         {
           "date": "Jun 30",
           "adp": 197.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 197.5
         }
       ]
     },
@@ -24664,7 +24736,7 @@
       "pos": "WR",
       "adp": 198.0,
       "adp_ud": 198.0,
-      "adp_consensus": 31.5,
+      "adp_consensus": 31.36,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -24687,6 +24759,10 @@
         {
           "date": "Jun 30",
           "adp": 198.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 198.0
         }
       ]
     },
@@ -24696,7 +24772,7 @@
       "pos": "RB",
       "adp": 200.2,
       "adp_ud": 200.2,
-      "adp_consensus": 33.36,
+      "adp_consensus": 33.31,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -24719,6 +24795,10 @@
         {
           "date": "Jun 30",
           "adp": 200.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 200.2
         }
       ]
     },
@@ -24733,13 +24813,9 @@
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB30",
-      "pos_rank_consensus": "QB31",
+      "pos_rank_consensus": "QB30",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 192.0
-        },
         {
           "date": "Jun 1",
           "adp": 193.0
@@ -24855,6 +24931,10 @@
         {
           "date": "Jun 30",
           "adp": 200.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 200.5
         }
       ]
     },
@@ -24864,7 +24944,7 @@
       "pos": "RB",
       "adp": 201.5,
       "adp_ud": 201.5,
-      "adp_consensus": 39.15,
+      "adp_consensus": 38.95,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -24872,10 +24952,6 @@
       "pos_rank_consensus": "RB17",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 195.0
-        },
         {
           "date": "Jun 1",
           "adp": 195.0
@@ -24991,6 +25067,10 @@
         {
           "date": "Jun 30",
           "adp": 201.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 201.5
         }
       ]
     },
@@ -25000,7 +25080,7 @@
       "pos": "TE",
       "adp": 201.7,
       "adp_ud": 201.7,
-      "adp_consensus": 17.86,
+      "adp_consensus": 18.14,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -25008,10 +25088,6 @@
       "pos_rank_consensus": "TE4",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 198.0
-        },
         {
           "date": "Jun 1",
           "adp": 198.0
@@ -25127,6 +25203,10 @@
         {
           "date": "Jun 30",
           "adp": 201.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 201.7
         }
       ]
     },
@@ -25144,10 +25224,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 204.0
-        },
         {
           "date": "Jun 1",
           "adp": 204.0
@@ -25263,6 +25339,10 @@
         {
           "date": "Jun 30",
           "adp": 203.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 203.6
         }
       ]
     },
@@ -25280,10 +25360,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 239.0
-        },
         {
           "date": "Jun 1",
           "adp": 239.0
@@ -25399,6 +25475,10 @@
         {
           "date": "Jun 30",
           "adp": 203.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 203.7
         }
       ]
     },
@@ -25408,18 +25488,14 @@
       "pos": "WR",
       "adp": 204.9,
       "adp_ud": 204.9,
-      "adp_consensus": 43.47,
+      "adp_consensus": 43.62,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR81",
-      "pos_rank_consensus": "WR29",
+      "pos_rank_consensus": "WR28",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 214.0
-        },
         {
           "date": "Jun 1",
           "adp": 213.0
@@ -25535,6 +25611,10 @@
         {
           "date": "Jun 30",
           "adp": 204.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 204.9
         }
       ]
     },
@@ -25552,10 +25632,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 189.0
-        },
         {
           "date": "Jun 1",
           "adp": 189.0
@@ -25671,6 +25747,10 @@
         {
           "date": "Jun 30",
           "adp": 204.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 204.9
         }
       ]
     },
@@ -25688,10 +25768,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 208.0
-        },
         {
           "date": "Jun 1",
           "adp": 209.0
@@ -25807,6 +25883,10 @@
         {
           "date": "Jun 30",
           "adp": 205.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 205.1
         }
       ]
     },
@@ -25824,10 +25904,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 207.0
-        },
         {
           "date": "Jun 1",
           "adp": 208.0
@@ -25943,6 +26019,10 @@
         {
           "date": "Jun 30",
           "adp": 206.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 206.7
         }
       ]
     },
@@ -25952,18 +26032,14 @@
       "pos": "QB",
       "adp": 207.4,
       "adp_ud": 207.4,
-      "adp_consensus": 149.0,
+      "adp_consensus": 157.13,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB31",
-      "pos_rank_consensus": "QB33",
+      "pos_rank_consensus": "QB34",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 206.0
-        },
         {
           "date": "Jun 1",
           "adp": 207.0
@@ -26079,6 +26155,10 @@
         {
           "date": "Jun 30",
           "adp": 207.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 207.4
         }
       ]
     },
@@ -26088,18 +26168,14 @@
       "pos": "RB",
       "adp": 207.9,
       "adp_ud": 207.9,
-      "adp_consensus": null,
+      "adp_consensus": 189.08,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB63",
-      "pos_rank_consensus": null,
+      "pos_rank_consensus": "RB67",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 202.0
-        },
         {
           "date": "Jun 1",
           "adp": 202.0
@@ -26215,6 +26291,10 @@
         {
           "date": "Jun 30",
           "adp": 207.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 207.9
         }
       ]
     },
@@ -26232,10 +26312,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 196.0
-        },
         {
           "date": "Jun 1",
           "adp": 197.0
@@ -26351,6 +26427,10 @@
         {
           "date": "Jun 30",
           "adp": 208.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 208.5
         }
       ]
     },
@@ -26368,10 +26448,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 216.0
-        },
         {
           "date": "Jun 1",
           "adp": 216.0
@@ -26487,6 +26563,10 @@
         {
           "date": "Jun 30",
           "adp": 208.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 208.7
         }
       ]
     },
@@ -26504,10 +26584,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 224.0
-        },
         {
           "date": "Jun 1",
           "adp": 223.0
@@ -26623,6 +26699,10 @@
         {
           "date": "Jun 30",
           "adp": 209.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 209.4
         }
       ]
     },
@@ -26640,10 +26720,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 237.0
-        },
         {
           "date": "Jun 1",
           "adp": 238.0
@@ -26759,6 +26835,10 @@
         {
           "date": "Jun 30",
           "adp": 210.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 210.6
         }
       ]
     },
@@ -26776,10 +26856,6 @@
       "pos_rank_consensus": "RB51",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 212.0
-        },
         {
           "date": "Jun 1",
           "adp": 212.0
@@ -26895,6 +26971,10 @@
         {
           "date": "Jun 30",
           "adp": 210.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 210.8
         }
       ]
     },
@@ -26904,18 +26984,14 @@
       "pos": "WR",
       "adp": 211.6,
       "adp_ud": 211.6,
-      "adp_consensus": null,
+      "adp_consensus": 197.54,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR87",
-      "pos_rank_consensus": null,
+      "pos_rank_consensus": "WR90",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 205.0
-        },
         {
           "date": "Jun 1",
           "adp": 206.0
@@ -27031,6 +27107,10 @@
         {
           "date": "Jun 30",
           "adp": 211.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 211.6
         }
       ]
     },
@@ -27040,7 +27120,7 @@
       "pos": "WR",
       "adp": 212.0,
       "adp_ud": 212.0,
-      "adp_consensus": 58.55,
+      "adp_consensus": 58.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -27048,10 +27128,6 @@
       "pos_rank_consensus": "WR42",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 225.0
-        },
         {
           "date": "Jun 1",
           "adp": 225.0
@@ -27167,6 +27243,10 @@
         {
           "date": "Jun 30",
           "adp": 212.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 212.0
         }
       ]
     },
@@ -27176,18 +27256,14 @@
       "pos": "RB",
       "adp": 212.1,
       "adp_ud": 212.1,
-      "adp_consensus": 118.52,
+      "adp_consensus": 111.9,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB65",
-      "pos_rank_consensus": "RB43",
+      "pos_rank_consensus": "RB40",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 282.0
-        },
         {
           "date": "Jun 1",
           "adp": 280.0
@@ -27303,6 +27379,10 @@
         {
           "date": "Jun 30",
           "adp": 212.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 212.1
         }
       ]
     },
@@ -27312,18 +27392,14 @@
       "pos": "WR",
       "adp": 212.1,
       "adp_ud": 212.1,
-      "adp_consensus": null,
+      "adp_consensus": 234.08,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR89",
-      "pos_rank_consensus": null,
+      "pos_rank_consensus": "WR92",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 210.0
-        },
         {
           "date": "Jun 1",
           "adp": 211.0
@@ -27439,6 +27515,10 @@
         {
           "date": "Jun 30",
           "adp": 212.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 212.1
         }
       ]
     },
@@ -27448,7 +27528,7 @@
       "pos": "RB",
       "adp": 212.8,
       "adp_ud": 212.8,
-      "adp_consensus": 41.97,
+      "adp_consensus": 41.78,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -27456,10 +27536,6 @@
       "pos_rank_consensus": "RB19",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 233.0
-        },
         {
           "date": "Jun 1",
           "adp": 233.0
@@ -27575,6 +27651,10 @@
         {
           "date": "Jun 30",
           "adp": 212.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 212.8
         }
       ]
     },
@@ -27584,7 +27664,7 @@
       "pos": "WR",
       "adp": 212.9,
       "adp_ud": 212.9,
-      "adp_consensus": 36.39,
+      "adp_consensus": 36.44,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -27607,6 +27687,10 @@
         {
           "date": "Jun 30",
           "adp": 212.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 212.9
         }
       ]
     },
@@ -27624,10 +27708,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 219.0
-        },
         {
           "date": "Jun 1",
           "adp": 219.0
@@ -27743,6 +27823,10 @@
         {
           "date": "Jun 30",
           "adp": 213.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.0
         }
       ]
     },
@@ -27752,18 +27836,14 @@
       "pos": "WR",
       "adp": 213.1,
       "adp_ud": 213.1,
-      "adp_consensus": 131.05,
+      "adp_consensus": 135.14,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "WR92",
-      "pos_rank_consensus": "WR72",
+      "pos_rank_consensus": "WR73",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 231.0
-        },
         {
           "date": "Jun 1",
           "adp": 230.0
@@ -27879,6 +27959,10 @@
         {
           "date": "Jun 30",
           "adp": 213.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.1
         }
       ]
     },
@@ -27888,7 +27972,7 @@
       "pos": "TE",
       "adp": 213.2,
       "adp_ud": 213.2,
-      "adp_consensus": 167.21,
+      "adp_consensus": 158.6,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -27896,10 +27980,6 @@
       "pos_rank_consensus": "TE28",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 226.0
-        },
         {
           "date": "Jun 1",
           "adp": 226.0
@@ -28015,6 +28095,10 @@
         {
           "date": "Jun 30",
           "adp": 213.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.2
         }
       ]
     },
@@ -28032,10 +28116,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 227.0
-        },
         {
           "date": "Jun 1",
           "adp": 228.0
@@ -28151,6 +28231,10 @@
         {
           "date": "Jun 30",
           "adp": 213.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.6
         }
       ]
     },
@@ -28160,7 +28244,7 @@
       "pos": "WR",
       "adp": 213.7,
       "adp_ud": 213.7,
-      "adp_consensus": 24.35,
+      "adp_consensus": 25.13,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -28168,10 +28252,6 @@
       "pos_rank_consensus": "WR14",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 194.0
-        },
         {
           "date": "Jun 1",
           "adp": 194.0
@@ -28287,6 +28367,10 @@
         {
           "date": "Jun 30",
           "adp": 213.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.7
         }
       ]
     },
@@ -28304,10 +28388,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 229.0
-        },
         {
           "date": "Jun 1",
           "adp": 227.0
@@ -28423,6 +28503,10 @@
         {
           "date": "Jun 30",
           "adp": 213.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.7
         }
       ]
     },
@@ -28440,10 +28524,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 230.0
-        },
         {
           "date": "Jun 1",
           "adp": 231.0
@@ -28559,6 +28639,10 @@
         {
           "date": "Jun 30",
           "adp": 213.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 213.9
         }
       ]
     },
@@ -28576,10 +28660,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 234.0
-        },
         {
           "date": "Jun 1",
           "adp": 236.0
@@ -28695,6 +28775,10 @@
         {
           "date": "Jun 30",
           "adp": 214.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.0
         }
       ]
     },
@@ -28704,18 +28788,14 @@
       "pos": "RB",
       "adp": 214.2,
       "adp_ud": 214.2,
-      "adp_consensus": 182.0,
+      "adp_consensus": 166.47,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB68",
-      "pos_rank_consensus": "RB65",
+      "pos_rank_consensus": "RB59",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 223.0
-        },
         {
           "date": "Jun 1",
           "adp": 224.0
@@ -28831,6 +28911,10 @@
         {
           "date": "Jun 30",
           "adp": 214.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.2
         }
       ]
     },
@@ -28840,7 +28924,7 @@
       "pos": "QB",
       "adp": 214.3,
       "adp_ud": 214.3,
-      "adp_consensus": 110.05,
+      "adp_consensus": 113.54,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -28848,10 +28932,6 @@
       "pos_rank_consensus": "QB29",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 213.0
-        },
         {
           "date": "Jun 1",
           "adp": 215.0
@@ -28967,6 +29047,10 @@
         {
           "date": "Jun 30",
           "adp": 214.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.3
         }
       ]
     },
@@ -28976,7 +29060,7 @@
       "pos": "WR",
       "adp": 214.5,
       "adp_ud": 214.5,
-      "adp_consensus": 36.92,
+      "adp_consensus": 36.9,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -28984,10 +29068,6 @@
       "pos_rank_consensus": "WR21",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 203.0
-        },
         {
           "date": "Jun 1",
           "adp": 203.0
@@ -29103,6 +29183,10 @@
         {
           "date": "Jun 30",
           "adp": 214.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.5
         }
       ]
     },
@@ -29112,7 +29196,7 @@
       "pos": "RB",
       "adp": 214.5,
       "adp_ud": 214.5,
-      "adp_consensus": 35.82,
+      "adp_consensus": 36.58,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -29120,10 +29204,6 @@
       "pos_rank_consensus": "RB15",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 221.0
-        },
         {
           "date": "Jun 1",
           "adp": 222.0
@@ -29239,6 +29319,10 @@
         {
           "date": "Jun 30",
           "adp": 214.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.5
         }
       ]
     },
@@ -29256,10 +29340,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 243.0
-        },
         {
           "date": "Jun 1",
           "adp": 240.0
@@ -29375,6 +29455,10 @@
         {
           "date": "Jun 30",
           "adp": 214.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.7
         }
       ]
     },
@@ -29392,10 +29476,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 238.0
-        },
         {
           "date": "Jun 1",
           "adp": 237.0
@@ -29511,6 +29591,10 @@
         {
           "date": "Jun 30",
           "adp": 214.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.7
         }
       ]
     },
@@ -29528,10 +29612,6 @@
       "pos_rank_consensus": "TE32",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 252.0
-        },
         {
           "date": "Jun 1",
           "adp": 250.0
@@ -29647,6 +29727,10 @@
         {
           "date": "Jun 30",
           "adp": 214.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.7
         }
       ]
     },
@@ -29656,12 +29740,12 @@
       "pos": "QB",
       "adp": 214.7,
       "adp_ud": 214.7,
-      "adp_consensus": 158.92,
+      "adp_consensus": 152.67,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB34",
-      "pos_rank_consensus": "QB34",
+      "pos_rank_consensus": "QB33",
       "pos_rank_sleeper": null,
       "history": [
         {
@@ -29678,6 +29762,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 214.7
+        },
+        {
+          "date": "Jul 1",
           "adp": 214.7
         }
       ]
@@ -29696,10 +29784,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 244.0
-        },
         {
           "date": "Jun 1",
           "adp": 245.0
@@ -29815,6 +29899,10 @@
         {
           "date": "Jun 30",
           "adp": 214.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 214.9
         }
       ]
     },
@@ -29832,10 +29920,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 245.0
-        },
         {
           "date": "Jun 1",
           "adp": 244.0
@@ -29951,6 +30035,10 @@
         {
           "date": "Jun 30",
           "adp": 215.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.0
         }
       ]
     },
@@ -29960,18 +30048,14 @@
       "pos": "RB",
       "adp": 215.0,
       "adp_ud": 215.0,
-      "adp_consensus": null,
+      "adp_consensus": 192.31,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB71",
-      "pos_rank_consensus": null,
+      "pos_rank_consensus": "RB68",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 222.0
-        },
         {
           "date": "Jun 1",
           "adp": 221.0
@@ -30087,6 +30171,10 @@
         {
           "date": "Jun 30",
           "adp": 215.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.0
         }
       ]
     },
@@ -30096,7 +30184,7 @@
       "pos": "WR",
       "adp": 215.1,
       "adp_ud": 215.1,
-      "adp_consensus": 45.4,
+      "adp_consensus": 45.7,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -30104,10 +30192,6 @@
       "pos_rank_consensus": "WR31",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 235.0
-        },
         {
           "date": "Jun 1",
           "adp": 235.0
@@ -30223,6 +30307,10 @@
         {
           "date": "Jun 30",
           "adp": 215.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.1
         }
       ]
     },
@@ -30240,10 +30328,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 242.0
-        },
         {
           "date": "Jun 1",
           "adp": 241.0
@@ -30359,6 +30443,10 @@
         {
           "date": "Jun 30",
           "adp": 215.1
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.1
         }
       ]
     },
@@ -30368,7 +30456,7 @@
       "pos": "WR",
       "adp": 215.2,
       "adp_ud": 215.2,
-      "adp_consensus": 44.77,
+      "adp_consensus": 44.97,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -30376,10 +30464,6 @@
       "pos_rank_consensus": "WR30",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 254.0
-        },
         {
           "date": "Jun 1",
           "adp": 251.0
@@ -30495,6 +30579,10 @@
         {
           "date": "Jun 30",
           "adp": 215.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.2
         }
       ]
     },
@@ -30512,10 +30600,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 253.0
-        },
         {
           "date": "Jun 1",
           "adp": 254.0
@@ -30631,6 +30715,10 @@
         {
           "date": "Jun 30",
           "adp": 215.2
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.2
         }
       ]
     },
@@ -30640,18 +30728,14 @@
       "pos": "TE",
       "adp": 215.3,
       "adp_ud": 215.3,
-      "adp_consensus": 167.31,
+      "adp_consensus": 169.57,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE37",
-      "pos_rank_consensus": "TE29",
+      "pos_rank_consensus": "TE30",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 220.0
-        },
         {
           "date": "Jun 1",
           "adp": 220.0
@@ -30767,6 +30851,10 @@
         {
           "date": "Jun 30",
           "adp": 215.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.3
         }
       ]
     },
@@ -30784,10 +30872,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 263.0
-        },
         {
           "date": "Jun 1",
           "adp": 264.0
@@ -30903,6 +30987,10 @@
         {
           "date": "Jun 30",
           "adp": 215.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.3
         }
       ]
     },
@@ -30912,7 +31000,7 @@
       "pos": "WR",
       "adp": 215.3,
       "adp_ud": 215.3,
-      "adp_consensus": 41.66,
+      "adp_consensus": 41.78,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -30920,10 +31008,6 @@
       "pos_rank_consensus": "WR26",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 232.0
-        },
         {
           "date": "Jun 1",
           "adp": 232.0
@@ -31039,6 +31123,10 @@
         {
           "date": "Jun 30",
           "adp": 215.3
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.3
         }
       ]
     },
@@ -31056,10 +31144,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 191.0
-        },
         {
           "date": "Jun 1",
           "adp": 192.0
@@ -31175,6 +31259,10 @@
         {
           "date": "Jun 30",
           "adp": 215.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.4
         }
       ]
     },
@@ -31192,10 +31280,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 247.0
-        },
         {
           "date": "Jun 1",
           "adp": 252.0
@@ -31311,6 +31395,10 @@
         {
           "date": "Jun 30",
           "adp": 215.4
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.4
         }
       ]
     },
@@ -31328,10 +31416,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 249.0
-        },
         {
           "date": "Jun 1",
           "adp": 249.0
@@ -31447,6 +31531,10 @@
         {
           "date": "Jun 30",
           "adp": 215.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.5
         }
       ]
     },
@@ -31464,10 +31552,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 299.0
-        },
         {
           "date": "Jun 1",
           "adp": 295.0
@@ -31583,6 +31667,10 @@
         {
           "date": "Jun 30",
           "adp": 215.5
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.5
         }
       ]
     },
@@ -31592,7 +31680,7 @@
       "pos": "QB",
       "adp": 215.6,
       "adp_ud": 215.6,
-      "adp_consensus": 165.33,
+      "adp_consensus": 172.0,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -31600,10 +31688,6 @@
       "pos_rank_consensus": "QB35",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 240.0
-        },
         {
           "date": "Jun 1",
           "adp": 242.0
@@ -31719,6 +31803,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -31736,10 +31824,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 248.0
-        },
         {
           "date": "Jun 1",
           "adp": 248.0
@@ -31855,6 +31939,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -31872,10 +31960,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 246.0
-        },
         {
           "date": "Jun 1",
           "adp": 246.0
@@ -31991,6 +32075,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -32008,10 +32096,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 275.0
-        },
         {
           "date": "Jun 1",
           "adp": 271.0
@@ -32127,6 +32211,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -32144,10 +32232,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 236.0
-        },
         {
           "date": "Jun 1",
           "adp": 234.0
@@ -32263,6 +32347,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -32272,18 +32360,14 @@
       "pos": "QB",
       "adp": 215.6,
       "adp_ud": 215.6,
-      "adp_consensus": 41.37,
+      "adp_consensus": 42.31,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "QB36",
-      "pos_rank_consensus": "QB14",
+      "pos_rank_consensus": "QB15",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 241.0
-        },
         {
           "date": "Jun 1",
           "adp": 243.0
@@ -32399,6 +32483,10 @@
         {
           "date": "Jun 30",
           "adp": 215.6
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.6
         }
       ]
     },
@@ -32416,10 +32504,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 267.0
-        },
         {
           "date": "Jun 1",
           "adp": 268.0
@@ -32535,6 +32619,10 @@
         {
           "date": "Jun 30",
           "adp": 215.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.7
         }
       ]
     },
@@ -32567,6 +32655,10 @@
         {
           "date": "Jun 30",
           "adp": 215.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.7
         }
       ]
     },
@@ -32584,10 +32676,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 274.0
-        },
         {
           "date": "Jun 1",
           "adp": 266.0
@@ -32703,6 +32791,10 @@
         {
           "date": "Jun 30",
           "adp": 215.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.7
         }
       ]
     },
@@ -32712,7 +32804,7 @@
       "pos": "WR",
       "adp": 215.7,
       "adp_ud": 215.7,
-      "adp_consensus": 49.06,
+      "adp_consensus": 49.33,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -32720,10 +32812,6 @@
       "pos_rank_consensus": "WR34",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 251.0
-        },
         {
           "date": "Jun 1",
           "adp": 255.0
@@ -32839,6 +32927,10 @@
         {
           "date": "Jun 30",
           "adp": 215.7
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.7
         }
       ]
     },
@@ -32856,10 +32948,6 @@
       "pos_rank_consensus": "TE33",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 257.0
-        },
         {
           "date": "Jun 1",
           "adp": 263.0
@@ -32975,6 +33063,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -32984,18 +33076,14 @@
       "pos": "TE",
       "adp": 215.8,
       "adp_ud": 215.8,
-      "adp_consensus": 40.32,
+      "adp_consensus": 40.25,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "TE41",
-      "pos_rank_consensus": "TE7",
+      "pos_rank_consensus": "TE6",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 266.0
-        },
         {
           "date": "Jun 1",
           "adp": 269.0
@@ -33111,6 +33199,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33143,6 +33235,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33152,18 +33248,14 @@
       "pos": "RB",
       "adp": 215.8,
       "adp_ud": 215.8,
-      "adp_consensus": 113.52,
+      "adp_consensus": 124.24,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB78",
-      "pos_rank_consensus": "RB40",
+      "pos_rank_consensus": "RB44",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 262.0
-        },
         {
           "date": "Jun 1",
           "adp": 257.0
@@ -33279,6 +33371,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33296,10 +33392,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 271.0
-        },
         {
           "date": "Jun 1",
           "adp": 274.0
@@ -33415,6 +33507,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33507,6 +33603,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33524,10 +33624,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 250.0
-        },
         {
           "date": "Jun 1",
           "adp": 247.0
@@ -33643,6 +33739,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33652,7 +33752,7 @@
       "pos": "WR",
       "adp": 215.8,
       "adp_ud": 215.8,
-      "adp_consensus": 53.54,
+      "adp_consensus": 53.92,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -33660,10 +33760,6 @@
       "pos_rank_consensus": "WR39",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 259.0
-        },
         {
           "date": "Jun 1",
           "adp": 259.0
@@ -33779,6 +33875,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33788,7 +33888,7 @@
       "pos": "RB",
       "adp": 215.8,
       "adp_ud": 215.8,
-      "adp_consensus": 45.85,
+      "adp_consensus": 45.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -33796,10 +33896,6 @@
       "pos_rank_consensus": "RB22",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 255.0
-        },
         {
           "date": "Jun 1",
           "adp": 253.0
@@ -33915,6 +34011,10 @@
         {
           "date": "Jun 30",
           "adp": 215.8
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.8
         }
       ]
     },
@@ -33932,10 +34032,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 270.0
-        },
         {
           "date": "Jun 1",
           "adp": 265.0
@@ -34051,6 +34147,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34068,10 +34168,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 280.0
-        },
         {
           "date": "Jun 1",
           "adp": 277.0
@@ -34187,6 +34283,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34204,10 +34304,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 272.0
-        },
         {
           "date": "Jun 1",
           "adp": 278.0
@@ -34323,6 +34419,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34332,18 +34432,14 @@
       "pos": "RB",
       "adp": 215.9,
       "adp_ud": 215.9,
-      "adp_consensus": 76.5,
+      "adp_consensus": 87.32,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
       "pos_rank_ud": "RB81",
-      "pos_rank_consensus": "RB33",
+      "pos_rank_consensus": "RB35",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 217.0
-        },
         {
           "date": "Jun 1",
           "adp": 218.0
@@ -34459,6 +34555,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34476,10 +34576,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 345.0
-        },
         {
           "date": "Jun 1",
           "adp": 359.0
@@ -34595,6 +34691,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34612,10 +34712,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 281.0
-        },
         {
           "date": "Jun 1",
           "adp": 281.0
@@ -34731,6 +34827,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34748,10 +34848,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 286.0
-        },
         {
           "date": "Jun 1",
           "adp": 300.0
@@ -34867,6 +34963,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -34884,10 +34984,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 261.0
-        },
         {
           "date": "Jun 1",
           "adp": 262.0
@@ -35003,6 +35099,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35012,7 +35112,7 @@
       "pos": "WR",
       "adp": 215.9,
       "adp_ud": 215.9,
-      "adp_consensus": 50.82,
+      "adp_consensus": 51.16,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -35020,10 +35120,6 @@
       "pos_rank_consensus": "WR35",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 276.0
-        },
         {
           "date": "Jun 1",
           "adp": 279.0
@@ -35139,6 +35235,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35156,10 +35256,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 287.0
-        },
         {
           "date": "Jun 1",
           "adp": 286.0
@@ -35275,6 +35371,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35292,10 +35392,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 269.0
-        },
         {
           "date": "Jun 1",
           "adp": 267.0
@@ -35411,6 +35507,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35428,10 +35528,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 296.0
-        },
         {
           "date": "Jun 1",
           "adp": 294.0
@@ -35547,6 +35643,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35564,10 +35664,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 303.0
-        },
         {
           "date": "Jun 1",
           "adp": 297.0
@@ -35683,6 +35779,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35700,10 +35800,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 256.0
-        },
         {
           "date": "Jun 1",
           "adp": 256.0
@@ -35819,6 +35915,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35836,10 +35936,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 278.0
-        },
         {
           "date": "Jun 1",
           "adp": 273.0
@@ -35955,6 +36051,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -35987,6 +36087,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36004,10 +36108,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 293.0
-        },
         {
           "date": "Jun 1",
           "adp": 296.0
@@ -36123,6 +36223,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36132,7 +36236,7 @@
       "pos": "TE",
       "adp": 215.9,
       "adp_ud": 215.9,
-      "adp_consensus": 40.35,
+      "adp_consensus": 41.98,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -36140,10 +36244,6 @@
       "pos_rank_consensus": "TE8",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 260.0
-        },
         {
           "date": "Jun 1",
           "adp": 258.0
@@ -36259,6 +36359,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36286,6 +36390,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
           "adp": 215.9
         }
       ]
@@ -36315,6 +36423,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36339,6 +36451,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36348,7 +36464,7 @@
       "pos": "TE",
       "adp": 215.9,
       "adp_ud": 215.9,
-      "adp_consensus": 47.62,
+      "adp_consensus": 49.18,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -36356,10 +36472,6 @@
       "pos_rank_consensus": "TE9",
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 258.0
-        },
         {
           "date": "Jun 1",
           "adp": 260.0
@@ -36475,6 +36587,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36492,10 +36608,6 @@
       "pos_rank_consensus": null,
       "pos_rank_sleeper": null,
       "history": [
-        {
-          "date": "May 31",
-          "adp": 285.0
-        },
         {
           "date": "Jun 1",
           "adp": 276.0
@@ -36611,6 +36723,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36643,6 +36759,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36670,6 +36790,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
           "adp": 215.9
         }
       ]
@@ -36699,6 +36823,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36727,6 +36855,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36750,6 +36882,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
           "adp": 215.9
         }
       ]
@@ -36775,6 +36911,10 @@
         {
           "date": "Jun 30",
           "adp": 215.9
+        },
+        {
+          "date": "Jul 1",
+          "adp": 215.9
         }
       ]
     },
@@ -36799,6 +36939,10 @@
         {
           "date": "Jun 30",
           "adp": 216.0
+        },
+        {
+          "date": "Jul 1",
+          "adp": 216.0
         }
       ]
     },
@@ -36808,7 +36952,7 @@
       "pos": "WR",
       "adp": 216.0,
       "adp_ud": 216.0,
-      "adp_consensus": 58.55,
+      "adp_consensus": 58.73,
       "adp_sleeper": null,
       "adp_espn": null,
       "adp_yahoo": null,
@@ -36822,6 +36966,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 216.0
+        },
+        {
+          "date": "Jul 1",
           "adp": 216.0
         }
       ]
@@ -36850,6 +36998,10 @@
         },
         {
           "date": "Jun 30",
+          "adp": 216.0
+        },
+        {
+          "date": "Jul 1",
           "adp": 216.0
         }
       ]
