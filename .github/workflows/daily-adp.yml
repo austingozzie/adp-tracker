@@ -1,7 +1,7 @@
 name: Daily ADP Update
 
 on:
-  schedule:
+#  schedule:
 #    - cron: "0 12 * * *"
   workflow_dispatch:
 
